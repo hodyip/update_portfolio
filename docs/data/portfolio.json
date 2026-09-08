@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:55:03+08:00",
-  "generated_at_utc": "2026-09-08T10:55:03+00:00",
+  "generated_at": "2026-09-09T01:20:59+08:00",
+  "generated_at_utc": "2026-09-08T17:20:59+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-08T18:55:03+08:00",
-      "invested_pct": 90.0439939,
-      "cash_pct": 9.956006099999996,
-      "weighted_return_pct": 0.591798978969435,
-      "position_count": 4,
+      "updated_at": "2026-09-09T01:20:58+08:00",
+      "invested_pct": 99.4644461,
+      "cash_pct": 0.5355538999999965,
+      "weighted_return_pct": 1.9565113893989878,
+      "position_count": 5,
       "positions": [
         {
-          "code": "BRK.B",
-          "name": "Berkshire Hathaway-B",
-          "market": "US",
-          "weight_pct": 29.697656099999996,
-          "cost_price": 507.737874491,
-          "current_price": 506.03,
-          "return_pct": -0.3363693
-        },
-        {
-          "code": "GLD",
-          "name": "SPDR Gold ETF",
-          "market": "US",
-          "weight_pct": 20.4202546,
-          "cost_price": 399.330273613,
-          "current_price": 406.77,
-          "return_pct": 1.8630509
-        },
-        {
           "code": "EWZ",
-          "name": "iShares MSCI Brazil ETF",
+          "name": "MSCI巴西指數ETF-iShares",
           "market": "US",
-          "weight_pct": 19.964992600000002,
-          "cost_price": 37.99,
-          "current_price": 37.86,
-          "return_pct": -0.34219530000000004
+          "weight_pct": 27.504679399999997,
+          "cost_price": 38.263505523,
+          "current_price": 38.61,
+          "return_pct": 0.9055482
+        },
+        {
+          "code": "INTC",
+          "name": "英特爾",
+          "market": "US",
+          "weight_pct": 24.3426003,
+          "cost_price": 101.757541603,
+          "current_price": 105.86,
+          "return_pct": 4.0316013
         },
         {
           "code": "XLE",
-          "name": "Energy Select Sector SPDR Fund",
+          "name": "能源指數ETF-SPDR",
           "market": "US",
-          "weight_pct": 19.961090600000002,
-          "cost_price": 63.047216429,
-          "current_price": 64.06,
-          "return_pct": 1.606389
+          "weight_pct": 19.7751795,
+          "cost_price": 63.045763859,
+          "current_price": 64.375,
+          "return_pct": 2.1083670999999997
+        },
+        {
+          "code": "TWST",
+          "name": "Twist Bioscience",
+          "market": "US",
+          "weight_pct": 14.6277489,
+          "cost_price": 127.65,
+          "current_price": 131.24,
+          "return_pct": 2.8123776
+        },
+        {
+          "code": "OKLO",
+          "name": "Oklo Inc",
+          "market": "US",
+          "weight_pct": 13.214238,
+          "cost_price": 44.560216546,
+          "current_price": 44.18,
+          "return_pct": -0.8532645999999999
         }
       ],
       "by_market": [
         {
-          "name": "US",
-          "weight_pct": 90.0439939
+          "name": "美股",
+          "weight_pct": 99.4644461
         }
       ],
       "by_industry": [
         {
-          "name": "Others",
-          "weight_pct": 60.34633780000001
+          "name": "其他",
+          "weight_pct": 47.2798589
         },
         {
-          "name": "Non-Bank Financials",
-          "weight_pct": 29.697656099999996
+          "name": "電子",
+          "weight_pct": 24.3426003
+        },
+        {
+          "name": "醫藥生物",
+          "weight_pct": 14.6277489
+        },
+        {
+          "name": "公用事業",
+          "weight_pct": 13.214238
         }
       ]
     },
@@ -76,71 +93,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-08T18:55:03+08:00",
-      "invested_pct": 99.9401723,
-      "cash_pct": 0.059827699999999595,
-      "weighted_return_pct": 0.299809042590545,
+      "updated_at": "2026-09-09T01:20:59+08:00",
+      "invested_pct": 99.9712433,
+      "cash_pct": 0.02875670000000241,
+      "weighted_return_pct": 5.644699900402328,
       "position_count": 4,
       "positions": [
+        {
+          "code": "OKLO",
+          "name": "Oklo Inc",
+          "market": "US",
+          "weight_pct": 38.5668214,
+          "cost_price": 44.090272608,
+          "current_price": 44.18,
+          "return_pct": 0.2035084
+        },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 30.7029082,
-          "cost_price": 246.395,
-          "current_price": 252.87,
-          "return_pct": 2.6278942
+          "weight_pct": 32.2846992,
+          "cost_price": 246.362296651,
+          "current_price": 282.35,
+          "return_pct": 14.607634299999999
         },
         {
-          "code": "CF",
-          "name": "CF工業控股",
+          "code": "TWST",
+          "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 29.7518388,
-          "cost_price": 134.44007105,
-          "current_price": 133.35,
-          "return_pct": -0.810823
+          "weight_pct": 15.475085799999999,
+          "cost_price": 126.31,
+          "current_price": 131.24,
+          "return_pct": 3.9030956
         },
         {
-          "code": "VG",
-          "name": "Venture Global",
+          "code": "TXG",
+          "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 19.7481654,
-          "cost_price": 14.599962616,
-          "current_price": 14.42,
-          "return_pct": -1.2326238
-        },
-        {
-          "code": "EWZ",
-          "name": "MSCI巴西指數ETF-iShares",
-          "market": "US",
-          "weight_pct": 19.7372599,
-          "cost_price": 37.903314355,
-          "current_price": 37.86,
-          "return_pct": -0.11427589999999999
+          "weight_pct": 13.644636900000002,
+          "cost_price": 64.61,
+          "current_price": 65.768,
+          "return_pct": 1.7922922000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9401723
+          "weight_pct": 99.9712433
         }
       ],
       "by_industry": [
         {
+          "name": "公用事業",
+          "weight_pct": 38.5668214
+        },
+        {
           "name": "機械設備",
-          "weight_pct": 30.7029082
+          "weight_pct": 32.2846992
         },
         {
-          "name": "農林牧漁",
-          "weight_pct": 29.7518388
-        },
-        {
-          "name": "採掘",
-          "weight_pct": 19.7481654
-        },
-        {
-          "name": "其他",
-          "weight_pct": 19.7372599
+          "name": "醫藥生物",
+          "weight_pct": 29.1197227
         }
       ]
     }
