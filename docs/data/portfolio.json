@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T01:20:59+08:00",
-  "generated_at_utc": "2026-09-08T17:20:59+00:00",
+  "generated_at": "2026-09-09T04:06:54+08:00",
+  "generated_at_utc": "2026-09-08T20:06:54+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,17 +10,17 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-09T01:20:58+08:00",
-      "invested_pct": 99.4644461,
-      "cash_pct": 0.5355538999999965,
-      "weighted_return_pct": 1.9565113893989878,
+      "updated_at": "2026-09-09T04:06:53+08:00",
+      "invested_pct": 99.46005659999999,
+      "cash_pct": 0.5399434000000127,
+      "weighted_return_pct": 1.1312266373251258,
       "position_count": 5,
       "positions": [
         {
           "code": "EWZ",
           "name": "MSCI巴西指數ETF-iShares",
           "market": "US",
-          "weight_pct": 27.504679399999997,
+          "weight_pct": 27.7301103,
           "cost_price": 38.263505523,
           "current_price": 38.61,
           "return_pct": 0.9055482
@@ -29,61 +29,61 @@
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 24.3426003,
+          "weight_pct": 24.219863,
           "cost_price": 101.757541603,
-          "current_price": 105.86,
-          "return_pct": 4.0316013
+          "current_price": 104.47,
+          "return_pct": 2.6656092
         },
         {
           "code": "XLE",
           "name": "能源指數ETF-SPDR",
           "market": "US",
-          "weight_pct": 19.7751795,
+          "weight_pct": 20.0595922,
           "cost_price": 63.045763859,
-          "current_price": 64.375,
-          "return_pct": 2.1083670999999997
+          "current_price": 64.77,
+          "return_pct": 2.7348961000000003
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 14.6277489,
+          "weight_pct": 14.390297799999999,
           "cost_price": 127.65,
-          "current_price": 131.24,
-          "return_pct": 2.8123776
+          "current_price": 128.06,
+          "return_pct": 0.3211908
         },
         {
           "code": "OKLO",
           "name": "Oklo Inc",
           "market": "US",
-          "weight_pct": 13.214238,
+          "weight_pct": 13.0601933,
           "cost_price": 44.560216546,
-          "current_price": 44.18,
-          "return_pct": -0.8532645999999999
+          "current_price": 43.31,
+          "return_pct": -2.8056788
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4644461
+          "weight_pct": 99.4600566
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 47.2798589
+          "weight_pct": 47.7897025
         },
         {
           "name": "電子",
-          "weight_pct": 24.3426003
+          "weight_pct": 24.219863
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 14.6277489
+          "weight_pct": 14.390297799999999
         },
         {
           "name": "公用事業",
-          "weight_pct": 13.214238
+          "weight_pct": 13.0601933
         }
       ]
     },
@@ -93,67 +93,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-09T01:20:59+08:00",
-      "invested_pct": 99.9712433,
-      "cash_pct": 0.02875670000000241,
-      "weighted_return_pct": 5.644699900402328,
+      "updated_at": "2026-09-09T04:06:54+08:00",
+      "invested_pct": 99.9707292,
+      "cash_pct": 0.029270800000006147,
+      "weighted_return_pct": 3.7865361783043077,
       "position_count": 4,
       "positions": [
         {
           "code": "OKLO",
           "name": "Oklo Inc",
           "market": "US",
-          "weight_pct": 38.5668214,
+          "weight_pct": 38.4830678,
           "cost_price": 44.090272608,
-          "current_price": 44.18,
-          "return_pct": 0.2035084
+          "current_price": 43.31,
+          "return_pct": -1.769716
         },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 32.2846992,
+          "weight_pct": 32.2646441,
           "cost_price": 246.362296651,
-          "current_price": 282.35,
-          "return_pct": 14.607634299999999
+          "current_price": 277.22,
+          "return_pct": 12.5253352
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 15.475085799999999,
+          "weight_pct": 15.369994400000001,
           "cost_price": 126.31,
-          "current_price": 131.24,
-          "return_pct": 3.9030956
+          "current_price": 128.06,
+          "return_pct": 1.3854802
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 13.644636900000002,
+          "weight_pct": 13.853022900000001,
           "cost_price": 64.61,
-          "current_price": 65.768,
-          "return_pct": 1.7922922000000001
+          "current_price": 65.6,
+          "return_pct": 1.5322705
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9712433
+          "weight_pct": 99.9707292
         }
       ],
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 38.5668214
+          "weight_pct": 38.4830678
         },
         {
           "name": "機械設備",
-          "weight_pct": 32.2846992
+          "weight_pct": 32.2646441
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 29.1197227
+          "weight_pct": 29.2230173
         }
       ]
     }
