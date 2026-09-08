@@ -1,68 +1,89 @@
 {
-  "updated_at": "2026-09-08T15:12:58+08:00",
-  "updated_at_utc": "2026-09-08T07:12:58+00:00",
+  "generated_at": "2026-09-08T17:01:43+08:00",
+  "generated_at_utc": "2026-09-08T09:01:43+00:00",
   "timezone_label": "HKT",
-  "invested_pct": 90.0421186,
-  "cash_pct": 9.957881400000005,
-  "weighted_return_pct": 0.591798978951532,
-  "position_count": 4,
-  "positions": [
+  "stale_hours": 3.0,
+  "portfolios": [
     {
-      "code": "BRK.B",
-      "name": "Berkshire Hathaway-B",
-      "market": "US",
-      "weight_pct": 29.697037599999998,
-      "pending_pct": 0.0,
-      "cost_price": 507.737874491,
-      "current_price": 506.03,
-      "return_pct": -0.3363693
+      "key": "main",
+      "label": "主組合",
+      "ok": true,
+      "error": null,
+      "stale": false,
+      "updated_at": "2026-09-08T17:01:43+08:00",
+      "invested_pct": 90.0421186,
+      "cash_pct": 9.957881400000005,
+      "weighted_return_pct": 0.591798978951532,
+      "position_count": 4,
+      "positions": [
+        {
+          "code": "BRK.B",
+          "name": "Berkshire Hathaway-B",
+          "market": "US",
+          "weight_pct": 29.697037599999998,
+          "cost_price": 507.737874491,
+          "current_price": 506.03,
+          "return_pct": -0.3363693
+        },
+        {
+          "code": "GLD",
+          "name": "SPDR Gold ETF",
+          "market": "US",
+          "weight_pct": 20.4198293,
+          "cost_price": 399.330273613,
+          "current_price": 406.77,
+          "return_pct": 1.8630509
+        },
+        {
+          "code": "EWZ",
+          "name": "iShares MSCI Brazil ETF",
+          "market": "US",
+          "weight_pct": 19.9645768,
+          "cost_price": 37.99,
+          "current_price": 37.86,
+          "return_pct": -0.34219530000000004
+        },
+        {
+          "code": "XLE",
+          "name": "Energy Select Sector SPDR Fund",
+          "market": "US",
+          "weight_pct": 19.9606749,
+          "cost_price": 63.047216429,
+          "current_price": 64.06,
+          "return_pct": 1.606389
+        }
+      ],
+      "by_market": [
+        {
+          "name": "US",
+          "weight_pct": 90.0421186
+        }
+      ],
+      "by_industry": [
+        {
+          "name": "Others",
+          "weight_pct": 60.345081
+        },
+        {
+          "name": "Non-Bank Financials",
+          "weight_pct": 29.697037599999998
+        }
+      ]
     },
     {
-      "code": "GLD",
-      "name": "SPDR Gold ETF",
-      "market": "US",
-      "weight_pct": 20.4198293,
-      "pending_pct": 0.0,
-      "cost_price": 399.330273613,
-      "current_price": 406.77,
-      "return_pct": 1.8630509
-    },
-    {
-      "code": "EWZ",
-      "name": "iShares MSCI Brazil ETF",
-      "market": "US",
-      "weight_pct": 19.9645768,
-      "pending_pct": 0.0,
-      "cost_price": 37.99,
-      "current_price": 37.86,
-      "return_pct": -0.34219530000000004
-    },
-    {
-      "code": "XLE",
-      "name": "Energy Select Sector SPDR Fund",
-      "market": "US",
-      "weight_pct": 19.9606749,
-      "pending_pct": 0.0,
-      "cost_price": 63.047216429,
-      "current_price": 64.06,
-      "return_pct": 1.606389
+      "key": "second",
+      "label": "第二組合",
+      "ok": false,
+      "stale": true,
+      "error": "組合 'second' 搵唔到來源 URL。請設定環境變數 PORTFOLIO_SOURCE_URL_2（GitHub Secret），或喺本機測試時填 PARAM_LOCAL_URLS['second']。",
+      "updated_at": null,
+      "invested_pct": null,
+      "cash_pct": null,
+      "weighted_return_pct": null,
+      "position_count": 0,
+      "positions": [],
+      "by_market": [],
+      "by_industry": []
     }
-  ],
-  "by_market": [
-    {
-      "name": "US",
-      "weight_pct": 90.0421186
-    }
-  ],
-  "by_industry": [
-    {
-      "name": "Others",
-      "weight_pct": 60.345081
-    },
-    {
-      "name": "Non-Bank Financials",
-      "weight_pct": 29.697037599999998
-    }
-  ],
-  "show_cash_row": true
+  ]
 }
