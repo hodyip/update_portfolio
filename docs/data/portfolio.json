@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-09-08T14:42:31+08:00",
+  "updated_at_utc": "2026-09-08T06:42:31+00:00",
+  "timezone_label": "HKT",
+  "invested_pct": 90.0421186,
+  "cash_pct": 9.957881400000005,
+  "weighted_return_pct": 0.591798978951532,
+  "position_count": 4,
+  "positions": [
+    {
+      "code": "BRK.B",
+      "name": "Berkshire Hathaway-B",
+      "market": "US",
+      "weight_pct": 29.697037599999998,
+      "pending_pct": 0.0,
+      "cost_price": 507.737874491,
+      "current_price": 506.03,
+      "return_pct": -0.3363693
+    },
+    {
+      "code": "GLD",
+      "name": "SPDR Gold ETF",
+      "market": "US",
+      "weight_pct": 20.4198293,
+      "pending_pct": 0.0,
+      "cost_price": 399.330273613,
+      "current_price": 406.77,
+      "return_pct": 1.8630509
+    },
+    {
+      "code": "EWZ",
+      "name": "iShares MSCI Brazil ETF",
+      "market": "US",
+      "weight_pct": 19.9645768,
+      "pending_pct": 0.0,
+      "cost_price": 37.99,
+      "current_price": 37.86,
+      "return_pct": -0.34219530000000004
+    },
+    {
+      "code": "XLE",
+      "name": "Energy Select Sector SPDR Fund",
+      "market": "US",
+      "weight_pct": 19.9606749,
+      "pending_pct": 0.0,
+      "cost_price": 63.047216429,
+      "current_price": 64.06,
+      "return_pct": 1.606389
+    }
+  ],
+  "by_market": [
+    {
+      "name": "US",
+      "weight_pct": 90.0421186
+    }
+  ],
+  "by_industry": [
+    {
+      "name": "Others",
+      "weight_pct": 60.345081
+    },
+    {
+      "name": "Non-Bank Financials",
+      "weight_pct": 29.697037599999998
+    }
+  ],
+  "show_cash_row": true
+}
