@@ -2,7 +2,7 @@ name: Update portfolio
 
 on:
   schedule:
-    - cron: "30 13-20 * * 1-5"
+    - cron: "17 13-20 * * 1-5"
   workflow_dispatch:
 
 permissions:
