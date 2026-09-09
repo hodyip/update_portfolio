@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:54:34+08:00",
-  "generated_at_utc": "2026-09-08T22:54:34+00:00",
+  "generated_at": "2026-09-09T14:38:17+08:00",
+  "generated_at_utc": "2026-09-09T06:38:17+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,7 +10,7 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-09T06:54:33+08:00",
+      "updated_at": "2026-09-09T14:38:16+08:00",
       "invested_pct": 99.4600419,
       "cash_pct": 0.5399581000000069,
       "weighted_return_pct": 1.1312266350296472,
@@ -93,7 +93,7 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-09T06:54:34+08:00",
+      "updated_at": "2026-09-09T14:38:17+08:00",
       "invested_pct": 99.9707288,
       "cash_pct": 0.02927119999999661,
       "weighted_return_pct": 3.786536183080467,
