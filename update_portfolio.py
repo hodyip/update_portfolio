@@ -70,17 +70,12 @@ PARAM_LOCAL_URLS: dict[str, str] = {
 # ======================================================================
 # 排程
 # ======================================================================
-# cron 一律用 UTC，GitHub Actions 唔支援時區設定，亦唔會處理美國夏令時轉換。
-# 現時設定 `5 13-21 * * 1-5`：週一至五 UTC 13:05 至 21:05 每小時一次，共 9 次。
-#   夏令時 (EDT, UTC-4)：對應美東 09:05–17:05，涵蓋 09:30 開市至 16:00 收市
-#   冬令時 (EST, UTC-5)：對應美東 08:05–16:05，同樣涵蓋整段 RTH
-# 改完之後喺本機 Run 一次，yml 會重新生成，再 commit 上去先會生效。
-#
-# 其他常用寫法：
-#   每小時（全日）      "5 * * * *"
-#   每 30 分鐘          "5,35 * * * *"
-#   每 4 小時           "5 */4 * * *"
-#   美股 RTH 每 30 分鐘 "5,35 13-21 * * 1-5"
+# 排程唔再由 GitHub 嘅 schedule cron 負責（實測會延遲甚至完全唔執行），
+# 改由 cron-job.org 定時 POST 去 GitHub API 觸發 workflow_dispatch：
+#   URL   https://api.github.com/repos/<user>/<repo>/actions/workflows/update-portfolio.yml/dispatches
+#   Body  {"ref":"main"}
+# 下面呢個值淨係留作參考，記錄你喺 cron-job.org 設定緊嘅時段，
+# 唔會再寫入 yml。UTC 13:30–20:30 週一至五 = 美東 09:30–16:30。
 PARAM_WORKFLOW_CRON: str = "5 13-21 * * 1-5"
 
 # ======================================================================
@@ -132,7 +127,7 @@ PARAM_PREVIEW_OPEN_BROWSER: bool = True
 PARAM_SELFTEST: bool = True
 PARAM_DRY_RUN: bool = False
 PARAM_FORCE_REWRITE_HTML: bool = True
-PARAM_FORCE_REWRITE_WORKFLOW: bool = True   # 本機執行時按上面嘅 cron 重寫 yml
+PARAM_FORCE_REWRITE_WORKFLOW: bool = False  # 排程已交俾 cron-job.org，唔好覆寫 yml
 
 # ======================================================================
 # 內建樣本（PARAM_SELFTEST 用）
@@ -471,6 +466,8 @@ INDEX_HTML = r"""<!doctype html>
   td{padding:8px; border-bottom:1px solid rgba(37,56,74,.5); white-space:nowrap}
   td.num,th.num{text-align:right}
   td.sym{font-weight:500}
+  .sname{display:block; color:var(--muted); font-size:11px; font-weight:400;
+         white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:150px}
   tbody tr:hover{background:var(--slate)}
   tbody tr.cash td{color:var(--muted)}
   .note{margin-top:30px; padding-top:18px; border-top:1px solid var(--line);
@@ -555,12 +552,14 @@ function buildColumn(p) {
 function fillTable(col, p) {
   const rows = p.positions || [];
   const head = col.querySelector("thead tr"), body = col.querySelector("tbody");
-  if (!rows.length) { body.innerHTML = `<tr><td colspan="4">暫時冇持倉</td></tr>`; return; }
+  if (!rows.length) { body.innerHTML = `<tr><td colspan="5">暫時冇持倉</td></tr>`; return; }
 
+  const px = v => fmt(v, Math.abs(v) < 1 ? 4 : 2);
   const cols = [
     {k: "code",          t: "代號", num: false},
     {k: "weight_pct",    t: "比重", num: true, fn: v => pc(v)},
-    {k: "current_price", t: "現價", num: true, fn: v => fmt(v, Math.abs(v) < 1 ? 4 : 2)},
+    {k: "cost_price",    t: "成本", num: true, fn: px},
+    {k: "current_price", t: "現價", num: true, fn: px},
     {k: "return_pct",    t: "回報", num: true, fn: v => sg(v), color: true},
   ];
   let sortCol = "weight_pct", sortDir = -1;
@@ -586,13 +585,18 @@ function fillTable(col, p) {
     body.innerHTML = "";
     data.forEach(r => {
       const tr = document.createElement("tr");
-      tr.title = `${r.name ?? ""}　${r.market ?? ""}　成本 ${fmt(r.cost_price)}`;
+      tr.title = `${r.name ?? ""}　${r.market ?? ""}`;
       cols.forEach(c => {
         const td = document.createElement("td");
         const v = r[c.k];
         if (c.num) td.classList.add("num");
-        if (c.k === "code") td.classList.add("sym");
-        td.textContent = (v === null || v === undefined) ? "—" : (c.fn ? c.fn(v) : v);
+        if (c.k === "code") {
+          td.classList.add("sym");
+          td.innerHTML = esc(v ?? "—") +
+            (r.name ? `<span class="sname" title="${esc(r.name)}">${esc(r.name)}</span>` : "");
+        } else {
+          td.textContent = (v === null || v === undefined) ? "—" : (c.fn ? c.fn(v) : v);
+        }
         if (c.color) td.classList.add(cls(v));
         tr.appendChild(td);
       });
@@ -603,7 +607,7 @@ function fillTable(col, p) {
       const tr = document.createElement("tr");
       tr.className = "cash";
       tr.innerHTML = `<td>現金</td><td class="num">${pc(p.cash_pct)}</td>` +
-                     `<td class="num">—</td><td class="num">—</td>`;
+                     `<td class="num">—</td><td class="num">—</td><td class="num">—</td>`;
       body.appendChild(tr);
     }
   };
@@ -684,9 +688,10 @@ def render_index_html() -> str:
 
 WORKFLOW_YML = """name: Update portfolio
 
+# 排程由外部服務（cron-job.org）透過 GitHub API 觸發 workflow_dispatch，
+# 唔再用 GitHub 自己嘅 schedule cron —— 實測延遲由 36 分鐘至 2 小時 23 分，
+# 而且八個時段只有三次真正執行。
 on:
-  schedule:
-    - cron: "__CRON__"
   workflow_dispatch:
 
 permissions:
@@ -727,7 +732,6 @@ def render_workflow() -> str:
         for c in PARAM_PORTFOLIOS
     )
     return (WORKFLOW_YML
-            .replace("__CRON__", PARAM_WORKFLOW_CRON)
             .replace("__ENVLINES__", env_lines)
             .replace("__SITEDIR__", PARAM_SITE_DIR))
 
@@ -857,7 +861,7 @@ def main() -> int:
         wf = root / ".github" / "workflows" / "update-portfolio.yml"
         if PARAM_FORCE_REWRITE_WORKFLOW or not wf.exists():
             write_text(wf, render_workflow())
-            log(f"workflow cron = '{PARAM_WORKFLOW_CRON}'（記得 commit 個 yml 先會生效）")
+            log("提示：呢個 yml 只有 workflow_dispatch，排程由 cron-job.org 觸發。")
 
     if len(fresh_keys) < len(PARAM_PORTFOLIOS):
         log(f"注意：{len(PARAM_PORTFOLIOS) - len(fresh_keys)} 個組合抓取失敗，"
