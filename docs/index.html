@@ -61,6 +61,8 @@
   td{padding:8px; border-bottom:1px solid rgba(37,56,74,.5); white-space:nowrap}
   td.num,th.num{text-align:right}
   td.sym{font-weight:500}
+  .sname{display:block; color:var(--muted); font-size:11px; font-weight:400;
+         white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:150px}
   tbody tr:hover{background:var(--slate)}
   tbody tr.cash td{color:var(--muted)}
   .note{margin-top:30px; padding-top:18px; border-top:1px solid var(--line);
@@ -145,12 +147,14 @@ function buildColumn(p) {
 function fillTable(col, p) {
   const rows = p.positions || [];
   const head = col.querySelector("thead tr"), body = col.querySelector("tbody");
-  if (!rows.length) { body.innerHTML = `<tr><td colspan="4">暫時冇持倉</td></tr>`; return; }
+  if (!rows.length) { body.innerHTML = `<tr><td colspan="5">暫時冇持倉</td></tr>`; return; }
 
+  const px = v => fmt(v, Math.abs(v) < 1 ? 4 : 2);
   const cols = [
     {k: "code",          t: "代號", num: false},
     {k: "weight_pct",    t: "比重", num: true, fn: v => pc(v)},
-    {k: "current_price", t: "現價", num: true, fn: v => fmt(v, Math.abs(v) < 1 ? 4 : 2)},
+    {k: "cost_price",    t: "成本", num: true, fn: px},
+    {k: "current_price", t: "現價", num: true, fn: px},
     {k: "return_pct",    t: "回報", num: true, fn: v => sg(v), color: true},
   ];
   let sortCol = "weight_pct", sortDir = -1;
@@ -176,13 +180,18 @@ function fillTable(col, p) {
     body.innerHTML = "";
     data.forEach(r => {
       const tr = document.createElement("tr");
-      tr.title = `${r.name ?? ""}　${r.market ?? ""}　成本 ${fmt(r.cost_price)}`;
+      tr.title = `${r.name ?? ""}　${r.market ?? ""}`;
       cols.forEach(c => {
         const td = document.createElement("td");
         const v = r[c.k];
         if (c.num) td.classList.add("num");
-        if (c.k === "code") td.classList.add("sym");
-        td.textContent = (v === null || v === undefined) ? "—" : (c.fn ? c.fn(v) : v);
+        if (c.k === "code") {
+          td.classList.add("sym");
+          td.innerHTML = esc(v ?? "—") +
+            (r.name ? `<span class="sname" title="${esc(r.name)}">${esc(r.name)}</span>` : "");
+        } else {
+          td.textContent = (v === null || v === undefined) ? "—" : (c.fn ? c.fn(v) : v);
+        }
         if (c.color) td.classList.add(cls(v));
         tr.appendChild(td);
       });
@@ -193,7 +202,7 @@ function fillTable(col, p) {
       const tr = document.createElement("tr");
       tr.className = "cash";
       tr.innerHTML = `<td>現金</td><td class="num">${pc(p.cash_pct)}</td>` +
-                     `<td class="num">—</td><td class="num">—</td>`;
+                     `<td class="num">—</td><td class="num">—</td><td class="num">—</td>`;
       body.appendChild(tr);
     }
   };
