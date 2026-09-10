@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T21:40:41+08:00",
-  "generated_at_utc": "2026-09-10T13:40:41+00:00",
+  "generated_at": "2026-09-10T22:41:17+08:00",
+  "generated_at_utc": "2026-09-10T14:41:17+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,93 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-10T21:40:41+08:00",
-      "invested_pct": 99.9823971,
-      "cash_pct": 0.017602899999999977,
-      "weighted_return_pct": -2.506997512551526,
-      "position_count": 6,
+      "updated_at": "2026-09-10T22:41:17+08:00",
+      "invested_pct": 82.3375453,
+      "cash_pct": 17.662454699999998,
+      "weighted_return_pct": 0.031754315703835176,
+      "position_count": 4,
       "positions": [
         {
           "code": "EWZ",
           "name": "MSCI巴西指數ETF-iShares",
           "market": "US",
-          "weight_pct": 27.934924900000002,
-          "cost_price": 38.263538579,
-          "current_price": 37.785,
-          "return_pct": -1.2506386
+          "weight_pct": 28.2484493,
+          "cost_price": 38.263567236,
+          "current_price": 38.39,
+          "return_pct": 0.330426
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 24.3638574,
-          "cost_price": 101.754461252,
-          "current_price": 102.285,
-          "return_pct": 0.5213911
-        },
-        {
-          "code": "TWST",
-          "name": "Twist Bioscience",
-          "market": "US",
-          "weight_pct": 14.159956200000002,
-          "cost_price": 127.648460067,
-          "current_price": 122.535,
-          "return_pct": -4.0058925
-        },
-        {
-          "code": "OKLO",
-          "name": "Oklo Inc",
-          "market": "US",
-          "weight_pct": 12.8611273,
-          "cost_price": 44.559722331,
-          "current_price": 41.415,
-          "return_pct": -7.0573203
-        },
-        {
-          "code": "DELL",
-          "name": "戴爾科技",
-          "market": "US",
-          "weight_pct": 12.4303693,
-          "cost_price": 559.26,
-          "current_price": 525.1,
-          "return_pct": -6.1080714
+          "weight_pct": 23.9269126,
+          "cost_price": 101.75400015,
+          "current_price": 100.89,
+          "return_pct": -0.8491067999999999
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 8.232162,
-          "cost_price": 65.719826365,
-          "current_price": 65.32,
-          "return_pct": -0.6083801
+          "weight_pct": 15.5774255,
+          "cost_price": 66.323946212,
+          "current_price": 67.345,
+          "return_pct": 1.5394949
+        },
+        {
+          "code": "TWST",
+          "name": "Twist Bioscience",
+          "market": "US",
+          "weight_pct": 14.5847579,
+          "cost_price": 127.647950339,
+          "current_price": 126.7391,
+          "return_pct": -0.7119976
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9823971
+          "weight_pct": 82.3375453
         }
       ],
       "by_industry": [
         {
+          "name": "醫藥生物",
+          "weight_pct": 30.162183399999996
+        },
+        {
           "name": "其他",
-          "weight_pct": 27.934924900000002
+          "weight_pct": 28.2484493
         },
         {
           "name": "電子",
-          "weight_pct": 24.3638574
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 22.3921182
-        },
-        {
-          "name": "公用事業",
-          "weight_pct": 12.8611273
-        },
-        {
-          "name": "計算機",
-          "weight_pct": 12.4303693
+          "weight_pct": 23.9269126
         }
       ]
     },
@@ -106,67 +80,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-10T21:40:41+08:00",
-      "invested_pct": 99.7756143,
-      "cash_pct": 0.22438569999999913,
-      "weighted_return_pct": -3.6445928276787547,
+      "updated_at": "2026-09-10T22:41:17+08:00",
+      "invested_pct": 99.99999999999999,
+      "cash_pct": 1.4210854715202004e-14,
+      "weighted_return_pct": 0.4102319697241511,
       "position_count": 4,
       "positions": [
         {
-          "code": "OKLO",
-          "name": "Oklo Inc",
+          "code": "VG",
+          "name": "Venture Global",
           "market": "US",
-          "weight_pct": 38.2777502,
-          "cost_price": 44.090072079,
-          "current_price": 41.415,
-          "return_pct": -6.067289
-        },
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 31.865416800000002,
-          "cost_price": 105.654,
-          "current_price": 102.29,
-          "return_pct": -3.1839779
-        },
-        {
-          "code": "TWST",
-          "name": "Twist Bioscience",
-          "market": "US",
-          "weight_pct": 15.280137899999998,
-          "cost_price": 126.312580573,
-          "current_price": 122.535,
-          "return_pct": -2.9906606
+          "weight_pct": 29.9393089,
+          "cost_price": 15.6398,
+          "current_price": 15.545,
+          "return_pct": -0.6061459
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 14.3523094,
-          "cost_price": 64.610649891,
-          "current_price": 65.32,
-          "return_pct": 1.0978842
+          "weight_pct": 25.1295622,
+          "cost_price": 65.690879172,
+          "current_price": 67.345,
+          "return_pct": 2.5180373
+        },
+        {
+          "code": "TWST",
+          "name": "Twist Bioscience",
+          "market": "US",
+          "weight_pct": 24.856248,
+          "cost_price": 126.916205794,
+          "current_price": 126.7391,
+          "return_pct": -0.13954550000000002
+        },
+        {
+          "code": "YANG",
+          "name": "三倍做空富時中國ETF-Direxion",
+          "market": "US",
+          "weight_pct": 20.0748809,
+          "cost_price": 31.1599,
+          "current_price": 31.15,
+          "return_pct": -0.0317716
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.7756143
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
-          "name": "公用事業",
-          "weight_pct": 38.2777502
-        },
-        {
-          "name": "電子",
-          "weight_pct": 31.865416800000002
-        },
-        {
           "name": "醫藥生物",
-          "weight_pct": 29.6324473
+          "weight_pct": 49.9858102
+        },
+        {
+          "name": "採掘",
+          "weight_pct": 29.9393089
+        },
+        {
+          "name": "其他",
+          "weight_pct": 20.0748809
         }
       ]
     }
