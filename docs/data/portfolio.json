@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:40:41+08:00",
-  "generated_at_utc": "2026-09-11T16:40:41+00:00",
+  "generated_at": "2026-09-12T01:40:46+08:00",
+  "generated_at_utc": "2026-09-11T17:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-12T00:40:40+08:00",
-      "invested_pct": 99.999462,
-      "cash_pct": 0.0005380000000059226,
-      "weighted_return_pct": 0.09129395113741291,
+      "updated_at": "2026-09-12T01:40:45+08:00",
+      "invested_pct": 99.999464,
+      "cash_pct": 0.0005359999999967613,
+      "weighted_return_pct": 0.44521514073623314,
       "position_count": 5,
       "positions": [
         {
           "code": "EWZ",
           "name": "MSCI巴西指數ETF-iShares",
           "market": "US",
-          "weight_pct": 28.1379944,
+          "weight_pct": 27.911504100000002,
           "cost_price": 38.26354527,
-          "current_price": 38.29,
-          "return_pct": 0.06913820000000001
+          "current_price": 38.115,
+          "return_pct": -0.3882162
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 24.3928926,
+          "weight_pct": 24.669065,
           "cost_price": 101.73964137,
-          "current_price": 101.872,
-          "return_pct": 0.1300954
+          "current_price": 103.3867,
+          "return_pct": 1.6188957
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 20.8252506,
+          "weight_pct": 20.7706281,
           "cost_price": 67.050101375,
-          "current_price": 68.57,
-          "return_pct": 2.2668103
+          "current_price": 68.63,
+          "return_pct": 2.3562957
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 14.604631200000002,
+          "weight_pct": 14.6074668,
           "cost_price": 127.647083207,
-          "current_price": 126.96,
-          "return_pct": -0.5382678
+          "current_price": 127.43,
+          "return_pct": -0.1700652
         },
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 12.0386932,
+          "weight_pct": 12.0408,
           "cost_price": 95.142457005,
-          "current_price": 92.3499,
-          "return_pct": -2.9351323
+          "current_price": 92.69,
+          "return_pct": -2.5776684000000003
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.999462
+          "weight_pct": 99.999464
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 35.429881800000004
+          "weight_pct": 35.3780949
         },
         {
           "name": "其他",
-          "weight_pct": 28.1379944
+          "weight_pct": 27.911504100000002
         },
         {
           "name": "電子",
-          "weight_pct": 24.3928926
+          "weight_pct": 24.669065
         },
         {
           "name": "非銀金融",
-          "weight_pct": 12.0386932
+          "weight_pct": 12.0408
         }
       ]
     },
@@ -93,67 +93,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-12T00:40:41+08:00",
-      "invested_pct": 99.5623842,
-      "cash_pct": 0.4376158000000032,
-      "weighted_return_pct": 0.04377317802601913,
+      "updated_at": "2026-09-12T01:40:46+08:00",
+      "invested_pct": 99.564458,
+      "cash_pct": 0.4355419999999981,
+      "weighted_return_pct": 0.5158566805853092,
       "position_count": 4,
       "positions": [
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 33.3419914,
+          "weight_pct": 33.3187974,
           "cost_price": 95.325,
-          "current_price": 92.315,
-          "return_pct": -3.1576187
+          "current_price": 92.69,
+          "return_pct": -2.7642276
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 25.8426816,
+          "weight_pct": 25.74273,
           "cost_price": 65.687101118,
-          "current_price": 68.57,
-          "return_pct": 4.3888356
+          "current_price": 68.63,
+          "return_pct": 4.4801777000000005
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 25.3076931,
+          "weight_pct": 25.2810148,
           "cost_price": 126.920501792,
-          "current_price": 126.96,
-          "return_pct": 0.0311204
+          "current_price": 127.43,
+          "return_pct": 0.401431
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 15.070018099999999,
+          "weight_pct": 15.2219158,
           "cost_price": 102.179685361,
-          "current_price": 101.87,
-          "return_pct": -0.3030792
+          "current_price": 103.3867,
+          "return_pct": 1.1812667000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5623842
+          "weight_pct": 99.564458
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 51.1503747
+          "weight_pct": 51.0237448
         },
         {
           "name": "非銀金融",
-          "weight_pct": 33.3419914
+          "weight_pct": 33.3187974
         },
         {
           "name": "電子",
-          "weight_pct": 15.070018099999999
+          "weight_pct": 15.2219158
         }
       ]
     }
