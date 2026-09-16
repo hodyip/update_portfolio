@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:40:39+08:00",
-  "generated_at_utc": "2026-09-15T20:40:39+00:00",
+  "generated_at": "2026-09-16T21:40:41+08:00",
+  "generated_at_utc": "2026-09-16T13:40:41+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,85 +10,85 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-16T04:40:38+08:00",
-      "invested_pct": 99.99608169999999,
-      "cash_pct": 0.003918300000009367,
-      "weighted_return_pct": 0.9816824360478927,
+      "updated_at": "2026-09-16T21:40:41+08:00",
+      "invested_pct": 99.9961649,
+      "cash_pct": 0.003835100000003422,
+      "weighted_return_pct": 3.3209693550202686,
       "position_count": 6,
       "positions": [
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 19.888259899999998,
+          "weight_pct": 19.8704286,
           "cost_price": 33.258263242,
-          "current_price": 33.31,
-          "return_pct": 0.1555606
+          "current_price": 34.0,
+          "return_pct": 2.2302329999999997
         },
         {
           "code": "EWZ",
           "name": "MSCI巴西指數ETF-iShares",
           "market": "US",
-          "weight_pct": 19.4774479,
+          "weight_pct": 18.8808705,
           "cost_price": 38.604382362,
-          "current_price": 37.78,
-          "return_pct": -2.1354632
+          "current_price": 37.415,
+          "return_pct": -3.0809517
         },
         {
           "code": "SQQQ",
           "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 19.368464699999997,
+          "weight_pct": 18.683017900000003,
           "cost_price": 40.273491427,
-          "current_price": 40.62,
-          "return_pct": 0.8603886999999999
+          "current_price": 40.03,
+          "return_pct": -0.6045948
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 16.0840174,
+          "weight_pct": 16.4143595,
           "cost_price": 70.305391981,
-          "current_price": 74.39,
-          "return_pct": 5.8098076
+          "current_price": 77.56,
+          "return_pct": 10.3187079
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 15.4007529,
+          "weight_pct": 15.9719569,
           "cost_price": 127.812420535,
-          "current_price": 138.1,
-          "return_pct": 8.0489669
+          "current_price": 146.32,
+          "return_pct": 14.480266799999999
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 9.7771389,
+          "weight_pct": 10.1755315,
           "cost_price": 107.888492396,
-          "current_price": 97.14,
-          "return_pct": -9.9625939
+          "current_price": 103.285,
+          "return_pct": -4.2668984
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.99608169999999
+          "weight_pct": 99.9961649
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 58.73417250000001
+          "weight_pct": 57.434317
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 31.484770299999997
+          "weight_pct": 32.3863164
         },
         {
           "name": "電子",
-          "weight_pct": 9.7771389
+          "weight_pct": 10.1755315
         }
       ]
     },
@@ -98,63 +98,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-16T04:40:39+08:00",
-      "invested_pct": 99.735932,
-      "cash_pct": 0.26406799999999464,
-      "weighted_return_pct": 8.884951242001762,
+      "updated_at": "2026-09-16T21:40:41+08:00",
+      "invested_pct": 99.74472109999999,
+      "cash_pct": 0.2552789000000075,
+      "weighted_return_pct": 12.812504568694962,
       "position_count": 4,
       "positions": [
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 37.6437087,
+          "weight_pct": 37.0997149,
           "cost_price": 33.277128407,
-          "current_price": 33.31,
-          "return_pct": 0.09878129999999999
+          "current_price": 33.96,
+          "return_pct": 2.0520749
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 21.3067831,
+          "weight_pct": 21.2042428,
           "cost_price": 60.499868259,
-          "current_price": 68.85,
-          "return_pct": 13.8019007
+          "current_price": 70.88,
+          "return_pct": 17.1572799
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 20.4323896,
+          "weight_pct": 20.9273527,
           "cost_price": 124.288531782,
-          "current_price": 138.1,
-          "return_pct": 11.1124237
+          "current_price": 146.32,
+          "return_pct": 17.7260668
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 20.3530506,
+          "weight_pct": 20.5134107,
           "cost_price": 63.175264573,
-          "current_price": 74.39,
-          "return_pct": 17.7517823
+          "current_price": 77.56,
+          "return_pct": 22.769569
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.735932
+          "weight_pct": 99.7447211
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 62.09222330000001
+          "weight_pct": 62.6450062
         },
         {
           "name": "其他",
-          "weight_pct": 37.6437087
+          "weight_pct": 37.0997149
         }
       ]
     }
