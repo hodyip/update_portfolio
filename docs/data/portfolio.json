@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T01:40:44+08:00",
-  "generated_at_utc": "2026-09-18T17:40:44+00:00",
+  "generated_at": "2026-09-19T02:40:47+08:00",
+  "generated_at_utc": "2026-09-18T18:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,72 +10,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-19T01:40:43+08:00",
-      "invested_pct": 99.82213659999998,
-      "cash_pct": 0.177863400000021,
-      "weighted_return_pct": -1.0062100383539014,
+      "updated_at": "2026-09-19T02:40:46+08:00",
+      "invested_pct": 99.821605,
+      "cash_pct": 0.17839499999999475,
+      "weighted_return_pct": -1.3098933090598366,
       "position_count": 5,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 24.859024299999998,
+          "weight_pct": 24.798344,
           "cost_price": 106.965981342,
-          "current_price": 107.14,
-          "return_pct": 0.162686
+          "current_price": 106.56,
+          "return_pct": -0.3795425
         },
         {
           "code": "LABU",
           "name": "三倍做多生物技術ETF-Direxion",
           "market": "US",
-          "weight_pct": 24.441742299999998,
+          "weight_pct": 24.5943981,
           "cost_price": 269.449395943,
-          "current_price": 260.215,
-          "return_pct": -3.4271355000000003
+          "current_price": 261.06,
+          "return_pct": -3.113533
         },
         {
           "code": "AMAT",
           "name": "應用材料",
           "market": "US",
-          "weight_pct": 22.1649168,
+          "weight_pct": 22.1803643,
           "cost_price": 433.8,
-          "current_price": 435.465,
-          "return_pct": 0.38381740000000003
+          "current_price": 434.47,
+          "return_pct": 0.1544491
         },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 21.2555779,
+          "weight_pct": 21.1442808,
           "cost_price": 183.660260481,
-          "current_price": 182.92,
-          "return_pct": -0.4030597
+          "current_price": 181.42,
+          "return_pct": -1.2197851
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 7.100875299999999,
+          "weight_pct": 7.1042178,
           "cost_price": 98.50629398,
-          "current_price": 95.6401,
-          "return_pct": -2.9096557
+          "current_price": 95.4,
+          "return_pct": -3.1533964999999995
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.8221366
+          "weight_pct": 99.821605
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 68.279519
+          "weight_pct": 68.1229891
         },
         {
           "name": "其他",
-          "weight_pct": 31.5426176
+          "weight_pct": 31.6986159
         }
       ]
     },
@@ -85,47 +85,47 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-19T01:40:44+08:00",
-      "invested_pct": 99.99999989999999,
-      "cash_pct": 1.000000082740371e-07,
-      "weighted_return_pct": 0.5381538925870532,
+      "updated_at": "2026-09-19T02:40:47+08:00",
+      "invested_pct": 99.9999999,
+      "cash_pct": 9.999999406318238e-08,
+      "weighted_return_pct": 0.38570603207944554,
       "position_count": 4,
       "positions": [
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 35.0672706,
+          "weight_pct": 34.8373945,
           "cost_price": 179.816084476,
-          "current_price": 182.92,
-          "return_pct": 1.7261612
+          "current_price": 181.42,
+          "return_pct": 0.8919755999999999
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 29.6048246,
+          "weight_pct": 29.4971062,
           "cost_price": 109.364975092,
-          "current_price": 107.1215,
-          "return_pct": -2.0513652
+          "current_price": 106.555,
+          "return_pct": -2.5693555999999997
         },
         {
           "code": "SDGR",
           "name": "Schrodinger",
           "market": "US",
-          "weight_pct": 19.8915818,
+          "weight_pct": 20.240012099999998,
           "cost_price": 28.340579357,
-          "current_price": 28.74,
-          "return_pct": 1.4093595
+          "current_price": 29.195,
+          "return_pct": 3.0148313
         },
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 15.436322899999999,
+          "weight_pct": 15.425487099999998,
           "cost_price": 89.72,
-          "current_price": 91.23,
-          "return_pct": 1.6830138000000001
+          "current_price": 91.015,
+          "return_pct": 1.4433794
         }
       ],
       "by_market": [
@@ -137,15 +137,15 @@
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 64.6720952
+          "weight_pct": 64.33450069999999
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 19.8915818
+          "weight_pct": 20.240012099999998
         },
         {
           "name": "非銀金融",
-          "weight_pct": 15.436322899999999
+          "weight_pct": 15.425487099999998
         }
       ]
     }
