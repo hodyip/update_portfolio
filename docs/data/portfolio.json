@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T03:40:38+08:00",
-  "generated_at_utc": "2026-09-24T19:40:38+00:00",
+  "generated_at": "2026-09-25T04:40:36+08:00",
+  "generated_at_utc": "2026-09-24T20:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,54 +10,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-25T03:40:37+08:00",
-      "invested_pct": 87.518743,
-      "cash_pct": 12.481257,
-      "weighted_return_pct": 5.991857563334325,
+      "updated_at": "2026-09-25T04:40:36+08:00",
+      "invested_pct": 87.5440189,
+      "cash_pct": 12.455981100000002,
+      "weighted_return_pct": 6.265974284870584,
       "position_count": 3,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 35.1547432,
+          "weight_pct": 35.239847000000005,
           "cost_price": 108.953303058,
-          "current_price": 126.825,
-          "return_pct": 16.4030795
+          "current_price": 127.39,
+          "return_pct": 16.9216503
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 27.634411399999998,
+          "weight_pct": 27.640423,
           "cost_price": 36.353892594,
-          "current_price": 35.6,
-          "return_pct": -2.0737603
+          "current_price": 35.68,
+          "return_pct": -1.8537013000000002
         },
         {
           "code": "XLE",
           "name": "能源指數ETF-SPDR",
           "market": "US",
-          "weight_pct": 24.7295884,
+          "weight_pct": 24.663748899999998,
           "cost_price": 62.512068284,
-          "current_price": 62.64,
-          "return_pct": 0.20465119999999998
+          "current_price": 62.6,
+          "return_pct": 0.1406636
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 87.518743
+          "weight_pct": 87.5440189
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 52.3639998
+          "weight_pct": 52.30417189999999
         },
         {
           "name": "電子",
-          "weight_pct": 35.1547432
+          "weight_pct": 35.239847000000005
         }
       ]
     },
@@ -67,58 +67,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-25T03:40:38+08:00",
-      "invested_pct": 99.3950638,
-      "cash_pct": 0.6049361999999974,
-      "weighted_return_pct": 6.35623713299854,
+      "updated_at": "2026-09-25T04:40:36+08:00",
+      "invested_pct": 99.39634790000001,
+      "cash_pct": 0.6036520999999908,
+      "weighted_return_pct": 6.612938976733733,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 39.3169119,
+          "weight_pct": 39.320016,
           "cost_price": 34.856064668,
-          "current_price": 35.6,
-          "return_pct": 2.1343067000000002
+          "current_price": 35.68,
+          "return_pct": 2.3638220000000003
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 36.3509946,
+          "weight_pct": 36.438255000000005,
           "cost_price": 110.69871846,
-          "current_price": 126.81,
-          "return_pct": 14.5541717
+          "current_price": 127.39,
+          "return_pct": 15.0781163
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 23.727157300000002,
+          "weight_pct": 23.638076899999998,
           "cost_price": 205.3425,
-          "current_price": 206.97,
-          "return_pct": 0.7925783000000001
+          "current_price": 206.64,
+          "return_pct": 0.6318711
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3950638
+          "weight_pct": 99.39634790000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 39.3169119
+          "weight_pct": 39.320016
         },
         {
           "name": "電子",
-          "weight_pct": 36.3509946
+          "weight_pct": 36.438255000000005
         },
         {
           "name": "計算機",
-          "weight_pct": 23.727157300000002
+          "weight_pct": 23.638076899999998
         }
       ]
     }
