@@ -1,6 +1,6 @@
 """
-update_portfolio.py
-===================
+update_portfolio.py  —  v2.1.0
+==============================
 每次執行抓取一個或多個 portfolio JSON，寫入靜態網站資料夾，由 GitHub Actions
 commit 回 repo，經 GitHub Pages 發佈。頁面將各組合左右並排顯示。
 
@@ -31,6 +31,20 @@ commit 回 repo，經 GitHub Pages 發佈。頁面將各組合左右並排顯示
     docs/data/portfolio.json                 全部組合嘅最新快照
     docs/data/history_<key>.jsonl            每個組合一個歷史檔
     .github/workflows/update-portfolio.yml   排程（本機執行時按 PARAM 重新生成）
+
+「立即更新」按鈕（v2.1.0 新增）：
+    頁面右上角按鈕直接 call GitHub API 觸發 workflow_dispatch，即係同 cron-job.org
+    做緊嘅嘢一樣，然後喺頁面顯示執行進度，完成後自動重新載入資料。
+    靜態頁冇 server，所以要用一個 fine-grained Personal Access Token：
+      - Repository access：只揀呢個 repo
+      - Permissions → Actions：Read and write（其他全部唔使）
+    第一次撳按鈕時頁面會問你攞 token，之後只儲存喺你部機瀏覽器嘅 localStorage，
+    唔會寫入 repo；其他人睇到個掣都用唔到。撳「⚙」可以更換或清除 token。
+
+版本紀錄：
+    v2.1.0  新增「立即更新」按鈕（PARAM_TRIGGER_*）；加入 __version__
+            手機闊度下持倉表格改為喺框內橫向捲動，唔再撐闊成版
+    v2.0    多組合並排、個別來源失敗沿用舊資料、排程交俾 cron-job.org
 """
 
 from __future__ import annotations
@@ -49,6 +63,8 @@ import webbrowser
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+
+__version__ = "2.1.0"
 
 # ======================================================================
 # 組合設定 —— 加減組合只需要改呢個 list
@@ -78,6 +94,15 @@ PARAM_LOCAL_URLS: dict[str, str] = {
 # 唔會再寫入 yml。UTC 13:30–20:30 週一至五 = 美東 09:30–16:30。
 PARAM_WORKFLOW_CRON: str = "5 13-21 * * 1-5"
 
+# --- 頁面「立即更新」按鈕 ---
+# 按鈕會 POST 去 https://api.github.com/repos/<REPO>/actions/workflows/<FILE>/dispatches
+PARAM_TRIGGER_BUTTON: bool = True
+PARAM_TRIGGER_REPO: str = "hodyip/update_portfolio"     # owner/repo
+PARAM_TRIGGER_REF: str = "main"                         # 同 cron-job.org body 嘅 ref 一致
+PARAM_TRIGGER_WORKFLOW_FILE: str = "update-portfolio.yml"
+PARAM_TRIGGER_RUN_TIMEOUT_SEC: int = 600                # 等 Actions 完成嘅上限
+PARAM_TRIGGER_PAGES_TIMEOUT_SEC: int = 300              # 等 GitHub Pages 發佈新檔嘅上限
+
 # ======================================================================
 # 其他可調參數
 # ======================================================================
@@ -86,7 +111,7 @@ PARAM_WORKFLOW_CRON: str = "5 13-21 * * 1-5"
 PARAM_HTTP_TIMEOUT_SEC: float = 20.0
 PARAM_HTTP_RETRIES: int = 3
 PARAM_HTTP_BACKOFF_SEC: float = 3.0
-PARAM_USER_AGENT: str = "portfolio-publisher/2.0"
+PARAM_USER_AGENT: str = f"portfolio-publisher/{__version__}"
 
 # --- 來源結構 ---
 PARAM_ENVELOPE_KEY: str = "data"
@@ -456,6 +481,7 @@ INDEX_HTML = r"""<!doctype html>
   .bar .pctv{text-align:right; color:var(--muted)}
   .bar .lbl{overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
 
+  .tbl{overflow-x:auto; -webkit-overflow-scrolling:touch}
   table{width:100%; border-collapse:collapse; font-size:13px}
   th{font-weight:500; color:var(--muted); text-align:left; padding:7px 8px;
      border-bottom:1px solid var(--line); white-space:nowrap; cursor:pointer;
@@ -473,8 +499,21 @@ INDEX_HTML = r"""<!doctype html>
   .note{margin-top:30px; padding-top:18px; border-top:1px solid var(--line);
         color:var(--muted); font-size:12.5px; line-height:1.7}
   .msg{padding:36px 0; color:var(--muted)}
+  .right{display:flex; flex-direction:column; align-items:flex-end; gap:8px}
+  .actions{display:flex; align-items:center; gap:6px}
+  .btn{font:inherit; font-size:13px; font-weight:500; color:var(--paper);
+       background:var(--slate); border:1px solid var(--line); border-radius:6px;
+       padding:6px 14px; cursor:pointer; min-height:32px}
+  .btn:hover:not(:disabled){border-color:var(--muted)}
+  .btn:disabled{opacity:.55; cursor:default}
+  .btn.icon{padding:6px 9px; color:var(--muted)}
+  .act{font-size:12.5px; color:var(--muted); text-align:right; max-width:360px}
+  .act.ok{color:var(--up)} .act.err{color:var(--down)}
+  .act a{color:inherit}
   @media (max-width:820px){
     .wrap{padding:20px 14px 52px}
+    .right{align-items:flex-start}
+    .act{text-align:left}
     .grid{grid-template-columns:minmax(0,1fr)}
     .col + .col{border-left:none; padding-left:0; margin-left:0;
                 border-top:1px solid var(--line); margin-top:24px}
@@ -488,7 +527,14 @@ INDEX_HTML = r"""<!doctype html>
       <h1>__TITLE__</h1>
       <p class="tag">__TAGLINE__</p>
     </div>
-    <div class="stamp" id="stamp">載入中</div>
+    <div class="right">
+      <div class="stamp" id="stamp">載入中</div>
+      <div class="actions" id="actions" hidden>
+        <button class="btn" id="runBtn" type="button">立即更新</button>
+        <button class="btn icon" id="tokBtn" type="button" title="設定或清除 GitHub token" aria-label="設定 GitHub token">⚙</button>
+      </div>
+      <div class="act" id="act" aria-live="polite"></div>
+    </div>
   </header>
 
   <div class="grid" id="grid"></div>
@@ -496,7 +542,7 @@ INDEX_HTML = r"""<!doctype html>
 
   <p class="note">
     比重為佔各自組合嘅百分比；回報為現價相對成本價嘅未實現變動，未計股息、費用及匯率。<br>
-    資料由排程自動更新，頁面每 5 分鐘重新讀取一次檔案。標示「資料未更新」代表該來源最近一次抓取失敗，顯示緊上一次成功嘅數值。<br>
+    資料由排程自動更新，頁面每 5 分鐘重新讀取一次檔案。「立即更新」會即時觸發一次抓取（需要 GitHub token，只儲存喺本機瀏覽器）。標示「資料未更新」代表該來源最近一次抓取失敗，顯示緊上一次成功嘅數值。<br>
     僅作記錄用途，並非投資建議。
   </p>
 </div>
@@ -543,7 +589,7 @@ function buildColumn(p) {
     `　·　現金 <b>${pc(p.cash_pct)}</b>　·　<b>${p.position_count ?? 0}</b> 隻</div>` +
     (p.stale ? `<div class="warn">資料未更新（${stamp}）：${esc(p.error || "來源抓取失敗")}</div>` : "") +
     `<svg class="spark" preserveAspectRatio="none" aria-hidden="true"></svg>` +
-    `<h2>持倉明細</h2><table><thead><tr></tr></thead><tbody></tbody></table>` +
+    `<h2>持倉明細</h2><div class="tbl"><table><thead><tr></tr></thead><tbody></tbody></table></div>` +
     barBlock("市場分佈", p.by_market) + barBlock("行業分佈", p.by_industry);
   fillTable(col, p);
   return col;
@@ -665,6 +711,137 @@ async function refresh() {
   }
 }
 
+// ---------------- 立即更新（觸發 GitHub Actions workflow_dispatch）----------------
+const GH = {
+  on: __TRIGGER_ON__, repo: "__TRIGGER_REPO__", ref: "__TRIGGER_REF__", wf: "__TRIGGER_WF__",
+  runTimeout: __TRIGGER_RUN_TIMEOUT__ * 1000, pagesTimeout: __TRIGGER_PAGES_TIMEOUT__ * 1000,
+};
+const TOKEN_KEY = "portfolio_gh_dispatch_token";
+let memToken = "";
+const getToken = () => { try { return localStorage.getItem(TOKEN_KEY) || memToken; } catch (e) { return memToken; } };
+const setToken = (t) => {
+  memToken = t || "";
+  try { t ? localStorage.setItem(TOKEN_KEY, t) : localStorage.removeItem(TOKEN_KEY); } catch (e) {}
+};
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+const actionsUrl = () => `https://github.com/${GH.repo}/actions/workflows/${GH.wf}`;
+
+function setAct(html, kind = "") {
+  const el = document.getElementById("act");
+  el.className = "act" + (kind ? " " + kind : "");
+  el.innerHTML = html;
+}
+
+function askToken() {
+  const t = prompt(
+    "貼上 GitHub fine-grained Personal Access Token\n" +
+    "（Repository access 只揀 " + GH.repo + "；Permissions → Actions：Read and write）\n" +
+    "Token 只會儲存喺呢部機嘅瀏覽器。留空並確定 = 清除已儲存嘅 token。", "");
+  if (t === null) return null;
+  setToken(t.trim());
+  return t.trim();
+}
+
+async function gh(path, opts = {}) {
+  const r = await fetch(`https://api.github.com/repos/${GH.repo}${path}`, {
+    ...opts,
+    cache: "no-store",
+    headers: {
+      "Accept": "application/vnd.github+json",
+      "Authorization": "Bearer " + getToken(),
+      ...(opts.body ? {"Content-Type": "application/json"} : {}),
+    },
+  });
+  if (r.status === 401) { setToken(""); throw new Error("Token 無效或已過期，已清除，請再撳一次重新輸入。"); }
+  if (r.status === 403 || r.status === 404) {
+    throw new Error(`HTTP ${r.status}：token 冇呢個 repo 嘅 Actions 寫入權限，或者 repo / workflow 名唔啱。`);
+  }
+  if (r.status === 422) {
+    let m = ""; try { m = (await r.json()).message || ""; } catch (e) {}
+    throw new Error("HTTP 422：" + (m || "workflow 或 ref 設定有誤") + `（ref=${GH.ref}）`);
+  }
+  if (!r.ok) throw new Error("GitHub API 回應 HTTP " + r.status);
+  return r.status === 204 ? null : r.json().catch(() => null);
+}
+
+const listRuns = async () =>
+  ((await gh(`/actions/workflows/${GH.wf}/runs?event=workflow_dispatch&per_page=10`)) || {}).workflow_runs || [];
+
+async function snapshotStamp() {
+  try { return (await (await load(DATA)).json()).generated_at || ""; } catch (e) { return ""; }
+}
+
+let busy = false;
+async function triggerUpdate() {
+  if (busy) return;
+  if (!getToken() && !askToken()) return;
+  busy = true;
+  const btn = document.getElementById("runBtn");
+  btn.disabled = true;
+  const t0 = Date.now();
+  const secs = () => Math.round((Date.now() - t0) / 1000) + " 秒";
+  try {
+    const before = await snapshotStamp();
+    const known = new Set((await listRuns()).map(r => r.id));
+
+    setAct("已送出觸發要求…");
+    await gh(`/actions/workflows/${GH.wf}/dispatches`, {
+      method: "POST", body: JSON.stringify({ref: GH.ref}),
+    });
+
+    // 1) 等 Actions run 出現並完成
+    let run = null;
+    while (Date.now() - t0 < GH.runTimeout) {
+      await sleep(run ? 5000 : 3000);
+      const runs = await listRuns();
+      run = runs.find(r => !known.has(r.id)) || null;
+      if (!run) { setAct(`等待 GitHub 建立執行…（${secs()}）`); continue; }
+      const link = `<a href="${esc(run.html_url)}" target="_blank" rel="noopener">查看</a>`;
+      if (run.status !== "completed") {
+        setAct(`${run.status === "queued" ? "排隊中" : "執行中"}…（${secs()}）· ${link}`);
+        continue;
+      }
+      if (run.conclusion !== "success") {
+        throw new Error(`Actions 執行結果：${esc(run.conclusion || "unknown")} · ${link}`);
+      }
+      break;
+    }
+    if (!run || run.status !== "completed") {
+      throw new Error(`等候超時，請到 <a href="${actionsUrl()}" target="_blank" rel="noopener">Actions</a> 查看。`);
+    }
+
+    // 2) 等 GitHub Pages 發佈新檔（generated_at 有變）
+    const t1 = Date.now();
+    while (Date.now() - t1 < GH.pagesTimeout) {
+      setAct(`抓取完成，等待頁面發佈…（${secs()}）`);
+      const now = await snapshotStamp();
+      if (now && now !== before) {
+        await refresh();
+        setAct(`已更新（用時 ${secs()}）`, "ok");
+        return;
+      }
+      await sleep(8000);
+    }
+    setAct("抓取已完成，但 GitHub Pages 未發佈新檔；頁面稍後會自動刷新。", "ok");
+  } catch (err) {
+    setAct(err.message.includes("<a ") ? err.message : esc(err.message), "err");
+  } finally {
+    busy = false;
+    btn.disabled = false;
+  }
+}
+
+if (GH.on) {
+  document.getElementById("actions").hidden = false;
+  document.getElementById("runBtn").onclick = triggerUpdate;
+  document.getElementById("tokBtn").onclick = () => {
+    if (busy) return;
+    const t = askToken();
+    if (t === null) return;
+    setAct(t ? "Token 已儲存喺本機瀏覽器。" : "已清除本機儲存嘅 token。");
+  };
+}
+
 refresh();
 setInterval(refresh, 5 * 60 * 1000);
 </script>
@@ -679,7 +856,13 @@ def render_index_html() -> str:
             .replace("__TAGLINE__", PARAM_SITE_TAGLINE)
             .replace("__SNAPSHOT__", PARAM_SNAPSHOT_FILENAME)
             .replace("__HISTPREFIX__", PARAM_HISTORY_PREFIX)
-            .replace("__SHOWCASH__", "true" if PARAM_SHOW_CASH_ROW else "false"))
+            .replace("__SHOWCASH__", "true" if PARAM_SHOW_CASH_ROW else "false")
+            .replace("__TRIGGER_ON__", "true" if PARAM_TRIGGER_BUTTON else "false")
+            .replace("__TRIGGER_REPO__", PARAM_TRIGGER_REPO)
+            .replace("__TRIGGER_REF__", PARAM_TRIGGER_REF)
+            .replace("__TRIGGER_WF__", PARAM_TRIGGER_WORKFLOW_FILE)
+            .replace("__TRIGGER_RUN_TIMEOUT__", str(int(PARAM_TRIGGER_RUN_TIMEOUT_SEC)))
+            .replace("__TRIGGER_PAGES_TIMEOUT__", str(int(PARAM_TRIGGER_PAGES_TIMEOUT_SEC))))
 
 
 # ======================================================================
