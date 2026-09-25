@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T01:40:37+08:00",
-  "generated_at_utc": "2026-09-25T17:40:37+00:00",
+  "generated_at": "2026-09-26T02:40:37+08:00",
+  "generated_at_utc": "2026-09-25T18:40:37+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-26T01:40:36+08:00",
-      "invested_pct": 99.50193870000001,
-      "cash_pct": 0.49806129999998916,
-      "weighted_return_pct": 5.263619590796025,
+      "updated_at": "2026-09-26T02:40:36+08:00",
+      "invested_pct": 99.5006213,
+      "cash_pct": 0.49937869999999407,
+      "weighted_return_pct": 5.023100889460732,
       "position_count": 4,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 34.472886800000005,
+          "weight_pct": 34.624435,
           "cost_price": 108.964117782,
-          "current_price": 124.258,
-          "return_pct": 14.035705100000001
+          "current_price": 124.475,
+          "return_pct": 14.2348532
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 27.820989400000002,
+          "weight_pct": 27.8012878,
           "cost_price": 36.354501497,
-          "current_price": 35.88,
-          "return_pct": -1.305207
+          "current_price": 35.76,
+          "return_pct": -1.6352899
         },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 22.4272509,
+          "weight_pct": 22.3396997,
           "cost_price": 177.55653539,
-          "current_price": 183.72,
-          "return_pct": 3.4712688
+          "current_price": 182.52,
+          "return_pct": 2.7954277
         },
         {
           "code": "FLEX",
           "name": "偉創力",
           "market": "US",
-          "weight_pct": 14.7808116,
+          "weight_pct": 14.7351988,
           "cost_price": 116.47,
-          "current_price": 116.34,
-          "return_pct": -0.1116167
+          "current_price": 115.675,
+          "return_pct": -0.6825791999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5019387
+          "weight_pct": 99.5006213
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 71.6809493
+          "weight_pct": 71.6993335
         },
         {
           "name": "其他",
-          "weight_pct": 27.820989400000002
+          "weight_pct": 27.8012878
         }
       ]
     },
@@ -76,35 +76,35 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-26T01:40:37+08:00",
-      "invested_pct": 99.25323519999999,
-      "cash_pct": 0.7467648000000082,
-      "weighted_return_pct": 5.684132391507361,
+      "updated_at": "2026-09-26T02:40:37+08:00",
+      "invested_pct": 99.25269949999999,
+      "cash_pct": 0.7473005000000086,
+      "weighted_return_pct": 5.624031770080059,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 40.0885147,
+          "weight_pct": 39.9831013,
           "cost_price": 34.856591782,
-          "current_price": 35.88,
-          "return_pct": 2.9360536
+          "current_price": 35.76,
+          "return_pct": 2.5917859
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 36.008324200000004,
+          "weight_pct": 36.096590299999995,
           "cost_price": 110.694197312,
-          "current_price": 124.2597,
-          "return_pct": 12.254935699999999
+          "current_price": 124.475,
+          "return_pct": 12.4494355
         },
         {
           "code": "TTMI",
           "name": "TTM科技",
           "market": "US",
-          "weight_pct": 23.1563963,
+          "weight_pct": 23.1730079,
           "cost_price": 129.47,
           "current_price": 129.76,
           "return_pct": 0.2239901
@@ -113,17 +113,17 @@
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.2532352
+          "weight_pct": 99.25269949999999
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 59.1647205
+          "weight_pct": 59.2695982
         },
         {
           "name": "其他",
-          "weight_pct": 40.0885147
+          "weight_pct": 39.9831013
         }
       ]
     }
