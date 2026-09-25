@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T04:40:36+08:00",
-  "generated_at_utc": "2026-09-24T20:40:36+00:00",
+  "generated_at": "2026-09-25T21:40:39+08:00",
+  "generated_at_utc": "2026-09-25T13:40:39+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,54 +10,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-25T04:40:36+08:00",
-      "invested_pct": 87.5440189,
-      "cash_pct": 12.455981100000002,
-      "weighted_return_pct": 6.265974284870584,
-      "position_count": 3,
+      "updated_at": "2026-09-25T21:40:37+08:00",
+      "invested_pct": 99.42441980000001,
+      "cash_pct": 0.5755801999999903,
+      "weighted_return_pct": 5.2854124878045186,
+      "position_count": 4,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 35.239847000000005,
-          "cost_price": 108.953303058,
-          "current_price": 127.39,
-          "return_pct": 16.9216503
+          "weight_pct": 34.9667971,
+          "cost_price": 108.95909224,
+          "current_price": 126.2,
+          "return_pct": 15.823285100000001
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 27.640423,
-          "cost_price": 36.353892594,
-          "current_price": 35.68,
-          "return_pct": -1.8537013000000002
+          "weight_pct": 27.9461454,
+          "cost_price": 36.354649282,
+          "current_price": 36.08,
+          "return_pct": -0.7554722
         },
         {
           "code": "XLE",
           "name": "能源指數ETF-SPDR",
           "market": "US",
-          "weight_pct": 24.663748899999998,
-          "cost_price": 62.512068284,
-          "current_price": 62.6,
-          "return_pct": 0.1406636
+          "weight_pct": 24.497511,
+          "cost_price": 62.511766256,
+          "current_price": 62.07,
+          "return_pct": -0.706693
+        },
+        {
+          "code": "SMTC",
+          "name": "先科電子",
+          "market": "US",
+          "weight_pct": 12.0139663,
+          "cost_price": 177.37,
+          "current_price": 178.94,
+          "return_pct": 0.8851553
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 87.5440189
+          "weight_pct": 99.4244198
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 52.30417189999999
+          "weight_pct": 52.4436564
         },
         {
           "name": "電子",
-          "weight_pct": 35.239847000000005
+          "weight_pct": 46.9807634
         }
       ]
     },
@@ -67,58 +76,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-25T04:40:36+08:00",
-      "invested_pct": 99.39634790000001,
-      "cash_pct": 0.6036520999999908,
-      "weighted_return_pct": 6.612938976733733,
+      "updated_at": "2026-09-25T21:40:39+08:00",
+      "invested_pct": 99.259411,
+      "cash_pct": 0.7405889999999999,
+      "weighted_return_pct": 6.632199713075684,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 39.320016,
-          "cost_price": 34.856064668,
-          "current_price": 35.68,
-          "return_pct": 2.3638220000000003
+          "weight_pct": 39.9785891,
+          "cost_price": 34.856591782,
+          "current_price": 36.08,
+          "return_pct": 3.5098332
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 36.438255000000005,
-          "cost_price": 110.69871846,
-          "current_price": 127.39,
-          "return_pct": 15.0781163
+          "weight_pct": 36.268147,
+          "cost_price": 110.694197312,
+          "current_price": 126.2,
+          "return_pct": 14.0077828
         },
         {
-          "code": "OKTA",
-          "name": "Okta",
+          "code": "TTMI",
+          "name": "TTM科技",
           "market": "US",
-          "weight_pct": 23.638076899999998,
-          "cost_price": 205.3425,
-          "current_price": 206.64,
-          "return_pct": 0.6318711
+          "weight_pct": 23.0126749,
+          "cost_price": 129.47,
+          "current_price": 130.03,
+          "return_pct": 0.4325326
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.39634790000001
+          "weight_pct": 99.259411
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 39.320016
-        },
-        {
           "name": "電子",
-          "weight_pct": 36.438255000000005
+          "weight_pct": 59.2808219
         },
         {
-          "name": "計算機",
-          "weight_pct": 23.638076899999998
+          "name": "其他",
+          "weight_pct": 39.9785891
         }
       ]
     }
