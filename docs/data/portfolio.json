@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T21:40:43+08:00",
-  "generated_at_utc": "2026-09-28T13:40:43+00:00",
+  "generated_at": "2026-09-28T22:40:39+08:00",
+  "generated_at_utc": "2026-09-28T14:40:39+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-28T21:40:43+08:00",
-      "invested_pct": 99.48261149999999,
-      "cash_pct": 0.5173885000000098,
-      "weighted_return_pct": 1.2020846964548184,
-      "position_count": 4,
+      "updated_at": "2026-09-28T22:40:39+08:00",
+      "invested_pct": 70.7684091,
+      "cash_pct": 29.2315909,
+      "weighted_return_pct": 0.40144681584754555,
+      "position_count": 3,
       "positions": [
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 34.109790499999995,
-          "cost_price": 108.964117782,
-          "current_price": 118.345,
-          "return_pct": 8.609148
-        },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 28.0655868,
-          "cost_price": 36.354501497,
-          "current_price": 34.84,
-          "return_pct": -4.1659256
+          "weight_pct": 28.1792514,
+          "cost_price": 36.354133796,
+          "current_price": 34.3231,
+          "return_pct": -5.5868029
         },
         {
-          "code": "SMTC",
-          "name": "先科電子",
+          "code": "INTC",
+          "name": "英特爾",
           "market": "US",
-          "weight_pct": 22.3473485,
-          "cost_price": 177.55653539,
-          "current_price": 176.21,
-          "return_pct": -0.7583699
+          "weight_pct": 27.578655400000002,
+          "cost_price": 107.068979825,
+          "current_price": 116.665,
+          "return_pct": 8.9624653
         },
         {
           "code": "FLEX",
           "name": "偉創力",
           "market": "US",
-          "weight_pct": 14.959885700000001,
-          "cost_price": 116.47,
-          "current_price": 113.34,
-          "return_pct": -2.6873873
+          "weight_pct": 15.0105023,
+          "cost_price": 116.473983759,
+          "current_price": 111.715,
+          "return_pct": -4.085877
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.48261149999999
+          "weight_pct": 70.7684091
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 71.4170247
+          "weight_pct": 42.5891577
         },
         {
           "name": "其他",
-          "weight_pct": 28.0655868
+          "weight_pct": 28.1792514
         }
       ]
     },
@@ -76,54 +67,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-28T21:40:43+08:00",
-      "invested_pct": 99.22306029999999,
-      "cash_pct": 0.776939700000014,
-      "weighted_return_pct": 1.4994674841865057,
+      "updated_at": "2026-09-28T22:40:39+08:00",
+      "invested_pct": 99.87371680000001,
+      "cash_pct": 0.12628319999998894,
+      "weighted_return_pct": 1.100921498199065,
       "position_count": 3,
       "positions": [
-        {
-          "code": "FNGU",
-          "name": "3倍做多FANG+指數ETN-MicroSectors",
-          "market": "US",
-          "weight_pct": 40.501906,
-          "cost_price": 34.856591782,
-          "current_price": 34.84,
-          "return_pct": -0.0476001
-        },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 35.6822561,
-          "cost_price": 110.694197312,
-          "current_price": 118.345,
-          "return_pct": 6.9116565
+          "weight_pct": 41.9414819,
+          "cost_price": 111.657210428,
+          "current_price": 116.665,
+          "return_pct": 4.4849675
         },
         {
-          "code": "TTMI",
-          "name": "TTM科技",
+          "code": "FNGU",
+          "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 23.0388982,
-          "cost_price": 129.47,
-          "current_price": 124.08,
-          "return_pct": -4.1631266
+          "weight_pct": 40.7999902,
+          "cost_price": 34.856423857,
+          "current_price": 34.3231,
+          "return_pct": -1.5300589999999998
+        },
+        {
+          "code": "FLEX",
+          "name": "偉創力",
+          "market": "US",
+          "weight_pct": 17.132244699999998,
+          "cost_price": 112.749996839,
+          "current_price": 111.715,
+          "return_pct": -0.9179573
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.2230603
+          "weight_pct": 99.8737168
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 58.7211543
+          "weight_pct": 59.0737266
         },
         {
           "name": "其他",
-          "weight_pct": 40.501906
+          "weight_pct": 40.7999902
         }
       ]
     }
