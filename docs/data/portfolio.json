@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T02:40:35+08:00",
-  "generated_at_utc": "2026-09-29T18:40:35+00:00",
+  "generated_at": "2026-09-30T03:40:38+08:00",
+  "generated_at_utc": "2026-09-29T19:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-30T02:40:35+08:00",
-      "invested_pct": 99.984263,
-      "cash_pct": 0.015737000000001444,
-      "weighted_return_pct": 0.9218528363597494,
+      "updated_at": "2026-09-30T03:40:38+08:00",
+      "invested_pct": 99.98413320000002,
+      "cash_pct": 0.015866799999983527,
+      "weighted_return_pct": 0.09543713369919489,
       "position_count": 5,
       "positions": [
         {
           "code": "ARM",
           "name": "Arm Holdings",
           "market": "US",
-          "weight_pct": 23.1196334,
+          "weight_pct": 23.007677100000002,
           "cost_price": 292.544684537,
-          "current_price": 298.71,
-          "return_pct": 2.1074782
+          "current_price": 294.83,
+          "return_pct": 0.7811851
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 21.2365135,
+          "weight_pct": 21.3499231,
           "cost_price": 37.160627116,
-          "current_price": 34.605,
-          "return_pct": -6.8772443
+          "current_price": 34.505,
+          "return_pct": -7.1463463
         },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 20.8332911,
+          "weight_pct": 20.771542800000002,
           "cost_price": 298.48,
-          "current_price": 294.535,
-          "return_pct": -1.3216966
+          "current_price": 291.258,
+          "return_pct": -2.4195926
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 20.0696479,
+          "weight_pct": 20.1397492,
           "cost_price": 104.076681052,
-          "current_price": 116.475,
-          "return_pct": 11.9126771
+          "current_price": 115.925,
+          "return_pct": 11.3842206
         },
         {
           "code": "HOOD",
           "name": "Robinhood",
           "market": "US",
-          "weight_pct": 14.7251771,
+          "weight_pct": 14.715241,
           "cost_price": 118.250940194,
-          "current_price": 116.48,
-          "return_pct": -1.4976118999999999
+          "current_price": 115.4485,
+          "return_pct": -2.3699094
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.984263
+          "weight_pct": 99.9841332
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 43.1892813
+          "weight_pct": 43.1474263
         },
         {
           "name": "其他",
-          "weight_pct": 21.2365135
+          "weight_pct": 21.3499231
         },
         {
           "name": "機械設備",
-          "weight_pct": 20.8332911
+          "weight_pct": 20.771542800000002
         },
         {
           "name": "非銀金融",
-          "weight_pct": 14.7251771
+          "weight_pct": 14.715241
         }
       ]
     },
@@ -93,63 +93,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-30T02:40:35+08:00",
-      "invested_pct": 99.9815288,
-      "cash_pct": 0.01847119999999336,
-      "weighted_return_pct": 1.4232869304094755,
+      "updated_at": "2026-09-30T03:40:38+08:00",
+      "invested_pct": 99.9814633,
+      "cash_pct": 0.018536699999998518,
+      "weighted_return_pct": 1.0621436737298033,
       "position_count": 4,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 30.1960113,
+          "weight_pct": 30.1599241,
           "cost_price": 109.917807526,
-          "current_price": 116.475,
-          "return_pct": 5.9655415000000005
+          "current_price": 115.925,
+          "return_pct": 5.4651677
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.6641274,
+          "weight_pct": 29.6832216,
           "cost_price": 35.542396792,
-          "current_price": 34.605,
-          "return_pct": -2.6374046
+          "current_price": 34.505,
+          "return_pct": -2.9187587
         },
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 24.1858113,
+          "weight_pct": 24.353991999999998,
           "cost_price": 109.350159275,
-          "current_price": 110.36,
-          "return_pct": 0.9234927
+          "current_price": 110.735,
+          "return_pct": 1.2664277
         },
         {
           "code": "ARM",
           "name": "Arm Holdings",
           "market": "US",
-          "weight_pct": 15.9355788,
+          "weight_pct": 15.784325599999999,
           "cost_price": 295.3612,
-          "current_price": 298.71,
-          "return_pct": 1.1337982
+          "current_price": 294.83,
+          "return_pct": -0.1798476
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.98152879999999
+          "weight_pct": 99.9814633
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 53.8499387
+          "weight_pct": 54.0372136
         },
         {
           "name": "電子",
-          "weight_pct": 46.1315901
+          "weight_pct": 45.9442497
         }
       ]
     }
