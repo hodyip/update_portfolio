@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T21:41:00+08:00",
-  "generated_at_utc": "2026-09-29T13:41:00+00:00",
+  "generated_at": "2026-09-29T22:40:40+08:00",
+  "generated_at_utc": "2026-09-29T14:40:40+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,76 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-29T21:40:57+08:00",
-      "invested_pct": 86.67623569999999,
-      "cash_pct": 13.323764300000008,
-      "weighted_return_pct": 0.2762616196331301,
+      "updated_at": "2026-09-29T22:40:39+08:00",
+      "invested_pct": 99.9843708,
+      "cash_pct": 0.01562920000000645,
+      "weighted_return_pct": 1.627163657489932,
       "position_count": 5,
       "positions": [
+        {
+          "code": "ARM",
+          "name": "Arm Holdings",
+          "market": "US",
+          "weight_pct": 23.0605417,
+          "cost_price": 292.544684537,
+          "current_price": 300.0001,
+          "return_pct": 2.5484706999999998
+        },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 21.232974900000002,
-          "cost_price": 37.158081908,
-          "current_price": 34.5,
-          "return_pct": -7.1534422
+          "weight_pct": 21.2831312,
+          "cost_price": 37.160627116,
+          "current_price": 34.92,
+          "return_pct": -6.0295729
+        },
+        {
+          "code": "BE",
+          "name": "Bloom Energy",
+          "market": "US",
+          "weight_pct": 20.8431426,
+          "cost_price": 298.48,
+          "current_price": 296.7053,
+          "return_pct": -0.5945792
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 19.7796284,
-          "cost_price": 104.080751164,
-          "current_price": 114.5404,
-          "return_pct": 10.0495516
-        },
-        {
-          "code": "FLEX",
-          "name": "偉創力",
-          "market": "US",
-          "weight_pct": 15.421374600000002,
-          "cost_price": 116.458930847,
-          "current_price": 114.3151,
-          "return_pct": -1.8408471
+          "weight_pct": 20.1367654,
+          "cost_price": 104.076681052,
+          "current_price": 117.67,
+          "return_pct": 13.060869
         },
         {
           "code": "HOOD",
           "name": "Robinhood",
           "market": "US",
-          "weight_pct": 15.1963189,
-          "cost_price": 118.049203652,
-          "current_price": 118.7051,
-          "return_pct": 0.5556127
-        },
-        {
-          "code": "ARM",
-          "name": "Arm Holdings",
-          "market": "US",
-          "weight_pct": 15.0459389,
-          "cost_price": 291.17,
-          "current_price": 290.59,
-          "return_pct": -0.1991963
+          "weight_pct": 14.660789900000001,
+          "cost_price": 118.250940194,
+          "current_price": 116.77,
+          "return_pct": -1.2523708
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 86.6762357
+          "weight_pct": 99.9843708
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 50.246941899999996
+          "weight_pct": 43.197307099999996
         },
         {
           "name": "其他",
-          "weight_pct": 21.232974900000002
+          "weight_pct": 21.2831312
+        },
+        {
+          "name": "機械設備",
+          "weight_pct": 20.8431426
         },
         {
           "name": "非銀金融",
-          "weight_pct": 15.1963189
+          "weight_pct": 14.660789900000001
         }
       ]
     },
@@ -89,63 +93,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-09-29T21:41:00+08:00",
-      "invested_pct": 99.25373389999999,
-      "cash_pct": 0.7462661000000139,
-      "weighted_return_pct": 0.4468072466284661,
+      "updated_at": "2026-09-29T22:40:40+08:00",
+      "invested_pct": 99.98166330000001,
+      "cash_pct": 0.01833669999999188,
+      "weighted_return_pct": 2.1737681326498635,
       "position_count": 4,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 29.9572928,
-          "cost_price": 109.909623667,
-          "current_price": 114.585,
-          "return_pct": 4.2538371
+          "weight_pct": 30.2875052,
+          "cost_price": 109.917807526,
+          "current_price": 117.685,
+          "return_pct": 7.0663640999999995
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.8687653,
-          "cost_price": 35.542208081,
-          "current_price": 34.5,
-          "return_pct": -2.932311
+          "weight_pct": 29.716146300000002,
+          "cost_price": 35.542396792,
+          "current_price": 34.92,
+          "return_pct": -1.7511391
         },
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 24.0659942,
-          "cost_price": 109.35,
-          "current_price": 108.73,
-          "return_pct": -0.5669867000000001
+          "weight_pct": 24.0901663,
+          "cost_price": 109.350159275,
+          "current_price": 110.73,
+          "return_pct": 1.2618552
         },
         {
-          "code": "FLEX",
-          "name": "偉創力",
+          "code": "ARM",
+          "name": "Arm Holdings",
           "market": "US",
-          "weight_pct": 15.361681599999999,
-          "cost_price": 112.980701855,
-          "current_price": 114.3151,
-          "return_pct": 1.181085
+          "weight_pct": 15.887845500000001,
+          "cost_price": 295.3612,
+          "current_price": 300.0001,
+          "return_pct": 1.5705854000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.2537339
+          "weight_pct": 99.98166330000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 53.9347595
+          "weight_pct": 53.8063126
         },
         {
           "name": "電子",
-          "weight_pct": 45.3189744
+          "weight_pct": 46.1753507
         }
       ]
     }
