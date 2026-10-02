@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T02:40:36+08:00",
-  "generated_at_utc": "2026-10-02T18:40:36+00:00",
+  "generated_at": "2026-10-03T03:40:35+08:00",
+  "generated_at_utc": "2026-10-02T19:40:35+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-03T02:40:35+08:00",
-      "invested_pct": 99.037741,
-      "cash_pct": 0.9622590000000031,
-      "weighted_return_pct": 3.1019150616000615,
+      "updated_at": "2026-10-03T03:40:35+08:00",
+      "invested_pct": 99.0411831,
+      "cash_pct": 0.9588169000000022,
+      "weighted_return_pct": 3.4879950267648687,
       "position_count": 5,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 21.8051438,
+          "weight_pct": 21.743800399999998,
           "cost_price": 37.391850903,
-          "current_price": 34.8283,
-          "return_pct": -6.8559079999999994
+          "current_price": 34.855,
+          "return_pct": -6.784502100000001
         },
         {
           "code": "CCL",
           "name": "嘉年華郵輪",
           "market": "US",
-          "weight_pct": 20.9187248,
+          "weight_pct": 21.0433004,
           "cost_price": 25.77,
-          "current_price": 25.61,
-          "return_pct": -0.620877
+          "current_price": 25.855,
+          "return_pct": 0.3298409
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 20.7522569,
+          "weight_pct": 20.9019841,
           "cost_price": 313.4539623,
-          "current_price": 334.23,
-          "return_pct": 6.6280986
+          "current_price": 337.85,
+          "return_pct": 7.7829730999999995
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 20.5751778,
+          "weight_pct": 20.5246937,
           "cost_price": 103.672659167,
-          "current_price": 119.8199,
-          "return_pct": 15.5752162
+          "current_price": 119.955,
+          "return_pct": 15.7055302
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 14.9864377,
+          "weight_pct": 14.8274045,
           "cost_price": 211.526727918,
-          "current_price": 213.175,
-          "return_pct": 0.7792264
+          "current_price": 211.67,
+          "return_pct": 0.0677324
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.037741
+          "weight_pct": 99.0411831
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 41.3274347
+          "weight_pct": 41.4266778
         },
         {
           "name": "其他",
-          "weight_pct": 21.8051438
+          "weight_pct": 21.743800399999998
         },
         {
           "name": "休閒服務",
-          "weight_pct": 20.9187248
+          "weight_pct": 21.0433004
         },
         {
           "name": "計算機",
-          "weight_pct": 14.9864377
+          "weight_pct": 14.8274045
         }
       ]
     },
@@ -93,67 +93,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-03T02:40:36+08:00",
-      "invested_pct": 99.5282674,
-      "cash_pct": 0.4717325999999957,
-      "weighted_return_pct": 0.9873715809506157,
+      "updated_at": "2026-10-03T03:40:35+08:00",
+      "invested_pct": 99.5311915,
+      "cash_pct": 0.4688084999999944,
+      "weighted_return_pct": 1.633979988832656,
       "position_count": 4,
       "positions": [
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 35.1413528,
+          "weight_pct": 35.080713,
           "cost_price": 191.074251861,
-          "current_price": 196.625,
-          "return_pct": 2.9050215
+          "current_price": 197.51,
+          "return_pct": 3.3681922
         },
         {
           "code": "CCL",
           "name": "嘉年華郵輪",
           "market": "US",
-          "weight_pct": 23.9482082,
+          "weight_pct": 24.0274439,
           "cost_price": 25.76,
-          "current_price": 25.61,
-          "return_pct": -0.5822980999999999
+          "current_price": 25.855,
+          "return_pct": 0.36878879999999997
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 20.4146771,
+          "weight_pct": 20.5078717,
           "cost_price": 320.263784325,
-          "current_price": 334.23,
-          "return_pct": 4.3608476
+          "current_price": 337.85,
+          "return_pct": 5.4911659
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 20.024029300000002,
+          "weight_pct": 19.9151629,
           "cost_price": 36.256830453,
-          "current_price": 34.8283,
-          "return_pct": -3.9400313
+          "current_price": 34.855,
+          "return_pct": -3.86639
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5282674
+          "weight_pct": 99.5311915
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 55.556029900000006
+          "weight_pct": 55.5885847
         },
         {
           "name": "休閒服務",
-          "weight_pct": 23.9482082
+          "weight_pct": 24.0274439
         },
         {
           "name": "其他",
-          "weight_pct": 20.024029300000002
+          "weight_pct": 19.9151629
         }
       ]
     }
