@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T21:40:37+08:00",
-  "generated_at_utc": "2026-10-02T13:40:37+00:00",
+  "generated_at": "2026-10-02T22:40:38+08:00",
+  "generated_at_utc": "2026-10-02T14:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-02T21:40:36+08:00",
-      "invested_pct": 99.57613889999999,
-      "cash_pct": 0.42386110000001054,
-      "weighted_return_pct": 3.550453966028233,
+      "updated_at": "2026-10-02T22:40:38+08:00",
+      "invested_pct": 99.5825958,
+      "cash_pct": 0.4174041999999929,
+      "weighted_return_pct": 5.115537897019842,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.591517299999996,
+          "weight_pct": 29.5243902,
           "cost_price": 36.74505737,
-          "current_price": 35.32,
-          "return_pct": -3.8782286999999998
+          "current_price": 35.785,
+          "return_pct": -2.6127523999999998
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 28.215821299999998,
+          "weight_pct": 27.9877728,
           "cost_price": 107.778829504,
-          "current_price": 123.94,
-          "return_pct": 14.9947541
+          "current_price": 124.84,
+          "return_pct": 15.829797500000002
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 26.7904439,
+          "weight_pct": 27.309565400000004,
           "cost_price": 318.708025833,
-          "current_price": 321.945,
-          "return_pct": 1.0156551
+          "current_price": 333.26,
+          "return_pct": 4.5659265
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 14.978356400000001,
+          "weight_pct": 14.760867399999999,
           "cost_price": 211.5274357,
-          "current_price": 214.07,
-          "return_pct": 1.2020021
+          "current_price": 214.225,
+          "return_pct": 1.2752786999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5761389
+          "weight_pct": 99.58259579999999
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 55.0062652
+          "weight_pct": 55.2973382
         },
         {
           "name": "其他",
-          "weight_pct": 29.591517299999996
+          "weight_pct": 29.5243902
         },
         {
           "name": "計算機",
-          "weight_pct": 14.978356400000001
+          "weight_pct": 14.760867399999999
         }
       ]
     },
@@ -80,76 +80,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-02T21:40:37+08:00",
-      "invested_pct": 99.3886136,
-      "cash_pct": 0.6113864000000007,
-      "weighted_return_pct": 4.821764599169002,
-      "position_count": 5,
+      "updated_at": "2026-10-02T22:40:38+08:00",
+      "invested_pct": 99.9608048,
+      "cash_pct": 0.03919519999999466,
+      "weighted_return_pct": 6.415376085124008,
+      "position_count": 4,
       "positions": [
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 25.1367291,
-          "cost_price": 107.538963544,
-          "current_price": 123.92,
-          "return_pct": 15.2326523
-        },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 20.5229471,
-          "cost_price": 186.96,
-          "current_price": 197.645,
-          "return_pct": 5.7151262
+          "weight_pct": 35.133417900000005,
+          "cost_price": 191.077707845,
+          "current_price": 201.24,
+          "return_pct": 5.318408
+        },
+        {
+          "code": "INTC",
+          "name": "英特爾",
+          "market": "US",
+          "weight_pct": 24.8865958,
+          "cost_price": 107.545984248,
+          "current_price": 124.8293,
+          "return_pct": 16.0706286
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 20.1961474,
-          "cost_price": 36.256634526,
-          "current_price": 35.32,
-          "return_pct": -2.5833466
+          "weight_pct": 20.0784378,
+          "cost_price": 36.257492292,
+          "current_price": 35.785,
+          "return_pct": -1.3031577
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 18.5329573,
-          "cost_price": 320.110016967,
-          "current_price": 322.055,
-          "return_pct": 0.6075983
-        },
-        {
-          "code": "OKTA",
-          "name": "Okta",
-          "market": "US",
-          "weight_pct": 14.999832699999999,
-          "cost_price": 211.26003186,
-          "current_price": 214.07,
-          "return_pct": 1.3300993
+          "weight_pct": 19.8623533,
+          "cost_price": 320.255485346,
+          "current_price": 333.26,
+          "return_pct": 4.0606688
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3886136
+          "weight_pct": 99.9608048
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 64.1926335
+          "weight_pct": 79.882367
         },
         {
           "name": "其他",
-          "weight_pct": 20.1961474
-        },
-        {
-          "name": "計算機",
-          "weight_pct": 14.999832699999999
+          "weight_pct": 20.0784378
         }
       ]
     }
