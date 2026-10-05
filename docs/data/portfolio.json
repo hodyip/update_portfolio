@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T01:40:36+08:00",
-  "generated_at_utc": "2026-10-05T17:40:36+00:00",
+  "generated_at": "2026-10-06T02:40:37+08:00",
+  "generated_at_utc": "2026-10-05T18:40:37+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,76 +10,76 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-06T01:40:35+08:00",
-      "invested_pct": 99.6664602,
-      "cash_pct": 0.33353979999999694,
-      "weighted_return_pct": 3.1947840240254544,
+      "updated_at": "2026-10-06T02:40:36+08:00",
+      "invested_pct": 99.6667408,
+      "cash_pct": 0.33325920000000053,
+      "weighted_return_pct": 3.2805652045239615,
       "position_count": 5,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 22.35294,
+          "weight_pct": 22.4029405,
           "cost_price": 37.391694627,
-          "current_price": 35.705,
-          "return_pct": -4.5108804000000005
+          "current_price": 35.815,
+          "return_pct": -4.2166974
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 21.8090103,
+          "weight_pct": 21.9275399,
           "cost_price": 213.018187086,
-          "current_price": 218.1,
-          "return_pct": 2.385624
+          "current_price": 219.47,
+          "return_pct": 3.0287615
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 20.7492741,
+          "weight_pct": 20.658669,
           "cost_price": 313.443379586,
-          "current_price": 334.44,
-          "return_pct": 6.698696399999999
+          "current_price": 333.26,
+          "return_pct": 6.3222328999999995
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 20.0533492,
+          "weight_pct": 20.070780499999998,
           "cost_price": 103.670013571,
-          "current_price": 116.82,
-          "return_pct": 12.6844648
+          "current_price": 117.02,
+          "return_pct": 12.8773847
         },
         {
           "code": "CBRS",
           "name": "Cerebras Systems",
           "market": "US",
-          "weight_pct": 14.7018866,
+          "weight_pct": 14.6068109,
           "cost_price": 183.05,
-          "current_price": 179.795,
-          "return_pct": -1.7782026999999998
+          "current_price": 178.7827,
+          "return_pct": -2.331221
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.66646019999999
+          "weight_pct": 99.6667408
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 55.5045099
+          "weight_pct": 55.3362604
         },
         {
           "name": "其他",
-          "weight_pct": 22.35294
+          "weight_pct": 22.4029405
         },
         {
           "name": "計算機",
-          "weight_pct": 21.8090103
+          "weight_pct": 21.9275399
         }
       ]
     },
@@ -89,76 +89,76 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-06T01:40:36+08:00",
-      "invested_pct": 99.69080199999999,
-      "cash_pct": 0.3091980000000092,
-      "weighted_return_pct": 1.2192293298488008,
+      "updated_at": "2026-10-06T02:40:37+08:00",
+      "invested_pct": 99.6914997,
+      "cash_pct": 0.3085003000000057,
+      "weighted_return_pct": 1.4400680686753347,
       "position_count": 5,
       "positions": [
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 24.7822028,
+          "weight_pct": 24.8302933,
           "cost_price": 300.794808527,
-          "current_price": 304.26,
-          "return_pct": 1.1520117
+          "current_price": 305.54,
+          "return_pct": 1.577551
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 20.4678961,
+          "weight_pct": 20.484617099999998,
           "cost_price": 36.257203472,
-          "current_price": 35.705,
-          "return_pct": -1.5230173
+          "current_price": 35.815,
+          "return_pct": -1.2196293
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 20.372599,
+          "weight_pct": 20.2549018,
           "cost_price": 320.259844022,
-          "current_price": 334.44,
-          "return_pct": 4.4277034
+          "current_price": 333.26,
+          "return_pct": 4.0592526
         },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 20.052118099999998,
+          "weight_pct": 19.9897651,
           "cost_price": 190.353058116,
-          "current_price": 193.08,
-          "return_pct": 1.4325706
+          "current_price": 192.915,
+          "return_pct": 1.3458895
         },
         {
           "code": "SDGR",
           "name": "Schrodinger",
           "market": "US",
-          "weight_pct": 14.015986,
+          "weight_pct": 14.131922399999999,
           "cost_price": 32.1,
-          "current_price": 32.22,
-          "return_pct": 0.3738318
+          "current_price": 32.56,
+          "return_pct": 1.4330218000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.690802
+          "weight_pct": 99.6914997
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 40.4247171
+          "weight_pct": 40.2446669
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 38.7981888
+          "weight_pct": 38.9622157
         },
         {
           "name": "其他",
-          "weight_pct": 20.4678961
+          "weight_pct": 20.484617099999998
         }
       ]
     }
