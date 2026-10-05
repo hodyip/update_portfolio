@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T22:40:41+08:00",
-  "generated_at_utc": "2026-10-05T14:40:41+00:00",
+  "generated_at": "2026-10-05T23:40:37+08:00",
+  "generated_at_utc": "2026-10-05T15:40:37+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,76 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-05T22:40:41+08:00",
-      "invested_pct": 99.0352893,
-      "cash_pct": 0.9647106999999977,
-      "weighted_return_pct": 2.611680467296087,
+      "updated_at": "2026-10-05T23:40:36+08:00",
+      "invested_pct": 99.66575710000001,
+      "cash_pct": 0.33424289999999246,
+      "weighted_return_pct": 2.969612027901741,
       "position_count": 5,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 22.3078726,
-          "cost_price": 37.391850903,
-          "current_price": 35.5401,
-          "return_pct": -4.9522847
-        },
-        {
-          "code": "CCL",
-          "name": "嘉年華郵輪",
-          "market": "US",
-          "weight_pct": 20.972395499999998,
-          "cost_price": 25.77,
-          "current_price": 25.61,
-          "return_pct": -0.620877
-        },
-        {
-          "code": "COHR",
-          "name": "Coherent",
-          "market": "US",
-          "weight_pct": 20.4706005,
-          "cost_price": 313.4539623,
-          "current_price": 328.85,
-          "return_pct": 4.9117381
-        },
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 20.0960157,
-          "cost_price": 103.672659167,
-          "current_price": 116.73,
-          "return_pct": 12.5947776
+          "weight_pct": 22.2934123,
+          "cost_price": 37.391694627,
+          "current_price": 35.535,
+          "return_pct": -4.9655268
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 15.188405,
-          "cost_price": 211.526727918,
-          "current_price": 215.495,
-          "return_pct": 1.8760145
+          "weight_pct": 21.7848435,
+          "cost_price": 213.018187086,
+          "current_price": 217.4,
+          "return_pct": 2.0570135
+        },
+        {
+          "code": "COHR",
+          "name": "Coherent",
+          "market": "US",
+          "weight_pct": 20.5567677,
+          "cost_price": 313.443379586,
+          "current_price": 330.6401,
+          "return_pct": 5.4863881
+        },
+        {
+          "code": "INTC",
+          "name": "英特爾",
+          "market": "US",
+          "weight_pct": 20.1179884,
+          "cost_price": 103.670013571,
+          "current_price": 116.95,
+          "return_pct": 12.8098627
+        },
+        {
+          "code": "CBRS",
+          "name": "Cerebras Systems",
+          "market": "US",
+          "weight_pct": 14.9127452,
+          "cost_price": 183.05,
+          "current_price": 181.99,
+          "return_pct": -0.5790768
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.0352893
+          "weight_pct": 99.6657571
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 40.5666162
+          "weight_pct": 55.5875013
         },
         {
           "name": "其他",
-          "weight_pct": 22.3078726
-        },
-        {
-          "name": "休閒服務",
-          "weight_pct": 20.972395499999998
+          "weight_pct": 22.2934123
         },
         {
           "name": "計算機",
-          "weight_pct": 15.188405
+          "weight_pct": 21.7848435
         }
       ]
     },
@@ -93,67 +89,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-05T22:40:41+08:00",
-      "invested_pct": 99.40723120000001,
-      "cash_pct": 0.5927687999999876,
-      "weighted_return_pct": 0.3484995166042826,
+      "updated_at": "2026-10-05T23:40:37+08:00",
+      "invested_pct": 99.4089869,
+      "cash_pct": 0.5910130999999978,
+      "weighted_return_pct": 0.6533566786331373,
       "position_count": 4,
       "positions": [
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 34.6030129,
+          "weight_pct": 34.4539167,
           "cost_price": 191.07385656,
-          "current_price": 192.48,
-          "return_pct": 0.7359162
+          "current_price": 192.22,
+          "return_pct": 0.5998431000000001
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 24.068721800000002,
+          "weight_pct": 24.2247175,
           "cost_price": 300.665,
-          "current_price": 300.1175,
-          "return_pct": -0.1820964
+          "current_price": 302.96,
+          "return_pct": 0.7633080000000001
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 20.544790900000002,
+          "weight_pct": 20.4809983,
           "cost_price": 36.257277152,
-          "current_price": 35.5401,
-          "return_pct": -1.9780226
+          "current_price": 35.535,
+          "return_pct": -1.9920888
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 20.1907056,
+          "weight_pct": 20.2493544,
           "cost_price": 320.253215727,
-          "current_price": 328.85,
-          "return_pct": 2.6843709000000002
+          "current_price": 330.785,
+          "return_pct": 3.2885803
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4072312
+          "weight_pct": 99.4089869
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 54.7937185
+          "weight_pct": 54.703271099999995
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 24.068721800000002
+          "weight_pct": 24.2247175
         },
         {
           "name": "其他",
-          "weight_pct": 20.544790900000002
+          "weight_pct": 20.4809983
         }
       ]
     }
