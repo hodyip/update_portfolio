@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T03:40:35+08:00",
-  "generated_at_utc": "2026-10-06T19:40:35+00:00",
+  "generated_at": "2026-10-07T04:40:33+08:00",
+  "generated_at_utc": "2026-10-06T20:40:33+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-07T03:40:35+08:00",
-      "invested_pct": 99.2954775,
-      "cash_pct": 0.7045224999999959,
-      "weighted_return_pct": 2.914420861170177,
+      "updated_at": "2026-10-07T04:40:33+08:00",
+      "invested_pct": 99.2943081,
+      "cash_pct": 0.705691900000005,
+      "weighted_return_pct": 2.758456008940963,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.9526874,
+          "weight_pct": 29.789627600000003,
           "cost_price": 37.317253042,
-          "current_price": 36.7607,
-          "return_pct": -1.4914095
+          "current_price": 36.5,
+          "return_pct": -2.1900139
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 25.8753895,
+          "weight_pct": 26.1256655,
           "cost_price": 318.236358681,
-          "current_price": 335.6748,
-          "return_pct": 5.4797137000000005
+          "current_price": 338.36,
+          "return_pct": 6.3234891
         },
         {
           "code": "CCJ",
           "name": "Cameco",
           "market": "US",
-          "weight_pct": 24.050077,
+          "weight_pct": 24.0744636,
           "cost_price": 92.66069648,
-          "current_price": 93.08,
-          "return_pct": 0.45251500000000006
+          "current_price": 93.02,
+          "return_pct": 0.3877626
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 19.4173236,
+          "weight_pct": 19.3045514,
           "cost_price": 103.661422387,
-          "current_price": 113.345,
-          "return_pct": 9.3415442
+          "current_price": 112.5,
+          "return_pct": 8.5263904
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.29547749999999
+          "weight_pct": 99.2943081
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 45.2927131
+          "weight_pct": 45.4302169
         },
         {
           "name": "其他",
-          "weight_pct": 29.9526874
+          "weight_pct": 29.789627600000003
         },
         {
           "name": "採掘",
-          "weight_pct": 24.050077
+          "weight_pct": 24.0744636
         }
       ]
     },
@@ -80,63 +80,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-07T03:40:35+08:00",
-      "invested_pct": 99.64669330000001,
-      "cash_pct": 0.3533066999999903,
-      "weighted_return_pct": 1.7514863558570508,
+      "updated_at": "2026-10-07T04:40:33+08:00",
+      "invested_pct": 99.64706,
+      "cash_pct": 0.3529400000000038,
+      "weighted_return_pct": 1.8762632356995717,
       "position_count": 4,
       "positions": [
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 30.1023182,
+          "weight_pct": 30.3104861,
           "cost_price": 325.662128783,
-          "current_price": 335.6748,
-          "return_pct": 3.0745581
+          "current_price": 338.36,
+          "return_pct": 3.8990935999999996
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 26.630187799999998,
+          "weight_pct": 26.412894799999997,
           "cost_price": 36.253271001,
-          "current_price": 36.7607,
-          "return_pct": 1.3996777999999999
+          "current_price": 36.5,
+          "return_pct": 0.6805703
         },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 24.0283723,
+          "weight_pct": 24.09478,
           "cost_price": 191.522684664,
-          "current_price": 196.445,
-          "return_pct": 2.5700952
+          "current_price": 197.2,
+          "return_pct": 2.9643044
         },
         {
           "code": "ARM",
           "name": "Arm Holdings",
           "market": "US",
-          "weight_pct": 18.885815,
+          "weight_pct": 18.828899099999997,
           "cost_price": 305.91,
-          "current_price": 303.1482,
-          "return_pct": -0.9028146000000001
+          "current_price": 302.56,
+          "return_pct": -1.0950933
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6466933
+          "weight_pct": 99.64706
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 73.0165055
+          "weight_pct": 73.2341652
         },
         {
           "name": "其他",
-          "weight_pct": 26.630187799999998
+          "weight_pct": 26.412894799999997
         }
       ]
     }
