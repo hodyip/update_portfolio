@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T00:40:39+08:00",
-  "generated_at_utc": "2026-10-07T16:40:39+00:00",
+  "generated_at": "2026-10-08T01:40:36+08:00",
+  "generated_at_utc": "2026-10-07T17:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-08T00:40:39+08:00",
-      "invested_pct": 98.88075669999999,
-      "cash_pct": 1.119243300000008,
-      "weighted_return_pct": 1.9221319043874354,
+      "updated_at": "2026-10-08T01:40:35+08:00",
+      "invested_pct": 98.891892,
+      "cash_pct": 1.1081080000000014,
+      "weighted_return_pct": 2.9747796726165574,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 30.427183499999998,
+          "weight_pct": 30.239256799999996,
           "cost_price": 37.317719816,
-          "current_price": 36.74,
-          "return_pct": -1.5481112
+          "current_price": 36.88,
+          "return_pct": -1.1729543
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 26.6661251,
+          "weight_pct": 26.3982816,
           "cost_price": 106.267185535,
-          "current_price": 113.11,
-          "return_pct": 6.439254399999999
+          "current_price": 113.0991,
+          "return_pct": 6.4289973
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 25.5212208,
+          "weight_pct": 26.107758800000003,
           "cost_price": 318.234941491,
-          "current_price": 325.745,
-          "return_pct": 2.3599101
+          "current_price": 336.58,
+          "return_pct": 5.7646274
         },
         {
           "code": "SNDK",
           "name": "閃迪",
           "market": "US",
-          "weight_pct": 16.2662273,
+          "weight_pct": 16.1465948,
           "cost_price": 1715.6351,
-          "current_price": 1721.15,
-          "return_pct": 0.3214495
+          "current_price": 1725.66,
+          "return_pct": 0.5843259
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.8807567
+          "weight_pct": 98.891892
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 52.187345900000004
+          "weight_pct": 52.506040399999996
         },
         {
           "name": "其他",
-          "weight_pct": 30.427183499999998
+          "weight_pct": 30.239256799999996
         },
         {
           "name": "計算機",
-          "weight_pct": 16.2662273
+          "weight_pct": 16.1465948
         }
       ]
     },
@@ -80,54 +80,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-08T00:40:39+08:00",
-      "invested_pct": 99.95075159999999,
-      "cash_pct": 0.049248400000010406,
-      "weighted_return_pct": 0.9495956774923539,
+      "updated_at": "2026-10-08T01:40:36+08:00",
+      "invested_pct": 99.951431,
+      "cash_pct": 0.04856900000000053,
+      "weighted_return_pct": 2.360796393680721,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 46.5163229,
+          "weight_pct": 46.049451600000005,
           "cost_price": 36.067472031,
-          "current_price": 36.74,
-          "return_pct": 1.8646385
+          "current_price": 36.88,
+          "return_pct": 2.2527999
         },
         {
           "code": "COHR",
           "name": "Coherent",
           "market": "US",
-          "weight_pct": 29.5713996,
+          "weight_pct": 30.143360400000002,
           "cost_price": 325.670683589,
-          "current_price": 325.745,
-          "return_pct": 0.0228195
+          "current_price": 336.69,
+          "return_pct": 3.3835764
         },
         {
           "code": "SMTC",
           "name": "先科電子",
           "market": "US",
-          "weight_pct": 23.8630291,
+          "weight_pct": 23.758619,
           "cost_price": 191.522905463,
-          "current_price": 192.125,
-          "return_pct": 0.3143721
+          "current_price": 193.96,
+          "return_pct": 1.272482
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9507516
+          "weight_pct": 99.951431
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 53.434428700000005
+          "weight_pct": 53.9019794
         },
         {
           "name": "其他",
-          "weight_pct": 46.5163229
+          "weight_pct": 46.049451600000005
         }
       ]
     }
