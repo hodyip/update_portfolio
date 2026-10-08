@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T03:40:40+08:00",
-  "generated_at_utc": "2026-10-08T19:40:40+00:00",
+  "generated_at": "2026-10-09T04:40:34+08:00",
+  "generated_at_utc": "2026-10-08T20:40:34+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,71 +10,71 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T03:40:39+08:00",
-      "invested_pct": 72.8063836,
-      "cash_pct": 27.193616399999996,
-      "weighted_return_pct": -1.3767059204077516,
+      "updated_at": "2026-10-09T04:40:34+08:00",
+      "invested_pct": 72.8518346,
+      "cash_pct": 27.148165399999996,
+      "weighted_return_pct": -1.1515972904667648,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 24.9999911,
+          "weight_pct": 25.0277472,
           "cost_price": 37.687196592,
-          "current_price": 35.89,
-          "return_pct": -4.7687192000000005
+          "current_price": 35.99,
+          "return_pct": -4.5033771
         },
         {
           "code": "UBER",
           "name": "優步",
           "market": "US",
-          "weight_pct": 19.9855348,
+          "weight_pct": 19.971551100000003,
           "cost_price": 69.928538121,
-          "current_price": 70.1717,
-          "return_pct": 0.3477291
+          "current_price": 70.24,
+          "return_pct": 0.4454002
         },
         {
           "code": "NFLX",
           "name": "奈飛",
           "market": "US",
-          "weight_pct": 17.7808673,
+          "weight_pct": 17.7813597,
           "cost_price": 71.070516005,
-          "current_price": 71.4484,
-          "return_pct": 0.5317029
+          "current_price": 71.57,
+          "return_pct": 0.7028006
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 10.0399904,
+          "weight_pct": 10.0711766,
           "cost_price": 106.29671268,
-          "current_price": 106.57,
-          "return_pct": 0.2570986
+          "current_price": 107.08,
+          "return_pct": 0.7368876
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 72.8063836
+          "weight_pct": 72.8518346
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 24.9999911
+          "weight_pct": 25.0277472
         },
         {
           "name": "計算機",
-          "weight_pct": 19.9855348
+          "weight_pct": 19.971551100000003
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 17.7808673
+          "weight_pct": 17.7813597
         },
         {
           "name": "電子",
-          "weight_pct": 10.0399904
+          "weight_pct": 10.0711766
         }
       ]
     },
@@ -84,47 +84,47 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T03:40:40+08:00",
-      "invested_pct": 100.00000000000001,
-      "cash_pct": -1.4210854715202004e-14,
-      "weighted_return_pct": 0.18182035891795575,
+      "updated_at": "2026-10-09T04:40:34+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 0.6629880764600486,
       "position_count": 4,
       "positions": [
         {
           "code": "NFLX",
           "name": "奈飛",
           "market": "US",
-          "weight_pct": 50.018504500000006,
+          "weight_pct": 49.865808799999996,
           "cost_price": 71.441446934,
-          "current_price": 71.4484,
-          "return_pct": 0.0097325
+          "current_price": 71.57,
+          "return_pct": 0.1799419
         },
         {
           "code": "UBER",
           "name": "優步",
           "market": "US",
-          "weight_pct": 30.0350966,
+          "weight_pct": 29.9216263,
           "cost_price": 69.818,
-          "current_price": 70.1717,
-          "return_pct": 0.5066029
+          "current_price": 70.24,
+          "return_pct": 0.6044286999999999
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 10.037728,
+          "weight_pct": 10.143655,
           "cost_price": 75.53,
-          "current_price": 76.11,
-          "return_pct": 0.7679068
+          "current_price": 77.28,
+          "return_pct": 2.3169601
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 9.908670899999999,
+          "weight_pct": 10.068909900000001,
           "cost_price": 149.71,
-          "current_price": 148.92,
-          "return_pct": -0.5276869
+          "current_price": 152.05,
+          "return_pct": 1.5630218
         }
       ],
       "by_market": [
@@ -136,15 +136,15 @@
       "by_industry": [
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 50.018504500000006
+          "weight_pct": 49.865808799999996
         },
         {
           "name": "計算機",
-          "weight_pct": 30.0350966
+          "weight_pct": 29.9216263
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 19.946398900000002
+          "weight_pct": 20.2125649
         }
       ]
     }
