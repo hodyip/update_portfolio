@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T00:40:38+08:00",
-  "generated_at_utc": "2026-10-08T16:40:38+00:00",
+  "generated_at": "2026-10-09T01:40:38+08:00",
+  "generated_at_utc": "2026-10-08T17:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,58 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T00:40:37+08:00",
-      "invested_pct": 73.7748954,
-      "cash_pct": 26.225104599999995,
-      "weighted_return_pct": 0.19339265096489147,
+      "updated_at": "2026-10-09T01:40:37+08:00",
+      "invested_pct": 57.7622022,
+      "cash_pct": 42.2377978,
+      "weighted_return_pct": -2.0605433083879374,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 31.481276800000003,
-          "cost_price": 37.317732877,
-          "current_price": 37.2301,
-          "return_pct": -0.23482899999999998
+          "weight_pct": 25.0462582,
+          "cost_price": 37.687796065,
+          "current_price": 35.9,
+          "return_pct": -4.7437002
+        },
+        {
+          "code": "NFLX",
+          "name": "奈飛",
+          "market": "US",
+          "weight_pct": 17.7095199,
+          "cost_price": 71.07047365,
+          "current_price": 71.06,
+          "return_pct": -0.014737
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 26.396275000000003,
-          "cost_price": 106.266139763,
-          "current_price": 109.67,
-          "return_pct": 3.2031466
-        },
-        {
-          "code": "SNDK",
-          "name": "閃迪",
-          "market": "US",
-          "weight_pct": 15.8973436,
-          "cost_price": 1715.667910954,
-          "current_price": 1647.795,
-          "return_pct": -3.9560633999999997
+          "weight_pct": 15.006424099999998,
+          "cost_price": 106.061466804,
+          "current_price": 106.0651,
+          "return_pct": 0.0034256
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 73.77489539999999
+          "weight_pct": 57.762202200000004
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 31.481276800000003
+          "weight_pct": 25.0462582
+        },
+        {
+          "name": "互聯網與傳媒",
+          "weight_pct": 17.7095199
         },
         {
           "name": "電子",
-          "weight_pct": 26.396275000000003
-        },
-        {
-          "name": "計算機",
-          "weight_pct": 15.8973436
+          "weight_pct": 15.006424099999998
         }
       ]
     },
@@ -71,45 +71,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T00:40:38+08:00",
-      "invested_pct": 100.0,
-      "cash_pct": 0.0,
-      "weighted_return_pct": 1.3332977943311457,
-      "position_count": 2,
+      "updated_at": "2026-10-09T01:40:38+08:00",
+      "invested_pct": 51.0028843,
+      "cash_pct": 48.9971157,
+      "weighted_return_pct": -0.5255787,
+      "position_count": 1,
       "positions": [
         {
           "code": "NFLX",
           "name": "奈飛",
           "market": "US",
-          "weight_pct": 50.0430598,
-          "cost_price": 71.435,
-          "current_price": 71.195,
-          "return_pct": -0.3359698
-        },
-        {
-          "code": "FNGU",
-          "name": "3倍做多FANG+指數ETN-MicroSectors",
-          "market": "US",
-          "weight_pct": 49.9569402,
-          "cost_price": 36.143818153,
-          "current_price": 37.2301,
-          "return_pct": 3.005443
+          "weight_pct": 51.0028843,
+          "cost_price": 71.435449512,
+          "current_price": 71.06,
+          "return_pct": -0.5255787
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 100.0
+          "weight_pct": 51.0028843
         }
       ],
       "by_industry": [
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 50.0430598
-        },
-        {
-          "name": "其他",
-          "weight_pct": 49.9569402
+          "weight_pct": 51.0028843
         }
       ]
     }
