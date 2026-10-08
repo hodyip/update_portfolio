@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T01:40:38+08:00",
-  "generated_at_utc": "2026-10-08T17:40:38+00:00",
+  "generated_at": "2026-10-09T02:40:36+08:00",
+  "generated_at_utc": "2026-10-08T18:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,58 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T01:40:37+08:00",
-      "invested_pct": 57.7622022,
-      "cash_pct": 42.2377978,
-      "weighted_return_pct": -2.0605433083879374,
+      "updated_at": "2026-10-09T02:40:35+08:00",
+      "invested_pct": 52.7734863,
+      "cash_pct": 47.2265137,
+      "weighted_return_pct": -2.349029710618631,
       "position_count": 3,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 25.0462582,
-          "cost_price": 37.687796065,
-          "current_price": 35.9,
-          "return_pct": -4.7437002
+          "weight_pct": 25.0260045,
+          "cost_price": 37.687076117,
+          "current_price": 35.84,
+          "return_pct": -4.9010863
         },
         {
           "code": "NFLX",
           "name": "奈飛",
           "market": "US",
-          "weight_pct": 17.7095199,
-          "cost_price": 71.07047365,
-          "current_price": 71.06,
-          "return_pct": -0.014737
+          "weight_pct": 17.7023856,
+          "cost_price": 71.07046875,
+          "current_price": 70.99,
+          "return_pct": -0.11322389999999999
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 15.006424099999998,
-          "cost_price": 106.061466804,
-          "current_price": 106.0651,
-          "return_pct": 0.0034256
+          "weight_pct": 10.0450962,
+          "cost_price": 106.296724911,
+          "current_price": 106.37,
+          "return_pct": 0.0689345
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 57.762202200000004
+          "weight_pct": 52.7734863
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 25.0462582
+          "weight_pct": 25.0260045
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 17.7095199
+          "weight_pct": 17.7023856
         },
         {
           "name": "電子",
-          "weight_pct": 15.006424099999998
+          "weight_pct": 10.0450962
         }
       ]
     },
@@ -71,32 +71,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-09T01:40:38+08:00",
-      "invested_pct": 51.0028843,
-      "cash_pct": 48.9971157,
-      "weighted_return_pct": -0.5255787,
+      "updated_at": "2026-10-09T02:40:36+08:00",
+      "invested_pct": 50.9764946,
+      "cash_pct": 49.0235054,
+      "weighted_return_pct": -0.6305685999999999,
       "position_count": 1,
       "positions": [
         {
           "code": "NFLX",
           "name": "奈飛",
           "market": "US",
-          "weight_pct": 51.0028843,
+          "weight_pct": 50.9764946,
           "cost_price": 71.435449512,
-          "current_price": 71.06,
-          "return_pct": -0.5255787
+          "current_price": 70.985,
+          "return_pct": -0.6305685999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 51.0028843
+          "weight_pct": 50.9764946
         }
       ],
       "by_industry": [
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 51.0028843
+          "weight_pct": 50.9764946
         }
       ]
     }
