@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T00:40:37+08:00",
-  "generated_at_utc": "2026-10-09T16:40:37+00:00",
+  "generated_at": "2026-10-10T01:40:36+08:00",
+  "generated_at_utc": "2026-10-09T17:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,84 +10,84 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-10T00:40:36+08:00",
-      "invested_pct": 99.61673060000003,
-      "cash_pct": 0.3832693999999748,
-      "weighted_return_pct": -0.41017720775560174,
+      "updated_at": "2026-10-10T01:40:36+08:00",
+      "invested_pct": 99.61496299999999,
+      "cash_pct": 0.3850370000000112,
+      "weighted_return_pct": -0.8694225618362645,
       "position_count": 5,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 25.415336900000003,
+          "weight_pct": 25.4329783,
           "cost_price": 37.686604307,
-          "current_price": 36.7182,
-          "return_pct": -2.5696247
+          "current_price": 36.575,
+          "return_pct": -2.9496006
         },
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 25.106484299999998,
+          "weight_pct": 25.1329696,
           "cost_price": 86.945,
-          "current_price": 86.5615,
-          "return_pct": -0.44108339999999996
+          "current_price": 86.255,
+          "return_pct": -0.7936052000000001
         },
         {
           "code": "UBER",
           "name": "優步",
           "market": "US",
-          "weight_pct": 20.1866573,
+          "weight_pct": 20.2038621,
           "cost_price": 69.929023366,
-          "current_price": 71.342,
-          "return_pct": 2.0205868
+          "current_price": 71.075,
+          "return_pct": 1.6387711
         },
         {
           "code": "PBR",
           "name": "巴西石油公司",
           "market": "US",
-          "weight_pct": 19.024530300000002,
+          "weight_pct": 18.913966300000002,
           "cost_price": 25.525,
-          "current_price": 25.54,
-          "return_pct": 0.0587659
+          "current_price": 25.275,
+          "return_pct": -0.9794318999999999
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 9.8837218,
+          "weight_pct": 9.9311867,
           "cost_price": 106.296739789,
-          "current_price": 105.61,
-          "return_pct": -0.6460591
+          "current_price": 105.63,
+          "return_pct": -0.6272439000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6167306
+          "weight_pct": 99.614963
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 25.415336900000003
+          "weight_pct": 25.4329783
         },
         {
           "name": "非銀金融",
-          "weight_pct": 25.106484299999998
+          "weight_pct": 25.1329696
         },
         {
           "name": "計算機",
-          "weight_pct": 20.1866573
+          "weight_pct": 20.2038621
         },
         {
           "name": "採掘",
-          "weight_pct": 19.024530300000002
+          "weight_pct": 18.913966300000002
         },
         {
           "name": "電子",
-          "weight_pct": 9.8837218
+          "weight_pct": 9.9311867
         }
       ]
     },
@@ -97,80 +97,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-10T00:40:37+08:00",
-      "invested_pct": 99.9799969,
-      "cash_pct": 0.02000309999999672,
-      "weighted_return_pct": 2.555251272153951,
+      "updated_at": "2026-10-10T01:40:36+08:00",
+      "invested_pct": 99.9799387,
+      "cash_pct": 0.02006129999999473,
+      "weighted_return_pct": 2.281853362739513,
       "position_count": 5,
       "positions": [
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 30.008584199999998,
+          "weight_pct": 29.991075699999996,
           "cost_price": 85.456584386,
-          "current_price": 86.5615,
-          "return_pct": 1.2929555000000001
+          "current_price": 86.26,
+          "return_pct": 0.9401448
         },
         {
           "code": "PBR",
           "name": "巴西石油公司",
           "market": "US",
-          "weight_pct": 29.2614914,
+          "weight_pct": 29.0364536,
           "cost_price": 25.282596728,
-          "current_price": 25.545,
-          "return_pct": 1.037881
+          "current_price": 25.275,
+          "return_pct": -0.0300473
         },
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 19.8323694,
+          "weight_pct": 19.9277718,
           "cost_price": 108.01,
-          "current_price": 108.17,
-          "return_pct": 0.1481344
-        },
-        {
-          "code": "TWST",
-          "name": "Twist Bioscience",
-          "market": "US",
-          "weight_pct": 10.4683379,
-          "cost_price": 149.687791753,
-          "current_price": 163.205,
-          "return_pct": 9.0302677
+          "current_price": 108.375,
+          "return_pct": 0.3379317
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 10.409214,
+          "weight_pct": 10.521658,
           "cost_price": 75.515351436,
-          "current_price": 81.96,
-          "return_pct": 8.5342231
+          "current_price": 82.605,
+          "return_pct": 9.3883541
+        },
+        {
+          "code": "TWST",
+          "name": "Twist Bioscience",
+          "market": "US",
+          "weight_pct": 10.5029796,
+          "cost_price": 149.687791753,
+          "current_price": 163.27,
+          "return_pct": 9.0736914
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9799969
+          "weight_pct": 99.9799387
         }
       ],
       "by_industry": [
         {
           "name": "非銀金融",
-          "weight_pct": 30.008584199999998
+          "weight_pct": 29.991075699999996
         },
         {
           "name": "採掘",
-          "weight_pct": 29.2614914
+          "weight_pct": 29.0364536
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 20.8775519
+          "weight_pct": 21.024637600000002
         },
         {
           "name": "其他",
-          "weight_pct": 19.8323694
+          "weight_pct": 19.9277718
         }
       ]
     }
