@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T03:40:35+08:00",
-  "generated_at_utc": "2026-10-12T19:40:35+00:00",
+  "generated_at": "2026-10-13T04:40:38+08:00",
+  "generated_at_utc": "2026-10-12T20:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,71 +10,71 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-13T03:40:34+08:00",
-      "invested_pct": 99.71802500000001,
-      "cash_pct": 0.28197499999998854,
-      "weighted_return_pct": -2.64663257322577,
+      "updated_at": "2026-10-13T04:40:38+08:00",
+      "invested_pct": 99.71894329999999,
+      "cash_pct": 0.2810567000000077,
+      "weighted_return_pct": -2.3339607433319594,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.955516300000003,
+          "weight_pct": 29.890619899999997,
           "cost_price": 37.56616799,
-          "current_price": 36.57,
-          "return_pct": -2.651769
+          "current_price": 36.61,
+          "return_pct": -2.5452902
         },
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 24.5633202,
+          "weight_pct": 24.7429395,
           "cost_price": 86.946401681,
-          "current_price": 82.99,
-          "return_pct": -4.5503915
+          "current_price": 83.87,
+          "return_pct": -3.5382736999999995
         },
         {
           "code": "PBR",
           "name": "巴西石油公司",
           "market": "US",
-          "weight_pct": 24.0545976,
+          "weight_pct": 24.0282488,
           "cost_price": 25.575112722,
-          "current_price": 25.365,
-          "return_pct": -0.8215515
+          "current_price": 25.42,
+          "return_pct": -0.6064987
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 21.144590899999997,
+          "weight_pct": 21.0571351,
           "cost_price": 104.044831521,
-          "current_price": 101.4395,
-          "return_pct": -2.504047
+          "current_price": 101.35,
+          "return_pct": -2.5900676000000002
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.718025
+          "weight_pct": 99.71894329999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 29.955516300000003
+          "weight_pct": 29.890619899999997
         },
         {
           "name": "非銀金融",
-          "weight_pct": 24.5633202
+          "weight_pct": 24.7429395
         },
         {
           "name": "採掘",
-          "weight_pct": 24.0545976
+          "weight_pct": 24.0282488
         },
         {
           "name": "電子",
-          "weight_pct": 21.144590899999997
+          "weight_pct": 21.0571351
         }
       ]
     },
@@ -84,67 +84,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-13T03:40:35+08:00",
-      "invested_pct": 99.95679790000001,
-      "cash_pct": 0.04320209999998781,
-      "weighted_return_pct": -1.733112877779257,
+      "updated_at": "2026-10-13T04:40:38+08:00",
+      "invested_pct": 99.9570499,
+      "cash_pct": 0.04295009999999877,
+      "weighted_return_pct": -1.16353240151538,
       "position_count": 4,
       "positions": [
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 44.3652916,
+          "weight_pct": 44.5741805,
           "cost_price": 85.433471261,
-          "current_price": 82.99,
-          "return_pct": -2.8600866
+          "current_price": 83.87,
+          "return_pct": -1.8300453
         },
         {
           "code": "PBR",
           "name": "巴西石油公司",
           "market": "US",
-          "weight_pct": 30.029733800000002,
+          "weight_pct": 29.9192919,
           "cost_price": 25.282595279,
-          "current_price": 25.365,
-          "return_pct": 0.3259346
+          "current_price": 25.42,
+          "return_pct": 0.5434755
         },
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 19.9568728,
+          "weight_pct": 19.8989207,
           "cost_price": 108.007124132,
-          "current_price": 105.2,
-          "return_pct": -2.5990176
+          "current_price": 105.51,
+          "return_pct": -2.3119995
         },
         {
           "code": "FBL",
           "name": "2倍做多META ETF-GraniteShares",
           "market": "US",
-          "weight_pct": 5.604899700000001,
+          "weight_pct": 5.5646568,
           "cost_price": 33.4799,
-          "current_price": 33.225,
-          "return_pct": -0.7613523
+          "current_price": 33.18,
+          "return_pct": -0.8957613
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9567979
+          "weight_pct": 99.9570499
         }
       ],
       "by_industry": [
         {
           "name": "非銀金融",
-          "weight_pct": 44.3652916
+          "weight_pct": 44.5741805
         },
         {
           "name": "採掘",
-          "weight_pct": 30.029733800000002
+          "weight_pct": 29.9192919
         },
         {
           "name": "其他",
-          "weight_pct": 25.561772500000004
+          "weight_pct": 25.4635775
         }
       ]
     }
