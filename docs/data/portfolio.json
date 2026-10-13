@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T03:40:35+08:00",
-  "generated_at_utc": "2026-10-13T19:40:35+00:00",
+  "generated_at": "2026-10-14T04:40:35+08:00",
+  "generated_at_utc": "2026-10-13T20:40:35+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,71 +10,71 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T03:40:35+08:00",
-      "invested_pct": 99.03836199999999,
-      "cash_pct": 0.9616380000000078,
-      "weighted_return_pct": -1.8054951510286659,
+      "updated_at": "2026-10-14T04:40:34+08:00",
+      "invested_pct": 99.038621,
+      "cash_pct": 0.9613789999999938,
+      "weighted_return_pct": -1.778149515059511,
       "position_count": 4,
       "positions": [
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.9317956,
+          "weight_pct": 29.8942401,
           "cost_price": 37.566240154,
-          "current_price": 36.7262,
-          "return_pct": -2.2361571000000002
+          "current_price": 36.69,
+          "return_pct": -2.3325202
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 25.4101827,
+          "weight_pct": 25.521252399999998,
           "cost_price": 103.453731873,
-          "current_price": 102.335,
-          "return_pct": -1.0813838
+          "current_price": 102.81,
+          "return_pct": -0.6222413
         },
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 24.8128346,
+          "weight_pct": 24.8135139,
           "cost_price": 86.94630145,
-          "current_price": 84.245,
-          "return_pct": -3.1068618
+          "current_price": 84.27,
+          "return_pct": -3.0781084
         },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 18.8835491,
+          "weight_pct": 18.8096146,
           "cost_price": 82.5798,
-          "current_price": 82.26,
-          "return_pct": -0.3872618
+          "current_price": 81.96,
+          "return_pct": -0.7505467
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.038362
+          "weight_pct": 99.038621
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 29.9317956
+          "weight_pct": 29.8942401
         },
         {
           "name": "電子",
-          "weight_pct": 25.4101827
+          "weight_pct": 25.521252399999998
         },
         {
           "name": "非銀金融",
-          "weight_pct": 24.8128346
+          "weight_pct": 24.8135139
         },
         {
           "name": "商業貿易",
-          "weight_pct": 18.8835491
+          "weight_pct": 18.8096146
         }
       ]
     },
@@ -84,67 +84,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T03:40:35+08:00",
-      "invested_pct": 99.8564755,
-      "cash_pct": 0.14352449999999806,
-      "weighted_return_pct": -0.4745630124685705,
+      "updated_at": "2026-10-14T04:40:35+08:00",
+      "invested_pct": 99.85656650000001,
+      "cash_pct": 0.14343349999998622,
+      "weighted_return_pct": -0.4044235418705728,
       "position_count": 4,
       "positions": [
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 30.612889999999997,
+          "weight_pct": 30.6029767,
           "cost_price": 86.561561623,
-          "current_price": 84.245,
-          "return_pct": -2.6762013000000002
+          "current_price": 84.27,
+          "return_pct": -2.6473201
         },
         {
           "code": "FNGU",
           "name": "3倍做多FANG+指數ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 30.2027391,
+          "weight_pct": 30.1542498,
           "cost_price": 36.689623002,
-          "current_price": 36.7262,
-          "return_pct": 0.099693
+          "current_price": 36.69,
+          "return_pct": 0.0010275
         },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 19.7394517,
+          "weight_pct": 19.6552608,
           "cost_price": 82.553688886,
-          "current_price": 82.26,
-          "return_pct": -0.355755
+          "current_price": 81.96,
+          "return_pct": -0.7191549
         },
         {
           "code": "INTW",
           "name": "2倍做多INTC ETF-GraniteShares",
           "market": "US",
-          "weight_pct": 19.3013947,
+          "weight_pct": 19.4440792,
           "cost_price": 22.0104,
-          "current_price": 22.45,
-          "return_pct": 1.9972377
+          "current_price": 22.63,
+          "return_pct": 2.8150329000000003
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.8564755
+          "weight_pct": 99.8565665
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 49.5041338
+          "weight_pct": 49.598329
         },
         {
           "name": "非銀金融",
-          "weight_pct": 30.612889999999997
+          "weight_pct": 30.6029767
         },
         {
           "name": "商業貿易",
-          "weight_pct": 19.7394517
+          "weight_pct": 19.6552608
         }
       ]
     }
