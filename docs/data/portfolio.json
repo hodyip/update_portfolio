@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T22:40:37+08:00",
-  "generated_at_utc": "2026-10-14T14:40:37+00:00",
+  "generated_at": "2026-10-14T23:40:38+08:00",
+  "generated_at_utc": "2026-10-14T15:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T22:40:36+08:00",
-      "invested_pct": 99.6559045,
-      "cash_pct": 0.34409549999999456,
-      "weighted_return_pct": -2.659651157803122,
-      "position_count": 5,
+      "updated_at": "2026-10-14T23:40:37+08:00",
+      "invested_pct": 59.3145071,
+      "cash_pct": 40.6854929,
+      "weighted_return_pct": -2.6911261828708155,
+      "position_count": 4,
       "positions": [
         {
-          "code": "FNGU",
-          "name": "3倍做多FANG+指數ETN-MicroSectors",
+          "code": "PDD",
+          "name": "拼多多",
           "market": "US",
-          "weight_pct": 29.8154131,
-          "cost_price": 37.569493627,
-          "current_price": 35.59,
-          "return_pct": -5.2688856
+          "weight_pct": 19.5598952,
+          "cost_price": 82.575747494,
+          "current_price": 81.62,
+          "return_pct": -1.1574191
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 25.483569900000003,
-          "cost_price": 103.466353081,
-          "current_price": 100.09,
-          "return_pct": -3.2632377
-        },
-        {
-          "code": "PDD",
-          "name": "拼多多",
-          "market": "US",
-          "weight_pct": 19.3785558,
-          "cost_price": 82.576422447,
-          "current_price": 81.65,
-          "return_pct": -1.121897
+          "weight_pct": 14.954557499999998,
+          "cost_price": 105.959749068,
+          "current_price": 99.37,
+          "return_pct": -6.219106
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 15.051727300000001,
-          "cost_price": 70.477797229,
-          "current_price": 70.785,
-          "return_pct": 0.43588589999999994
+          "weight_pct": 14.8989236,
+          "cost_price": 70.47720634,
+          "current_price": 69.37,
+          "return_pct": -1.5710134
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 9.9266384,
-          "cost_price": 308.024187902,
-          "current_price": 305.04,
-          "return_pct": -0.9688161000000001
+          "weight_pct": 9.9011308,
+          "cost_price": 308.025422869,
+          "current_price": 301.625,
+          "return_pct": -2.0778879
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6559045
+          "weight_pct": 59.3145071
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 29.8154131
-        },
-        {
-          "name": "電子",
-          "weight_pct": 25.483569900000003
-        },
-        {
           "name": "醫藥生物",
-          "weight_pct": 24.978365699999998
+          "weight_pct": 24.8000544
         },
         {
           "name": "商業貿易",
-          "weight_pct": 19.3785558
+          "weight_pct": 19.5598952
+        },
+        {
+          "name": "電子",
+          "weight_pct": 14.954557499999998
         }
       ]
     },
@@ -93,67 +80,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T22:40:37+08:00",
-      "invested_pct": 99.85119470000001,
-      "cash_pct": 0.14880529999999226,
-      "weighted_return_pct": -3.9627886536171224,
-      "position_count": 4,
+      "updated_at": "2026-10-14T23:40:38+08:00",
+      "invested_pct": 70.1071051,
+      "cash_pct": 29.8928949,
+      "weighted_return_pct": -1.7543651562923308,
+      "position_count": 3,
       "positions": [
         {
-          "code": "FNGU",
-          "name": "3倍做多FANG+指數ETN-MicroSectors",
+          "code": "TEM",
+          "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 30.3441509,
-          "cost_price": 36.689623002,
-          "current_price": 35.59,
-          "return_pct": -2.9970954
-        },
-        {
-          "code": "CRCL",
-          "name": "Circle",
-          "market": "US",
-          "weight_pct": 30.0653985,
-          "cost_price": 86.561561623,
-          "current_price": 79.805,
-          "return_pct": -7.8054988000000005
+          "weight_pct": 39.5554669,
+          "cost_price": 71.020098267,
+          "current_price": 69.37,
+          "return_pct": -2.3234244
         },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 20.3132416,
-          "cost_price": 82.553688886,
-          "current_price": 81.65,
-          "return_pct": -1.0946681
+          "weight_pct": 20.507397899999997,
+          "cost_price": 82.552622187,
+          "current_price": 81.62,
+          "return_pct": -1.1297305
         },
         {
-          "code": "INTW",
-          "name": "2倍做多INTC ETF-GraniteShares",
+          "code": "BZ",
+          "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 19.1284037,
-          "cost_price": 22.0104,
-          "current_price": 21.46,
-          "return_pct": -2.5006361
+          "weight_pct": 10.0442403,
+          "cost_price": 16.485010721,
+          "current_price": 16.355,
+          "return_pct": -0.7886601999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.85119470000001
+          "weight_pct": 70.1071051
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 49.4725546
-        },
-        {
-          "name": "非銀金融",
-          "weight_pct": 30.0653985
+          "name": "醫藥生物",
+          "weight_pct": 39.5554669
         },
         {
           "name": "商業貿易",
-          "weight_pct": 20.3132416
+          "weight_pct": 20.507397899999997
+        },
+        {
+          "name": "互聯網與傳媒",
+          "weight_pct": 10.0442403
         }
       ]
     }
