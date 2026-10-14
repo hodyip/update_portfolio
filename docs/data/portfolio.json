@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:40:38+08:00",
-  "generated_at_utc": "2026-10-14T15:40:38+00:00",
+  "generated_at": "2026-10-15T00:40:34+08:00",
+  "generated_at_utc": "2026-10-14T16:40:34+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T23:40:37+08:00",
-      "invested_pct": 59.3145071,
-      "cash_pct": 40.6854929,
-      "weighted_return_pct": -2.6911261828708155,
-      "position_count": 4,
+      "updated_at": "2026-10-15T00:40:34+08:00",
+      "invested_pct": 74.45538339999999,
+      "cash_pct": 25.544616600000012,
+      "weighted_return_pct": -2.0254145541702444,
+      "position_count": 5,
       "positions": [
+        {
+          "code": "LMT",
+          "name": "洛克希德馬丁",
+          "market": "US",
+          "weight_pct": 19.9789849,
+          "cost_price": 518.328320963,
+          "current_price": 519.455,
+          "return_pct": 0.2173678
+        },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 19.5598952,
-          "cost_price": 82.575747494,
-          "current_price": 81.62,
-          "return_pct": -1.1574191
-        },
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 14.954557499999998,
-          "cost_price": 105.959749068,
-          "current_price": 99.37,
-          "return_pct": -6.219106
+          "weight_pct": 19.5044259,
+          "cost_price": 82.576318967,
+          "current_price": 81.4788,
+          "return_pct": -1.3290965
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 14.8989236,
-          "cost_price": 70.47720634,
-          "current_price": 69.37,
-          "return_pct": -1.5710134
+          "weight_pct": 14.901973199999999,
+          "cost_price": 70.477846716,
+          "current_price": 69.45,
+          "return_pct": -1.4583969
+        },
+        {
+          "code": "INTC",
+          "name": "英特爾",
+          "market": "US",
+          "weight_pct": 10.084374799999999,
+          "cost_price": 109.687374157,
+          "current_price": 99.29,
+          "return_pct": -9.4790984
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 9.9011308,
-          "cost_price": 308.025422869,
-          "current_price": 301.625,
-          "return_pct": -2.0778879
+          "weight_pct": 9.9856246,
+          "cost_price": 308.025399213,
+          "current_price": 304.355,
+          "return_pct": -1.1915898
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 59.3145071
+          "weight_pct": 74.4553834
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 24.8000544
+          "weight_pct": 24.887597799999998
+        },
+        {
+          "name": "國防軍工",
+          "weight_pct": 19.9789849
         },
         {
           "name": "商業貿易",
-          "weight_pct": 19.5598952
+          "weight_pct": 19.5044259
         },
         {
           "name": "電子",
-          "weight_pct": 14.954557499999998
+          "weight_pct": 10.084374799999999
         }
       ]
     },
@@ -80,35 +93,35 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-14T23:40:38+08:00",
-      "invested_pct": 70.1071051,
-      "cash_pct": 29.8928949,
-      "weighted_return_pct": -1.7543651562923308,
+      "updated_at": "2026-10-15T00:40:34+08:00",
+      "invested_pct": 70.1220603,
+      "cash_pct": 29.8779397,
+      "weighted_return_pct": -1.6859460416238135,
       "position_count": 3,
       "positions": [
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 39.5554669,
+          "weight_pct": 39.6211663,
           "cost_price": 71.020098267,
-          "current_price": 69.37,
-          "return_pct": -2.3234244
+          "current_price": 69.52,
+          "return_pct": -2.1122164999999997
         },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 20.507397899999997,
+          "weight_pct": 20.461678799999998,
           "cost_price": 82.552622187,
-          "current_price": 81.62,
-          "return_pct": -1.1297305
+          "current_price": 81.4788,
+          "return_pct": -1.300773
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 10.0442403,
+          "weight_pct": 10.0392152,
           "cost_price": 16.485010721,
           "current_price": 16.355,
           "return_pct": -0.7886601999999999
@@ -117,21 +130,21 @@
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 70.1071051
+          "weight_pct": 70.1220603
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 39.5554669
+          "weight_pct": 39.6211663
         },
         {
           "name": "商業貿易",
-          "weight_pct": 20.507397899999997
+          "weight_pct": 20.461678799999998
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 10.0442403
+          "weight_pct": 10.0392152
         }
       ]
     }
