@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T22:40:37+08:00",
-  "generated_at_utc": "2026-10-15T14:40:37+00:00",
+  "generated_at": "2026-10-15T23:40:36+08:00",
+  "generated_at_utc": "2026-10-15T15:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,89 +10,93 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-15T22:40:37+08:00",
-      "invested_pct": 99.4821592,
-      "cash_pct": 0.5178408000000019,
-      "weighted_return_pct": -1.812391677421611,
+      "updated_at": "2026-10-15T23:40:35+08:00",
+      "invested_pct": 99.70551029999999,
+      "cash_pct": 0.29448970000001395,
+      "weighted_return_pct": -1.3391154459860612,
       "position_count": 6,
       "positions": [
-        {
-          "code": "LMT",
-          "name": "洛克希德馬丁",
-          "market": "US",
-          "weight_pct": 20.5618199,
-          "cost_price": 518.334141444,
-          "current_price": 531.49,
-          "return_pct": 2.5381038
-        },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 19.2913642,
-          "cost_price": 101.500807088,
-          "current_price": 92.45,
-          "return_pct": -8.9169804
-        },
-        {
-          "code": "ITB",
-          "name": "美國房屋建築業ETF-iShares",
-          "market": "US",
-          "weight_pct": 18.924056,
-          "cost_price": 86.95,
-          "current_price": 86.87,
-          "return_pct": -0.0920069
-        },
-        {
-          "code": "TQQQ",
-          "name": "三倍做多納指ETF-ProShares",
-          "market": "US",
-          "weight_pct": 15.997630199999998,
-          "cost_price": 71.10642781,
-          "current_price": 71.62,
-          "return_pct": 0.7222585
+          "weight_pct": 30.0494561,
+          "cost_price": 98.919545485,
+          "current_price": 94.0917,
+          "return_pct": -4.8805779000000005
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 14.761255100000001,
-          "cost_price": 70.469153915,
-          "current_price": 68.22,
-          "return_pct": -3.1916857
+          "weight_pct": 20.9594132,
+          "cost_price": 70.256001843,
+          "current_price": 69.57,
+          "return_pct": -0.9764317
+        },
+        {
+          "code": "ITB",
+          "name": "美國房屋建築業ETF-iShares",
+          "market": "US",
+          "weight_pct": 18.642729799999998,
+          "cost_price": 86.950188582,
+          "current_price": 86.44,
+          "return_pct": -0.5867596
+        },
+        {
+          "code": "MSTR",
+          "name": "Strategy",
+          "market": "US",
+          "weight_pct": 10.061239800000001,
+          "cost_price": 147.59,
+          "current_price": 148.44,
+          "return_pct": 0.5759198
+        },
+        {
+          "code": "LMT",
+          "name": "洛克希德馬丁",
+          "market": "US",
+          "weight_pct": 10.0121219,
+          "cost_price": 506.084256806,
+          "current_price": 530.37,
+          "return_pct": 4.7987549
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 9.9460338,
-          "cost_price": 308.004551912,
-          "current_price": 300.83,
-          "return_pct": -2.3293655
+          "weight_pct": 9.980549499999999,
+          "cost_price": 308.008340193,
+          "current_price": 305.14,
+          "return_pct": -0.9312541000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4821592
+          "weight_pct": 99.7055103
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 34.9216862
-        },
-        {
           "name": "醫藥生物",
-          "weight_pct": 24.707288899999998
-        },
-        {
-          "name": "國防軍工",
-          "weight_pct": 20.5618199
+          "weight_pct": 30.939962700000002
         },
         {
           "name": "電子",
-          "weight_pct": 19.2913642
+          "weight_pct": 30.0494561
+        },
+        {
+          "name": "其他",
+          "weight_pct": 18.642729799999998
+        },
+        {
+          "name": "計算機",
+          "weight_pct": 10.061239800000001
+        },
+        {
+          "name": "國防軍工",
+          "weight_pct": 10.0121219
         }
       ]
     },
@@ -102,58 +106,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-15T22:40:37+08:00",
-      "invested_pct": 99.75446319999999,
-      "cash_pct": 0.24553680000001066,
-      "weighted_return_pct": -1.3038499995662163,
+      "updated_at": "2026-10-15T23:40:36+08:00",
+      "invested_pct": 99.75484519999999,
+      "cash_pct": 0.24515480000000878,
+      "weighted_return_pct": -1.192203776839252,
       "position_count": 3,
       "positions": [
         {
           "code": "NAIL",
           "name": "三倍做多住宅建築商和供應-Direxion",
           "market": "US",
-          "weight_pct": 50.70831139999999,
+          "weight_pct": 49.989686,
           "cost_price": 27.347341524,
-          "current_price": 27.5177,
-          "return_pct": 0.6229435
+          "current_price": 27.17,
+          "return_pct": -0.6484781000000001
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 39.0126785,
+          "weight_pct": 39.722796,
           "cost_price": 71.01776947,
-          "current_price": 68.22,
-          "return_pct": -3.9395344
+          "current_price": 69.57,
+          "return_pct": -2.0386017
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 10.033473299999999,
+          "weight_pct": 10.0423632,
           "cost_price": 16.485813607,
-          "current_price": 16.355,
-          "return_pct": -0.793492
+          "current_price": 16.395,
+          "return_pct": -0.5508591
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.7544632
+          "weight_pct": 99.75484519999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.70831139999999
+          "weight_pct": 49.989686
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 39.0126785
+          "weight_pct": 39.722796
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 10.033473299999999
+          "weight_pct": 10.0423632
         }
       ]
     }
