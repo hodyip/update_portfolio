@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T00:40:39+08:00",
-  "generated_at_utc": "2026-10-15T16:40:39+00:00",
+  "generated_at": "2026-10-16T01:40:35+08:00",
+  "generated_at_utc": "2026-10-15T17:40:35+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-16T00:40:38+08:00",
-      "invested_pct": 99.6598367,
-      "cash_pct": 0.3401633000000004,
-      "weighted_return_pct": -1.9931495533238044,
+      "updated_at": "2026-10-16T01:40:35+08:00",
+      "invested_pct": 99.6619009,
+      "cash_pct": 0.33809909999999377,
+      "weighted_return_pct": -1.3865809653070469,
       "position_count": 5,
       "positions": [
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 30.0192173,
+          "weight_pct": 29.945169,
           "cost_price": 98.91917584,
-          "current_price": 93.82,
-          "return_pct": -5.1548911
+          "current_price": 94.16,
+          "return_pct": -4.8111762
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 20.9475552,
+          "weight_pct": 21.1085287,
           "cost_price": 70.256011051,
-          "current_price": 69.3997,
-          "return_pct": -1.2188438
+          "current_price": 70.36,
+          "return_pct": 0.1480143
         },
         {
           "code": "MSTR",
           "name": "Strategy",
           "market": "US",
-          "weight_pct": 19.94765,
+          "weight_pct": 19.9378217,
           "cost_price": 148.309677405,
-          "current_price": 147.95,
-          "return_pct": -0.2425178
+          "current_price": 148.78,
+          "return_pct": 0.317122
         },
         {
           "code": "ITB",
           "name": "美國房屋建築業ETF-iShares",
           "market": "US",
-          "weight_pct": 18.6757433,
+          "weight_pct": 18.6418707,
           "cost_price": 86.950193651,
-          "current_price": 86.43,
-          "return_pct": -0.5982662
+          "current_price": 86.8,
+          "return_pct": -0.1727353
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 10.0696709,
+          "weight_pct": 10.0285108,
           "cost_price": 308.00839549,
-          "current_price": 307.29,
-          "return_pct": -0.23323889999999997
+          "current_price": 307.9025,
+          "return_pct": -0.0343807
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6598367
+          "weight_pct": 99.6619009
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 31.017226100000002
+          "weight_pct": 31.137039500000004
         },
         {
           "name": "電子",
-          "weight_pct": 30.0192173
+          "weight_pct": 29.945169
         },
         {
           "name": "計算機",
-          "weight_pct": 19.94765
+          "weight_pct": 19.9378217
         },
         {
           "name": "其他",
-          "weight_pct": 18.6757433
+          "weight_pct": 18.6418707
         }
       ]
     },
@@ -93,58 +93,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-16T00:40:39+08:00",
-      "invested_pct": 99.7544634,
-      "cash_pct": 0.2455365999999941,
-      "weighted_return_pct": -1.3451305776736453,
+      "updated_at": "2026-10-16T01:40:35+08:00",
+      "invested_pct": 99.7570123,
+      "cash_pct": 0.24298770000000047,
+      "weighted_return_pct": -0.3093250894149581,
       "position_count": 3,
       "positions": [
         {
           "code": "NAIL",
           "name": "三倍做多住宅建築商和供應-Direxion",
           "market": "US",
-          "weight_pct": 50.0398806,
+          "weight_pct": 50.04035019999999,
           "cost_price": 27.347341524,
-          "current_price": 27.155,
-          "return_pct": -0.7033281
+          "current_price": 27.4401,
+          "return_pct": 0.3391864
         },
         {
           "code": "TEM",
           "name": "Tempus AI",
           "market": "US",
-          "weight_pct": 39.6872573,
+          "weight_pct": 39.8328886,
           "cost_price": 71.01776947,
-          "current_price": 69.3997,
-          "return_pct": -2.2784009000000003
+          "current_price": 70.385,
+          "return_pct": -0.8910016
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 10.0273255,
+          "weight_pct": 9.8837735,
           "cost_price": 16.485813607,
-          "current_price": 16.345,
-          "return_pct": -0.8541502
+          "current_price": 16.28,
+          "return_pct": -1.2484286
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.7544634
+          "weight_pct": 99.7570123
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.0398806
+          "weight_pct": 50.04035019999999
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 39.6872573
+          "weight_pct": 39.8328886
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 10.0273255
+          "weight_pct": 9.8837735
         }
       ]
     }
