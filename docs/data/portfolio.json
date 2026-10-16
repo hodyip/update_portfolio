@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T22:40:40+08:00",
-  "generated_at_utc": "2026-10-16T14:40:40+00:00",
+  "generated_at": "2026-10-16T23:40:37+08:00",
+  "generated_at_utc": "2026-10-16T15:40:37+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,84 +10,80 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-16T22:40:39+08:00",
-      "invested_pct": 99.17795729999999,
-      "cash_pct": 0.8220427000000115,
-      "weighted_return_pct": -2.2381439079684133,
+      "updated_at": "2026-10-16T23:40:37+08:00",
+      "invested_pct": 99.5613579,
+      "cash_pct": 0.4386420999999956,
+      "weighted_return_pct": -2.8210002514222805,
       "position_count": 5,
       "positions": [
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 30.223356499999998,
-          "cost_price": 98.924585479,
-          "current_price": 93.4167,
-          "return_pct": -5.567762
-        },
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 19.9832328,
-          "cost_price": 119.46,
-          "current_price": 119.1862,
-          "return_pct": -0.2291981
+          "weight_pct": 30.1545055,
+          "cost_price": 119.486487493,
+          "current_price": 118.58,
+          "return_pct": -0.7586527
         },
         {
-          "code": "MSTR",
-          "name": "Strategy",
+          "code": "INTC",
+          "name": "英特爾",
           "market": "US",
-          "weight_pct": 19.8245456,
-          "cost_price": 148.308726724,
-          "current_price": 145.22,
-          "return_pct": -2.0826332
+          "weight_pct": 30.0803703,
+          "cost_price": 98.918274205,
+          "current_price": 91.62,
+          "return_pct": -7.378084899999999
         },
         {
           "code": "ITB",
           "name": "美國房屋建築業ETF-iShares",
           "market": "US",
-          "weight_pct": 19.0855663,
-          "cost_price": 86.950127716,
-          "current_price": 87.28,
-          "return_pct": 0.37938099999999997
+          "weight_pct": 19.3011082,
+          "cost_price": 86.949632081,
+          "current_price": 87.15,
+          "return_pct": 0.2304414
         },
         {
           "code": "CRL",
           "name": "查爾斯河實驗室",
           "market": "US",
-          "weight_pct": 10.0612561,
-          "cost_price": 308.008865153,
-          "current_price": 303.395,
-          "return_pct": -1.4979651
+          "weight_pct": 10.1161507,
+          "cost_price": 308.011213529,
+          "current_price": 301.16,
+          "return_pct": -2.2243389999999996
+        },
+        {
+          "code": "AA",
+          "name": "美國鋁業公司",
+          "market": "US",
+          "weight_pct": 9.9092232,
+          "cost_price": 44.05,
+          "current_price": 43.25,
+          "return_pct": -1.816118
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1779573
+          "weight_pct": 99.5613579
         }
       ],
       "by_industry": [
         {
-          "name": "電子",
-          "weight_pct": 30.223356499999998
-        },
-        {
           "name": "有色金屬",
-          "weight_pct": 19.9832328
+          "weight_pct": 40.0637287
         },
         {
-          "name": "計算機",
-          "weight_pct": 19.8245456
+          "name": "電子",
+          "weight_pct": 30.0803703
         },
         {
           "name": "其他",
-          "weight_pct": 19.0855663
+          "weight_pct": 19.3011082
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 10.0612561
+          "weight_pct": 10.1161507
         }
       ]
     },
@@ -97,58 +93,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-16T22:40:40+08:00",
-      "invested_pct": 99.7546468,
-      "cash_pct": 0.24535319999999672,
-      "weighted_return_pct": -1.1488090422023962,
-      "position_count": 3,
+      "updated_at": "2026-10-16T23:40:37+08:00",
+      "invested_pct": 99.9664398,
+      "cash_pct": 0.0335601999999966,
+      "weighted_return_pct": 0.6081087738223636,
+      "position_count": 4,
       "positions": [
+        {
+          "code": "GDX",
+          "name": "黃金礦業ETF-VanEck",
+          "market": "US",
+          "weight_pct": 49.964733,
+          "cost_price": 88.77,
+          "current_price": 87.86,
+          "return_pct": -1.0251211
+        },
         {
           "code": "NAIL",
           "name": "三倍做多住宅建築商和供應-Direxion",
           "market": "US",
-          "weight_pct": 51.4371743,
-          "cost_price": 27.347341524,
-          "current_price": 27.93,
-          "return_pct": 2.1305853999999997
-        },
-        {
-          "code": "TEM",
-          "name": "Tempus AI",
-          "market": "US",
-          "weight_pct": 38.2348438,
-          "cost_price": 71.01776947,
-          "current_price": 66.9,
-          "return_pct": -5.7982242
+          "weight_pct": 29.998925999999997,
+          "cost_price": 26.762274729,
+          "current_price": 27.89,
+          "return_pct": 4.2138618
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 10.0826287,
-          "cost_price": 16.485813607,
-          "current_price": 16.445,
-          "return_pct": -0.247568
+          "weight_pct": 10.1977312,
+          "cost_price": 16.485815884,
+          "current_price": 16.555,
+          "return_pct": 0.4196584
+        },
+        {
+          "code": "AA",
+          "name": "美國鋁業公司",
+          "market": "US",
+          "weight_pct": 9.8050496,
+          "cost_price": 44.09,
+          "current_price": 43.25,
+          "return_pct": -1.9051939
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.7546468
+          "weight_pct": 99.96643979999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 51.4371743
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 38.2348438
+          "weight_pct": 79.96365899999999
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 10.0826287
+          "weight_pct": 10.1977312
+        },
+        {
+          "name": "有色金屬",
+          "weight_pct": 9.8050496
         }
       ]
     }
