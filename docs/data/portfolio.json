@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:40:37+08:00",
-  "generated_at_utc": "2026-10-16T19:40:37+00:00",
+  "generated_at": "2026-10-17T04:40:37+08:00",
+  "generated_at_utc": "2026-10-16T20:40:37+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,58 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-17T03:40:37+08:00",
-      "invested_pct": 69.6402976,
-      "cash_pct": 30.359702400000003,
-      "weighted_return_pct": -4.334096198670463,
+      "updated_at": "2026-10-17T04:40:37+08:00",
+      "invested_pct": 69.6778087,
+      "cash_pct": 30.3221913,
+      "weighted_return_pct": -4.170013945519096,
       "position_count": 3,
       "positions": [
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 30.5419238,
+          "weight_pct": 30.514479100000003,
           "cost_price": 119.486755891,
-          "current_price": 118.56,
-          "return_pct": -0.7756139
+          "current_price": 118.6,
+          "return_pct": -0.7421374
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 19.7710114,
+          "weight_pct": 19.798210599999997,
           "cost_price": 103.173780564,
-          "current_price": 89.6157,
-          "return_pct": -13.1410136
+          "current_price": 89.85,
+          "return_pct": -12.913921
         },
         {
           "code": "ITB",
           "name": "美國房屋建築業ETF-iShares",
           "market": "US",
-          "weight_pct": 19.327362400000002,
+          "weight_pct": 19.365119,
           "cost_price": 86.949530709,
-          "current_price": 86.125,
-          "return_pct": -0.9482866
+          "current_price": 86.4,
+          "return_pct": -0.6320110999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 69.6402976
+          "weight_pct": 69.6778087
         }
       ],
       "by_industry": [
         {
           "name": "有色金屬",
-          "weight_pct": 30.5419238
+          "weight_pct": 30.514479100000003
         },
         {
           "name": "電子",
-          "weight_pct": 19.7710114
+          "weight_pct": 19.798210599999997
         },
         {
           "name": "其他",
-          "weight_pct": 19.327362400000002
+          "weight_pct": 19.365119
         }
       ]
     },
@@ -71,58 +71,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-17T03:40:37+08:00",
-      "invested_pct": 85.66881219999999,
-      "cash_pct": 14.33118780000001,
-      "weighted_return_pct": -0.742966333470543,
+      "updated_at": "2026-10-17T04:40:37+08:00",
+      "invested_pct": 85.7141598,
+      "cash_pct": 14.285840199999996,
+      "weighted_return_pct": -0.372103762831349,
       "position_count": 3,
       "positions": [
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 50.6492237,
+          "weight_pct": 50.5960606,
           "cost_price": 88.770143548,
-          "current_price": 87.525,
-          "return_pct": -1.4026603
+          "current_price": 87.71,
+          "return_pct": -1.1942569
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 20.0673113,
+          "weight_pct": 20.1665998,
           "cost_price": 16.555211082,
-          "current_price": 16.605,
-          "return_pct": 0.3007447
+          "current_price": 16.74,
+          "return_pct": 1.1161979
         },
         {
           "code": "AR",
           "name": "Antero Resources",
           "market": "US",
-          "weight_pct": 14.9522772,
+          "weight_pct": 14.951499400000001,
           "cost_price": 38.495,
-          "current_price": 38.53,
-          "return_pct": 0.0909209
+          "current_price": 38.65,
+          "return_pct": 0.40264970000000005
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 85.6688122
+          "weight_pct": 85.7141598
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.6492237
+          "weight_pct": 50.5960606
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 20.0673113
+          "weight_pct": 20.1665998
         },
         {
           "name": "採掘",
-          "weight_pct": 14.9522772
+          "weight_pct": 14.951499400000001
         }
       ]
     }
