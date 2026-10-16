@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T01:40:38+08:00",
-  "generated_at_utc": "2026-10-16T17:40:38+00:00",
+  "generated_at": "2026-10-17T02:40:36+08:00",
+  "generated_at_utc": "2026-10-16T18:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,80 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-17T01:40:38+08:00",
-      "invested_pct": 99.55691750000001,
-      "cash_pct": 0.4430824999999885,
-      "weighted_return_pct": -3.807395159021829,
-      "position_count": 5,
+      "updated_at": "2026-10-17T02:40:36+08:00",
+      "invested_pct": 69.6158064,
+      "cash_pct": 30.384193600000003,
+      "weighted_return_pct": -4.513399873231126,
+      "position_count": 3,
       "positions": [
-        {
-          "code": "INTC",
-          "name": "英特爾",
-          "market": "US",
-          "weight_pct": 30.199155,
-          "cost_price": 98.918274205,
-          "current_price": 91.06,
-          "return_pct": -7.944208799999999
-        },
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 30.1900447,
-          "cost_price": 119.486487493,
-          "current_price": 117.53,
-          "return_pct": -1.6374132
+          "weight_pct": 30.3100359,
+          "cost_price": 119.486755891,
+          "current_price": 117.565,
+          "return_pct": -1.6083422
+        },
+        {
+          "code": "INTC",
+          "name": "英特爾",
+          "market": "US",
+          "weight_pct": 19.9712165,
+          "cost_price": 103.173780564,
+          "current_price": 90.4502,
+          "return_pct": -12.332184100000001
         },
         {
           "code": "ITB",
           "name": "美國房屋建築業ETF-iShares",
           "market": "US",
-          "weight_pct": 19.3152865,
-          "cost_price": 86.949632081,
-          "current_price": 86.34,
-          "return_pct": -0.7011324
-        },
-        {
-          "code": "CRL",
-          "name": "查爾斯河實驗室",
-          "market": "US",
-          "weight_pct": 10.125247,
-          "cost_price": 308.011213529,
-          "current_price": 298.41,
-          "return_pct": -3.1171636
-        },
-        {
-          "code": "AA",
-          "name": "美國鋁業公司",
-          "market": "US",
-          "weight_pct": 9.7271843,
-          "cost_price": 44.05,
-          "current_price": 42.03,
-          "return_pct": -4.5856981
+          "weight_pct": 19.334554,
+          "cost_price": 86.949530709,
+          "current_price": 86.0876,
+          "return_pct": -0.9913
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5569175
+          "weight_pct": 69.6158064
         }
       ],
       "by_industry": [
         {
           "name": "有色金屬",
-          "weight_pct": 39.917229
+          "weight_pct": 30.3100359
         },
         {
           "name": "電子",
-          "weight_pct": 30.199155
+          "weight_pct": 19.9712165
         },
         {
           "name": "其他",
-          "weight_pct": 19.3152865
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 10.125247
+          "weight_pct": 19.334554
         }
       ]
     },
@@ -93,58 +71,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-17T01:40:38+08:00",
-      "invested_pct": 99.10676050000001,
-      "cash_pct": 0.8932394999999929,
-      "weighted_return_pct": -1.6351674184657656,
-      "position_count": 3,
+      "updated_at": "2026-10-17T02:40:36+08:00",
+      "invested_pct": 70.6255733,
+      "cash_pct": 29.3744267,
+      "weighted_return_pct": -1.4231578269776834,
+      "position_count": 2,
       "positions": [
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 50.2563144,
-          "cost_price": 88.769748054,
-          "current_price": 86.9451,
-          "return_pct": -2.0554841
-        },
-        {
-          "code": "AA",
-          "name": "美國鋁業公司",
-          "market": "US",
-          "weight_pct": 28.783683500000002,
-          "cost_price": 43.034915147,
-          "current_price": 42.03,
-          "return_pct": -2.3351159
+          "weight_pct": 50.442997899999995,
+          "cost_price": 88.76996532,
+          "current_price": 86.83,
+          "return_pct": -2.1853848
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 20.066762599999997,
-          "cost_price": 16.555219701,
-          "current_price": 16.625,
-          "return_pct": 0.4215003
+          "weight_pct": 20.1825754,
+          "cost_price": 16.555220062,
+          "current_price": 16.635,
+          "return_pct": 0.48190200000000005
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.10676050000001
+          "weight_pct": 70.6255733
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.2563144
-        },
-        {
-          "name": "有色金屬",
-          "weight_pct": 28.783683500000002
+          "weight_pct": 50.442997899999995
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 20.066762599999997
+          "weight_pct": 20.1825754
         }
       ]
     }
