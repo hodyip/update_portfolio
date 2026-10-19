@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T22:40:39+08:00",
-  "generated_at_utc": "2026-10-19T14:40:39+00:00",
+  "generated_at": "2026-10-19T23:40:41+08:00",
+  "generated_at_utc": "2026-10-19T15:40:41+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,45 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-19T22:40:38+08:00",
-      "invested_pct": 50.7951212,
-      "cash_pct": 49.2048788,
-      "weighted_return_pct": -4.325887123778196,
-      "position_count": 2,
+      "updated_at": "2026-10-19T23:40:41+08:00",
+      "invested_pct": 60.934813500000004,
+      "cash_pct": 39.065186499999996,
+      "weighted_return_pct": -3.1377719138585314,
+      "position_count": 3,
       "positions": [
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 30.232478899999997,
-          "cost_price": 119.486484472,
-          "current_price": 118.14,
-          "return_pct": -1.1268927
+          "weight_pct": 30.1716569,
+          "cost_price": 119.486746769,
+          "current_price": 118.31,
+          "return_pct": -0.9848345999999999
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 20.5626423,
-          "cost_price": 103.176018854,
-          "current_price": 93.86,
-          "return_pct": -9.0292482
+          "weight_pct": 20.7648631,
+          "cost_price": 103.169952813,
+          "current_price": 95.027,
+          "return_pct": -7.892756200000001
+        },
+        {
+          "code": "LMT",
+          "name": "洛克希德馬丁",
+          "market": "US",
+          "weight_pct": 9.998293499999999,
+          "cost_price": 548.41,
+          "current_price": 549.73,
+          "return_pct": 0.2406958
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.795121200000004
+          "weight_pct": 60.9348135
         }
       ],
       "by_industry": [
         {
           "name": "有色金屬",
-          "weight_pct": 30.232478899999997
+          "weight_pct": 30.1716569
         },
         {
           "name": "電子",
-          "weight_pct": 20.5626423
+          "weight_pct": 20.7648631
+        },
+        {
+          "name": "國防軍工",
+          "weight_pct": 9.998293499999999
         }
       ]
     },
@@ -58,58 +71,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-19T22:40:39+08:00",
-      "invested_pct": 55.1232526,
-      "cash_pct": 44.8767474,
-      "weighted_return_pct": -0.2800599266711002,
+      "updated_at": "2026-10-19T23:40:41+08:00",
+      "invested_pct": 50.55569080000001,
+      "cash_pct": 49.44430919999999,
+      "weighted_return_pct": 0.6734512376167558,
       "position_count": 3,
       "positions": [
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 20.2583321,
-          "cost_price": 16.555216901,
-          "current_price": 16.64,
-          "return_pct": 0.5121232
-        },
-        {
-          "code": "FNGD",
-          "name": "MicroSectors FANG+ Index -3X Inverse Leveraged ETN",
-          "market": "US",
-          "weight_pct": 19.673059300000002,
-          "cost_price": 25.94,
-          "current_price": 25.415,
-          "return_pct": -2.0239013
+          "weight_pct": 20.254405300000002,
+          "cost_price": 16.555219639,
+          "current_price": 16.61,
+          "return_pct": 0.3308948
         },
         {
           "code": "AR",
           "name": "Antero Resources",
           "market": "US",
-          "weight_pct": 15.191861200000002,
-          "cost_price": 38.4951543,
-          "current_price": 38.85,
-          "return_pct": 0.9217932
+          "weight_pct": 15.211739,
+          "cost_price": 38.495105251,
+          "current_price": 38.86,
+          "return_pct": 0.9478991000000001
+        },
+        {
+          "code": "FORM",
+          "name": "FormFactor",
+          "market": "US",
+          "weight_pct": 15.0895465,
+          "cost_price": 113.24,
+          "current_price": 114.21,
+          "return_pct": 0.8565878000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 55.123252599999994
+          "weight_pct": 50.555690799999994
         }
       ],
       "by_industry": [
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 20.2583321
-        },
-        {
-          "name": "其他",
-          "weight_pct": 19.673059300000002
+          "weight_pct": 20.254405300000002
         },
         {
           "name": "採掘",
-          "weight_pct": 15.191861200000002
+          "weight_pct": 15.211739
+        },
+        {
+          "name": "電子",
+          "weight_pct": 15.0895465
         }
       ]
     }
