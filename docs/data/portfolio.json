@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T02:40:39+08:00",
-  "generated_at_utc": "2026-10-19T18:40:39+00:00",
+  "generated_at": "2026-10-20T03:40:36+08:00",
+  "generated_at_utc": "2026-10-19T19:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,71 +10,71 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-20T02:40:38+08:00",
-      "invested_pct": 80.7535666,
-      "cash_pct": 19.2464334,
-      "weighted_return_pct": -2.735437300734254,
+      "updated_at": "2026-10-20T03:40:36+08:00",
+      "invested_pct": 80.79118169999998,
+      "cash_pct": 19.20881830000002,
+      "weighted_return_pct": -2.5401151227784378,
       "position_count": 4,
       "positions": [
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 30.3623148,
+          "weight_pct": 30.3502689,
           "cost_price": 119.486925165,
-          "current_price": 118.5999,
-          "return_pct": -0.7423617
+          "current_price": 118.785,
+          "return_pct": -0.5874493
         },
         {
           "code": "INTC",
           "name": "英特爾",
           "market": "US",
-          "weight_pct": 20.25977,
+          "weight_pct": 20.426100299999998,
           "cost_price": 103.165182288,
-          "current_price": 92.3,
-          "return_pct": -10.5318306
+          "current_price": 93.24,
+          "return_pct": -9.620670500000001
         },
         {
           "code": "LMT",
           "name": "洛克希德馬丁",
           "market": "US",
-          "weight_pct": 20.1302929,
+          "weight_pct": 20.011166799999998,
           "cost_price": 549.827797417,
-          "current_price": 554.0,
-          "return_pct": 0.7588199
+          "current_price": 551.8,
+          "return_pct": 0.35869460000000003
         },
         {
           "code": "GMAB",
           "name": "Genmab",
           "market": "US",
-          "weight_pct": 10.0011889,
+          "weight_pct": 10.0036457,
           "cost_price": 38.57,
-          "current_price": 38.56,
-          "return_pct": -0.025926900000000003
+          "current_price": 38.645,
+          "return_pct": 0.1944516
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 80.7535666
+          "weight_pct": 80.79118170000001
         }
       ],
       "by_industry": [
         {
           "name": "有色金屬",
-          "weight_pct": 30.3623148
+          "weight_pct": 30.3502689
         },
         {
           "name": "電子",
-          "weight_pct": 20.25977
+          "weight_pct": 20.426100299999998
         },
         {
           "name": "國防軍工",
-          "weight_pct": 20.1302929
+          "weight_pct": 20.011166799999998
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 10.0011889
+          "weight_pct": 10.0036457
         }
       ]
     },
@@ -84,58 +84,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-20T02:40:39+08:00",
-      "invested_pct": 84.8302893,
-      "cash_pct": 15.169710699999996,
-      "weighted_return_pct": 0.7379179239087258,
+      "updated_at": "2026-10-20T03:40:36+08:00",
+      "invested_pct": 84.79207469999999,
+      "cash_pct": 15.207925300000014,
+      "weighted_return_pct": 0.43995917076005026,
       "position_count": 3,
       "positions": [
         {
           "code": "LMT",
           "name": "洛克希德馬丁",
           "market": "US",
-          "weight_pct": 49.199566700000005,
+          "weight_pct": 49.1413869,
           "cost_price": 551.178025587,
-          "current_price": 553.845,
-          "return_pct": 0.4838681
+          "current_price": 551.8,
+          "return_pct": 0.11284459999999999
         },
         {
           "code": "BZ",
           "name": "BOSS直聘",
           "market": "US",
-          "weight_pct": 20.3352376,
+          "weight_pct": 20.3559189,
           "cost_price": 16.555170915,
-          "current_price": 16.685,
-          "return_pct": 0.7842207
+          "current_price": 16.66,
+          "return_pct": 0.6332105
         },
         {
           "code": "AR",
           "name": "Antero Resources",
           "market": "US",
-          "weight_pct": 15.295485000000001,
+          "weight_pct": 15.2947689,
           "cost_price": 38.495061944,
-          "current_price": 39.07,
-          "return_pct": 1.4935372
+          "current_price": 38.97,
+          "return_pct": 1.2337636
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 84.83028929999999
+          "weight_pct": 84.7920747
         }
       ],
       "by_industry": [
         {
           "name": "國防軍工",
-          "weight_pct": 49.199566700000005
+          "weight_pct": 49.1413869
         },
         {
           "name": "互聯網與傳媒",
-          "weight_pct": 20.3352376
+          "weight_pct": 20.3559189
         },
         {
           "name": "採掘",
-          "weight_pct": 15.295485000000001
+          "weight_pct": 15.2947689
         }
       ]
     }
