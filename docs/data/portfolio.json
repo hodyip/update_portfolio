@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:40:37+08:00",
-  "generated_at_utc": "2026-10-20T20:40:37+00:00",
+  "generated_at": "2026-10-21T21:40:38+08:00",
+  "generated_at_utc": "2026-10-21T13:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,89 +10,89 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-21T04:40:37+08:00",
-      "invested_pct": 84.958522,
-      "cash_pct": 15.041477999999998,
-      "weighted_return_pct": 0.4027152701757261,
+      "updated_at": "2026-10-21T21:40:38+08:00",
+      "invested_pct": 84.819631,
+      "cash_pct": 15.180368999999999,
+      "weighted_return_pct": -0.6680219391455908,
       "position_count": 6,
       "positions": [
         {
           "code": "SOXS",
           "name": "三倍做空半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 25.2632054,
+          "weight_pct": 24.4313319,
           "cost_price": 45.91826837,
-          "current_price": 47.13,
-          "return_pct": 2.6388879
+          "current_price": 45.17,
+          "return_pct": -1.6295657000000001
         },
         {
           "code": "NEM",
           "name": "紐曼礦業",
           "market": "US",
-          "weight_pct": 19.6444118,
+          "weight_pct": 19.8422536,
           "cost_price": 120.141253104,
-          "current_price": 116.81,
-          "return_pct": -2.7727804000000003
+          "current_price": 116.93,
+          "return_pct": -2.672898
         },
         {
           "code": "GMAB",
           "name": "Genmab",
           "market": "US",
-          "weight_pct": 10.1615883,
+          "weight_pct": 10.3318622,
           "cost_price": 38.569485316,
-          "current_price": 39.07,
-          "return_pct": 1.297696
+          "current_price": 39.369,
+          "return_pct": 2.0729203000000003
         },
         {
           "code": "XBI",
           "name": "標普生物科技ETF-SPDR",
           "market": "US",
-          "weight_pct": 10.0593099,
+          "weight_pct": 10.245572899999999,
           "cost_price": 151.499089079,
-          "current_price": 153.24,
-          "return_pct": 1.149123
+          "current_price": 154.68,
+          "return_pct": 2.0996238
         },
         {
           "code": "LMT",
           "name": "洛克希德馬丁",
           "market": "US",
-          "weight_pct": 9.9279017,
+          "weight_pct": 10.053013700000001,
           "cost_price": 549.813377295,
-          "current_price": 548.71,
-          "return_pct": -0.20068210000000003
+          "current_price": 550.65,
+          "return_pct": 0.1521649
         },
         {
           "code": "GILD",
           "name": "吉利德科學",
           "market": "US",
-          "weight_pct": 9.9021049,
+          "weight_pct": 9.9155967,
           "cost_price": 156.626530224,
-          "current_price": 156.51,
-          "return_pct": -0.0744001
+          "current_price": 155.32,
+          "return_pct": -0.8341691999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 84.958522
+          "weight_pct": 84.819631
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 35.3225153
+          "weight_pct": 34.6769048
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 20.0636932
+          "weight_pct": 20.2474589
         },
         {
           "name": "有色金屬",
-          "weight_pct": 19.6444118
+          "weight_pct": 19.8422536
         },
         {
           "name": "國防軍工",
-          "weight_pct": 9.9279017
+          "weight_pct": 10.053013700000001
         }
       ]
     },
@@ -102,54 +102,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-21T04:40:37+08:00",
-      "invested_pct": 99.9769699,
-      "cash_pct": 0.02303009999999972,
-      "weighted_return_pct": 0.5647889280102883,
+      "updated_at": "2026-10-21T21:40:38+08:00",
+      "invested_pct": 99.9767021,
+      "cash_pct": 0.02329790000000287,
+      "weighted_return_pct": -0.6141862507180941,
       "position_count": 3,
       "positions": [
-        {
-          "code": "SOXS",
-          "name": "三倍做空半導體ETF-Direxion",
-          "market": "US",
-          "weight_pct": 41.216615499999996,
-          "cost_price": 45.691819608,
-          "current_price": 47.13,
-          "return_pct": 3.1475665
-        },
         {
           "code": "GFI",
           "name": "金田",
           "market": "US",
-          "weight_pct": 38.8964884,
+          "weight_pct": 40.4475489,
           "cost_price": 37.032786846,
-          "current_price": 36.23,
-          "return_pct": -2.1677732
+          "current_price": 37.25,
+          "return_pct": 0.5865428
+        },
+        {
+          "code": "SOXS",
+          "name": "三倍做空半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 39.9441047,
+          "cost_price": 45.691819608,
+          "current_price": 45.16,
+          "return_pct": -1.1639274
         },
         {
           "code": "SKDD",
           "name": "2倍做空海力士ETF-GraniteShares",
           "market": "US",
-          "weight_pct": 19.863865999999998,
+          "weight_pct": 19.5850485,
           "cost_price": 11.4662,
-          "current_price": 11.53,
-          "return_pct": 0.556418
+          "current_price": 11.24,
+          "return_pct": -1.9727547
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9769699
+          "weight_pct": 99.9767021
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 61.0804815
+          "weight_pct": 59.529153199999996
         },
         {
           "name": "有色金屬",
-          "weight_pct": 38.8964884
+          "weight_pct": 40.4475489
         }
       ]
     }
