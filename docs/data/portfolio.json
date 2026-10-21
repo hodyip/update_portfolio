@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T02:40:37+08:00",
-  "generated_at_utc": "2026-10-21T18:40:37+00:00",
+  "generated_at": "2026-10-22T03:40:36+08:00",
+  "generated_at_utc": "2026-10-21T19:40:36+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,93 +10,93 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-22T02:40:37+08:00",
-      "invested_pct": 99.4900652,
-      "cash_pct": 0.5099347999999964,
-      "weighted_return_pct": 0.25178192673055605,
+      "updated_at": "2026-10-22T03:40:36+08:00",
+      "invested_pct": 99.4877784,
+      "cash_pct": 0.5122216000000037,
+      "weighted_return_pct": -0.2109213315473584,
       "position_count": 6,
       "positions": [
         {
           "code": "CRCL",
           "name": "Circle",
           "market": "US",
-          "weight_pct": 25.6191442,
+          "weight_pct": 25.3226981,
           "cost_price": 90.745671267,
-          "current_price": 91.76,
-          "return_pct": 1.1177709
+          "current_price": 90.2933,
+          "return_pct": -0.49850449999999996
         },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 25.075913900000003,
+          "weight_pct": 25.099458000000002,
           "cost_price": 237.110724811,
-          "current_price": 240.81,
-          "return_pct": 1.5601467
+          "current_price": 239.96,
+          "return_pct": 1.2016644
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 18.5180091,
+          "weight_pct": 18.5392467,
           "cost_price": 208.6100852,
-          "current_price": 209.165,
-          "return_pct": 0.2660057
+          "current_price": 208.47,
+          "return_pct": -0.0671517
         },
         {
           "code": "GMAB",
           "name": "Genmab",
           "market": "US",
-          "weight_pct": 10.4082282,
+          "weight_pct": 10.4840041,
           "cost_price": 38.57019287,
-          "current_price": 39.52,
-          "return_pct": 2.4625418
+          "current_price": 39.63,
+          "return_pct": 2.7477361
         },
         {
           "code": "SOXS",
           "name": "三倍做空半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 9.9346951,
+          "weight_pct": 10.0473804,
           "cost_price": 47.345802307,
-          "current_price": 43.94,
-          "return_pct": -7.193462
+          "current_price": 44.24,
+          "return_pct": -6.5598261
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 9.9340747,
+          "weight_pct": 9.9949911,
           "cost_price": 76.348368244,
-          "current_price": 76.21,
-          "return_pct": -0.1812327
+          "current_price": 76.335,
+          "return_pct": -0.0175095
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4900652
+          "weight_pct": 99.48777840000001
         }
       ],
       "by_industry": [
         {
           "name": "非銀金融",
-          "weight_pct": 25.6191442
+          "weight_pct": 25.3226981
         },
         {
           "name": "機械設備",
-          "weight_pct": 25.075913900000003
+          "weight_pct": 25.099458000000002
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 20.3423029
+          "weight_pct": 20.4789952
         },
         {
           "name": "計算機",
-          "weight_pct": 18.5180091
+          "weight_pct": 18.5392467
         },
         {
           "name": "其他",
-          "weight_pct": 9.9346951
+          "weight_pct": 10.0473804
         }
       ]
     },
@@ -106,67 +106,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-22T02:40:37+08:00",
-      "invested_pct": 99.9676602,
-      "cash_pct": 0.03233980000000258,
-      "weighted_return_pct": 1.5858409140990581,
+      "updated_at": "2026-10-22T03:40:36+08:00",
+      "invested_pct": 99.9676738,
+      "cash_pct": 0.03232619999999997,
+      "weighted_return_pct": 1.636299130961778,
       "position_count": 4,
       "positions": [
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 39.6327239,
+          "weight_pct": 39.4761598,
           "cost_price": 236.366518215,
-          "current_price": 240.81,
-          "return_pct": 1.8799117
-        },
-        {
-          "code": "TXG",
-          "name": "10x Genomics",
-          "market": "US",
-          "weight_pct": 20.2893397,
-          "cost_price": 74.382243045,
-          "current_price": 76.21,
-          "return_pct": 2.457249
+          "current_price": 239.96,
+          "return_pct": 1.5203007
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 20.255634999999998,
+          "weight_pct": 20.4615951,
           "cost_price": 147.949375076,
-          "current_price": 151.02,
-          "return_pct": 2.0754565
+          "current_price": 152.62,
+          "return_pct": 3.1569075
+        },
+        {
+          "code": "TXG",
+          "name": "10x Genomics",
+          "market": "US",
+          "weight_pct": 20.3140399,
+          "cost_price": 74.382243045,
+          "current_price": 76.335,
+          "return_pct": 2.6252999
         },
         {
           "code": "OKTA",
           "name": "Okta",
           "market": "US",
-          "weight_pct": 19.7899616,
+          "weight_pct": 19.715879,
           "cost_price": 210.0,
-          "current_price": 209.165,
-          "return_pct": -0.397619
+          "current_price": 208.47,
+          "return_pct": -0.7285714000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9676602
+          "weight_pct": 99.9676738
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 40.544974700000004
+          "weight_pct": 40.775635
         },
         {
           "name": "機械設備",
-          "weight_pct": 39.6327239
+          "weight_pct": 39.4761598
         },
         {
           "name": "計算機",
-          "weight_pct": 19.7899616
+          "weight_pct": 19.715879
         }
       ]
     }
