@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T21:40:38+08:00",
-  "generated_at_utc": "2026-10-23T13:40:38+00:00",
+  "generated_at": "2026-10-23T22:40:39+08:00",
+  "generated_at_utc": "2026-10-23T14:40:39+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,54 +10,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-23T21:40:38+08:00",
-      "invested_pct": 43.692876,
-      "cash_pct": 56.307124,
-      "weighted_return_pct": -2.8055730444617106,
+      "updated_at": "2026-10-23T22:40:38+08:00",
+      "invested_pct": 42.367778200000004,
+      "cash_pct": 57.632221799999996,
+      "weighted_return_pct": 1.3467486532956248,
       "position_count": 3,
       "positions": [
         {
-          "code": "SQQQ",
-          "name": "三倍做空納指ETF-ProShares",
+          "code": "FAZ",
+          "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 21.2127286,
-          "cost_price": 38.369377368,
-          "current_price": 39.9871,
-          "return_pct": 4.2161816
-        },
-        {
-          "code": "BE",
-          "name": "Bloom Energy",
-          "market": "US",
-          "weight_pct": 12.1504294,
-          "cost_price": 245.21216433,
-          "current_price": 196.31,
-          "return_pct": -19.9427971
+          "weight_pct": 20.3451662,
+          "cost_price": 34.050167976,
+          "current_price": 34.74,
+          "return_pct": 2.0259283999999997
         },
         {
           "code": "FNGD",
           "name": "MicroSectors FANG+ Index -3X Inverse Leveraged ETN",
           "market": "US",
-          "weight_pct": 10.329718,
-          "cost_price": 27.629721527,
-          "current_price": 28.44,
-          "return_pct": 2.9326334999999997
+          "weight_pct": 12.0093875,
+          "cost_price": 27.665170496,
+          "current_price": 27.94,
+          "return_pct": 0.9934134000000001
+        },
+        {
+          "code": "SDOW",
+          "name": "三倍做空道指30ETF-ProShares",
+          "market": "US",
+          "weight_pct": 10.0132245,
+          "cost_price": 24.325,
+          "current_price": 24.42,
+          "return_pct": 0.39054469999999997
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 43.692876000000005
+          "weight_pct": 42.367778200000004
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 31.5424466
-        },
-        {
-          "name": "機械設備",
-          "weight_pct": 12.1504294
+          "weight_pct": 42.367778200000004
         }
       ]
     },
@@ -67,45 +63,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-23T21:40:38+08:00",
-      "invested_pct": 56.5745927,
-      "cash_pct": 43.4254073,
-      "weighted_return_pct": -6.031869102343098,
-      "position_count": 2,
+      "updated_at": "2026-10-23T22:40:39+08:00",
+      "invested_pct": 40.194376999999996,
+      "cash_pct": 59.805623000000004,
+      "weighted_return_pct": 0.8125363,
+      "position_count": 1,
       "positions": [
         {
-          "code": "SQQQ",
-          "name": "三倍做空納指ETF-ProShares",
+          "code": "FAZ",
+          "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 28.3942839,
-          "cost_price": 39.029797891,
-          "current_price": 39.9871,
-          "return_pct": 2.4527468
-        },
-        {
-          "code": "BE",
-          "name": "Bloom Energy",
-          "market": "US",
-          "weight_pct": 28.1803088,
-          "cost_price": 229.819819321,
-          "current_price": 196.31,
-          "return_pct": -14.5809093
+          "weight_pct": 40.194376999999996,
+          "cost_price": 34.46,
+          "current_price": 34.74,
+          "return_pct": 0.8125363
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 56.574592700000004
+          "weight_pct": 40.194376999999996
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 28.3942839
-        },
-        {
-          "name": "機械設備",
-          "weight_pct": 28.1803088
+          "weight_pct": 40.194376999999996
         }
       ]
     }
