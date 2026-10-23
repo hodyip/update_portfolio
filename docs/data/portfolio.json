@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T04:40:37+08:00",
-  "generated_at_utc": "2026-10-22T20:40:37+00:00",
+  "generated_at": "2026-10-23T21:40:38+08:00",
+  "generated_at_utc": "2026-10-23T13:40:38+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-23T04:40:37+08:00",
-      "invested_pct": 56.5179062,
-      "cash_pct": 43.4820938,
-      "weighted_return_pct": 1.5476679087920877,
-      "position_count": 4,
+      "updated_at": "2026-10-23T21:40:38+08:00",
+      "invested_pct": 43.692876,
+      "cash_pct": 56.307124,
+      "weighted_return_pct": -2.8055730444617106,
+      "position_count": 3,
       "positions": [
         {
           "code": "SQQQ",
           "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 20.8301335,
-          "cost_price": 38.369041837,
-          "current_price": 39.6,
-          "return_pct": 3.2082067
+          "weight_pct": 21.2127286,
+          "cost_price": 38.369377368,
+          "current_price": 39.9871,
+          "return_pct": 4.2161816
         },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 13.367811600000001,
-          "cost_price": 245.212852018,
-          "current_price": 217.77,
-          "return_pct": -11.1914411
-        },
-        {
-          "code": "SOXS",
-          "name": "三倍做空半導體ETF-Direxion",
-          "market": "US",
-          "weight_pct": 12.245054900000001,
-          "cost_price": 47.3341422,
-          "current_price": 53.45,
-          "return_pct": 12.920605499999999
+          "weight_pct": 12.1504294,
+          "cost_price": 245.21216433,
+          "current_price": 196.31,
+          "return_pct": -19.9427971
         },
         {
           "code": "FNGD",
           "name": "MicroSectors FANG+ Index -3X Inverse Leveraged ETN",
           "market": "US",
-          "weight_pct": 10.074906200000001,
-          "cost_price": 27.629942435,
-          "current_price": 27.96,
-          "return_pct": 1.1945648
+          "weight_pct": 10.329718,
+          "cost_price": 27.629721527,
+          "current_price": 28.44,
+          "return_pct": 2.9326334999999997
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 56.5179062
+          "weight_pct": 43.692876000000005
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 43.1500946
+          "weight_pct": 31.5424466
         },
         {
           "name": "機械設備",
-          "weight_pct": 13.367811600000001
+          "weight_pct": 12.1504294
         }
       ]
     },
@@ -76,54 +67,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-23T04:40:37+08:00",
-      "invested_pct": 99.0696615,
-      "cash_pct": 0.9303385000000048,
-      "weighted_return_pct": 1.7441896751850858,
-      "position_count": 3,
+      "updated_at": "2026-10-23T21:40:38+08:00",
+      "invested_pct": 56.5745927,
+      "cash_pct": 43.4254073,
+      "weighted_return_pct": -6.031869102343098,
+      "position_count": 2,
       "positions": [
-        {
-          "code": "SOXS",
-          "name": "三倍做空半導體ETF-Direxion",
-          "market": "US",
-          "weight_pct": 53.0686259,
-          "cost_price": 50.101745126,
-          "current_price": 53.45,
-          "return_pct": 6.6829107
-        },
         {
           "code": "SQQQ",
           "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 27.734833,
-          "cost_price": 39.03,
-          "current_price": 39.6,
-          "return_pct": 1.4604150999999999
+          "weight_pct": 28.3942839,
+          "cost_price": 39.029797891,
+          "current_price": 39.9871,
+          "return_pct": 2.4527468
         },
         {
           "code": "BE",
           "name": "Bloom Energy",
           "market": "US",
-          "weight_pct": 18.2662026,
-          "cost_price": 247.954366344,
-          "current_price": 217.77,
-          "return_pct": -12.1733554
+          "weight_pct": 28.1803088,
+          "cost_price": 229.819819321,
+          "current_price": 196.31,
+          "return_pct": -14.5809093
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.0696615
+          "weight_pct": 56.574592700000004
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 80.80345890000001
+          "weight_pct": 28.3942839
         },
         {
           "name": "機械設備",
-          "weight_pct": 18.2662026
+          "weight_pct": 28.1803088
         }
       ]
     }
