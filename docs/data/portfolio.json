@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:40:44+08:00",
-  "generated_at_utc": "2026-10-26T14:40:44+00:00",
+  "generated_at": "2026-10-26T23:40:43+08:00",
+  "generated_at_utc": "2026-10-26T15:40:43+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,84 +10,84 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-26T22:40:43+08:00",
-      "invested_pct": 37.1279809,
-      "cash_pct": 62.8720191,
-      "weighted_return_pct": -0.06867694452647573,
+      "updated_at": "2026-10-26T23:40:42+08:00",
+      "invested_pct": 42.0065741,
+      "cash_pct": 57.9934259,
+      "weighted_return_pct": 0.04675648641458813,
       "position_count": 5,
       "positions": [
         {
           "code": "FNGD",
           "name": "MicroSectors FANG+ Index -3X Inverse Leveraged ETN",
           "market": "US",
-          "weight_pct": 12.011859399999999,
-          "cost_price": 27.665300699,
-          "current_price": 27.725,
-          "return_pct": 0.2157913
-        },
-        {
-          "code": "TSLA",
-          "name": "特斯拉",
-          "market": "US",
-          "weight_pct": 10.0204544,
-          "cost_price": 394.145159358,
-          "current_price": 393.71,
-          "return_pct": -0.11040589999999999
+          "weight_pct": 11.8878307,
+          "cost_price": 27.665299556,
+          "current_price": 27.45,
+          "return_pct": -0.7782296
         },
         {
           "code": "TDY",
           "name": "Teledyne Technologies",
           "market": "US",
-          "weight_pct": 5.127016,
-          "cost_price": 642.195,
-          "current_price": 645.09,
-          "return_pct": 0.45079769999999997
+          "weight_pct": 10.0713761,
+          "cost_price": 644.996558009,
+          "current_price": 652.74,
+          "return_pct": 1.20054
+        },
+        {
+          "code": "TSLA",
+          "name": "特斯拉",
+          "market": "US",
+          "weight_pct": 10.057044699999999,
+          "cost_price": 394.145193478,
+          "current_price": 395.29,
+          "return_pct": 0.29045299999999996
         },
         {
           "code": "IOT",
           "name": "Samsara",
           "market": "US",
-          "weight_pct": 5.0198442000000005,
-          "cost_price": 44.550022966,
-          "current_price": 44.555,
-          "return_pct": 0.0111718
+          "weight_pct": 5.029607400000001,
+          "cost_price": 44.550026147,
+          "current_price": 44.66,
+          "return_pct": 0.2468547
         },
         {
           "code": "VLO",
           "name": "瓦萊羅能源",
           "market": "US",
-          "weight_pct": 4.9488069,
-          "cost_price": 431.381329503,
-          "current_price": 425.8,
-          "return_pct": -1.2938273
+          "weight_pct": 4.9607152,
+          "cost_price": 431.38121791,
+          "current_price": 427.0,
+          "return_pct": -1.0156256000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 37.127980900000004
+          "weight_pct": 42.0065741
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 12.011859399999999
-        },
-        {
-          "name": "汽車",
-          "weight_pct": 10.0204544
+          "weight_pct": 11.8878307
         },
         {
           "name": "電子",
-          "weight_pct": 5.127016
+          "weight_pct": 10.0713761
+        },
+        {
+          "name": "汽車",
+          "weight_pct": 10.057044699999999
         },
         {
           "name": "計算機",
-          "weight_pct": 5.0198442000000005
+          "weight_pct": 5.029607400000001
         },
         {
           "name": "採掘",
-          "weight_pct": 4.9488069
+          "weight_pct": 4.9607152
         }
       ]
     },
@@ -97,58 +97,71 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-26T22:40:44+08:00",
-      "invested_pct": 50.0928617,
-      "cash_pct": 49.9071383,
-      "weighted_return_pct": 0.3574147302316963,
-      "position_count": 3,
+      "updated_at": "2026-10-26T23:40:43+08:00",
+      "invested_pct": 65.2491486,
+      "cash_pct": 34.7508514,
+      "weighted_return_pct": 0.729399603157193,
+      "position_count": 4,
       "positions": [
         {
           "code": "TSLA",
           "name": "特斯拉",
           "market": "US",
-          "weight_pct": 20.2196821,
-          "cost_price": 389.305819401,
-          "current_price": 393.79,
-          "return_pct": 1.1518401
+          "weight_pct": 20.2357858,
+          "cost_price": 389.30469978,
+          "current_price": 395.3292,
+          "return_pct": 1.5475025999999998
         },
         {
           "code": "IOT",
           "name": "Samsara",
           "market": "US",
-          "weight_pct": 19.854372,
-          "cost_price": 44.735485082,
-          "current_price": 44.555,
-          "return_pct": -0.4034495
+          "weight_pct": 19.843471700000002,
+          "cost_price": 44.735491201,
+          "current_price": 44.66,
+          "return_pct": -0.16875010000000001
+        },
+        {
+          "code": "TDY",
+          "name": "Teledyne Technologies",
+          "market": "US",
+          "weight_pct": 15.099402000000001,
+          "cost_price": 648.945,
+          "current_price": 652.74,
+          "return_pct": 0.5847953
         },
         {
           "code": "PARR",
           "name": "Par Pacific",
           "market": "US",
-          "weight_pct": 10.0188076,
-          "cost_price": 82.08,
-          "current_price": 82.295,
-          "return_pct": 0.2619396
+          "weight_pct": 10.0704891,
+          "cost_price": 82.080041955,
+          "current_price": 82.96,
+          "return_pct": 1.0720731000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.0928617
+          "weight_pct": 65.2491486
         }
       ],
       "by_industry": [
         {
           "name": "汽車",
-          "weight_pct": 20.2196821
+          "weight_pct": 20.2357858
         },
         {
           "name": "計算機",
-          "weight_pct": 19.854372
+          "weight_pct": 19.843471700000002
+        },
+        {
+          "name": "電子",
+          "weight_pct": 15.099402000000001
         },
         {
           "name": "採掘",
-          "weight_pct": 10.0188076
+          "weight_pct": 10.0704891
         }
       ]
     }
