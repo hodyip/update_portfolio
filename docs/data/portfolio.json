@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T01:40:51+08:00",
-  "generated_at_utc": "2026-10-27T17:40:51+00:00",
+  "generated_at": "2026-10-28T02:40:43+08:00",
+  "generated_at_utc": "2026-10-27T18:40:43+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,115 +10,115 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-28T01:40:51+08:00",
-      "invested_pct": 74.4117666,
-      "cash_pct": 25.588233399999993,
-      "weighted_return_pct": 0.5240731417049295,
+      "updated_at": "2026-10-28T02:40:43+08:00",
+      "invested_pct": 74.4354288,
+      "cash_pct": 25.564571200000003,
+      "weighted_return_pct": 0.6479460908425149,
       "position_count": 8,
       "positions": [
         {
           "code": "CAI",
           "name": "Caris Life Sciences",
           "market": "US",
-          "weight_pct": 12.089425199999999,
+          "weight_pct": 12.0692977,
           "cost_price": 33.264510395,
-          "current_price": 33.745,
-          "return_pct": 1.4444512
+          "current_price": 33.72,
+          "return_pct": 1.369296
         },
         {
           "code": "ESLT",
           "name": "埃爾比特系統",
           "market": "US",
-          "weight_pct": 11.9856205,
+          "weight_pct": 12.0563579,
           "cost_price": 785.119567324,
-          "current_price": 782.245,
-          "return_pct": -0.3661312
+          "current_price": 787.59,
+          "return_pct": 0.3146569
         },
         {
           "code": "TSLA",
           "name": "特斯拉",
           "market": "US",
-          "weight_pct": 10.3584516,
+          "weight_pct": 10.3399015,
           "cost_price": 394.12554496,
-          "current_price": 406.2772,
-          "return_pct": 3.0831939999999998
-        },
-        {
-          "code": "ARKG",
-          "name": "基因進化ETF-ARK",
-          "market": "US",
-          "weight_pct": 10.0613548,
-          "cost_price": 51.230001138,
-          "current_price": 51.69,
-          "return_pct": 0.8979091
+          "current_price": 405.925,
+          "return_pct": 2.9938316
         },
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.032622700000001,
+          "weight_pct": 10.0507946,
           "cost_price": 34.854828412,
-          "current_price": 34.69,
-          "return_pct": -0.4728998
+          "current_price": 34.785,
+          "return_pct": -0.2003407
+        },
+        {
+          "code": "ARKG",
+          "name": "基因進化ETF-ARK",
+          "market": "US",
+          "weight_pct": 10.0462168,
+          "cost_price": 51.230001138,
+          "current_price": 51.66,
+          "return_pct": 0.8393497
         },
         {
           "code": "TDY",
           "name": "Teledyne Technologies",
           "market": "US",
-          "weight_pct": 10.0103633,
+          "weight_pct": 10.0173759,
           "cost_price": 644.992825404,
-          "current_price": 648.525,
-          "return_pct": 0.5476301
+          "current_price": 649.58,
+          "return_pct": 0.7111978
         },
         {
           "code": "SOXS",
           "name": "三倍做空半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 4.9606984,
+          "weight_pct": 4.9694184,
           "cost_price": 43.1,
-          "current_price": 42.83,
-          "return_pct": -0.6264501
+          "current_price": 42.945,
+          "return_pct": -0.3596288
         },
         {
           "code": "IOT",
           "name": "Samsara",
           "market": "US",
-          "weight_pct": 4.913230100000001,
+          "weight_pct": 4.886066,
           "cost_price": 44.549574147,
-          "current_price": 43.4,
-          "return_pct": -2.580438
+          "current_price": 43.2,
+          "return_pct": -3.0293761
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 74.41176659999999
+          "weight_pct": 74.4354288
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 25.0546759
+          "weight_pct": 25.0664298
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 12.089425199999999
+          "weight_pct": 12.0692977
         },
         {
           "name": "國防軍工",
-          "weight_pct": 11.9856205
+          "weight_pct": 12.0563579
         },
         {
           "name": "汽車",
-          "weight_pct": 10.3584516
+          "weight_pct": 10.3399015
         },
         {
           "name": "電子",
-          "weight_pct": 10.0103633
+          "weight_pct": 10.0173759
         },
         {
           "name": "計算機",
-          "weight_pct": 4.913230100000001
+          "weight_pct": 4.886066
         }
       ]
     },
@@ -128,76 +128,76 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-28T01:40:51+08:00",
-      "invested_pct": 99.9430631,
-      "cash_pct": 0.056936899999996626,
-      "weighted_return_pct": 1.2024991721959328,
+      "updated_at": "2026-10-28T02:40:43+08:00",
+      "invested_pct": 99.9431237,
+      "cash_pct": 0.05687629999999899,
+      "weighted_return_pct": 1.305498327726823,
       "position_count": 5,
       "positions": [
         {
           "code": "ARKG",
           "name": "基因進化ETF-ARK",
           "market": "US",
-          "weight_pct": 30.167291000000002,
+          "weight_pct": 30.117728900000003,
           "cost_price": 51.026071113,
-          "current_price": 51.69,
-          "return_pct": 1.3011562
+          "current_price": 51.66,
+          "return_pct": 1.2423627
         },
         {
           "code": "SOXS",
           "name": "三倍做空半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 19.8923062,
+          "weight_pct": 19.9245126,
           "cost_price": 43.03,
-          "current_price": 42.83,
-          "return_pct": -0.464792
+          "current_price": 42.945,
+          "return_pct": -0.1975366
         },
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 19.8135697,
+          "weight_pct": 19.8467077,
           "cost_price": 34.809997907,
-          "current_price": 34.69,
-          "return_pct": -0.3447225
+          "current_price": 34.785,
+          "return_pct": -0.0718124
         },
         {
           "code": "TDY",
           "name": "Teledyne Technologies",
           "market": "US",
-          "weight_pct": 15.095557900000001,
+          "weight_pct": 15.104040099999999,
           "cost_price": 648.945506292,
-          "current_price": 648.525,
-          "return_pct": -0.0647984
+          "current_price": 649.58,
+          "return_pct": 0.097773
         },
         {
           "code": "TSLA",
           "name": "特斯拉",
           "market": "US",
-          "weight_pct": 14.974338300000001,
+          "weight_pct": 14.950134400000001,
           "cost_price": 381.328138017,
-          "current_price": 406.28,
-          "return_pct": 6.5434095999999995
+          "current_price": 406.055,
+          "return_pct": 6.4844053
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.94306309999999
+          "weight_pct": 99.9431237
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 69.8731669
+          "weight_pct": 69.8889492
         },
         {
           "name": "電子",
-          "weight_pct": 15.095557900000001
+          "weight_pct": 15.104040099999999
         },
         {
           "name": "汽車",
-          "weight_pct": 14.974338300000001
+          "weight_pct": 14.950134400000001
         }
       ]
     }
