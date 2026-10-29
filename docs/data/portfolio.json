@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T02:40:40+08:00",
-  "generated_at_utc": "2026-10-29T18:40:40+00:00",
+  "generated_at": "2026-10-30T03:40:40+08:00",
+  "generated_at_utc": "2026-10-29T19:40:40+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,102 +10,102 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T02:40:40+08:00",
-      "invested_pct": 98.834258,
-      "cash_pct": 1.1657419999999945,
-      "weighted_return_pct": 1.786857888128938,
+      "updated_at": "2026-10-30T03:40:40+08:00",
+      "invested_pct": 98.8382184,
+      "cash_pct": 1.1617815999999976,
+      "weighted_return_pct": 2.115388734092038,
       "position_count": 7,
       "positions": [
         {
           "code": "XBI",
           "name": "標普生物科技ETF-SPDR",
           "market": "US",
-          "weight_pct": 20.696835399999998,
+          "weight_pct": 20.785926099999998,
           "cost_price": 159.352026233,
-          "current_price": 156.57,
-          "return_pct": -1.7458367
+          "current_price": 157.78,
+          "return_pct": -0.9865116
         },
         {
           "code": "ESLT",
           "name": "埃爾比特系統",
           "market": "US",
-          "weight_pct": 20.4501726,
+          "weight_pct": 20.3622763,
           "cost_price": 788.469545774,
-          "current_price": 807.72,
-          "return_pct": 2.4414962
+          "current_price": 806.99,
+          "return_pct": 2.3489117999999998
         },
         {
           "code": "ARKG",
           "name": "基因進化ETF-ARK",
           "market": "US",
-          "weight_pct": 15.282716700000002,
+          "weight_pct": 15.3283576,
           "cost_price": 51.963113718,
-          "current_price": 54.64,
-          "return_pct": 5.1515125
+          "current_price": 54.99,
+          "return_pct": 5.8250672
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 14.153743299999999,
+          "weight_pct": 14.2063878,
           "cost_price": 85.956053135,
-          "current_price": 81.22,
-          "return_pct": -5.5098541
+          "current_price": 81.8,
+          "return_pct": -4.8350907
         },
         {
           "code": "CAI",
           "name": "Caris Life Sciences",
           "market": "US",
-          "weight_pct": 12.7742619,
+          "weight_pct": 12.6866096,
           "cost_price": 33.259984102,
-          "current_price": 35.96,
-          "return_pct": 8.117911
+          "current_price": 35.835,
+          "return_pct": 7.742084
         },
         {
           "code": "TDY",
           "name": "Teledyne Technologies",
           "market": "US",
-          "weight_pct": 10.3292521,
+          "weight_pct": 10.3097511,
           "cost_price": 644.998699375,
-          "current_price": 673.46,
-          "return_pct": 4.4126136
+          "current_price": 674.48,
+          "return_pct": 4.5707535
         },
         {
           "code": "SN",
           "name": "SharkNinja",
           "market": "US",
-          "weight_pct": 5.147276,
+          "weight_pct": 5.1589099,
           "cost_price": 201.105381966,
-          "current_price": 206.1,
-          "return_pct": 2.4835825
+          "current_price": 207.27,
+          "return_pct": 3.065367
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.83425799999999
+          "weight_pct": 98.8382184
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 35.9795521
+          "weight_pct": 36.1142837
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 26.928005199999998
+          "weight_pct": 26.892997400000002
         },
         {
           "name": "國防軍工",
-          "weight_pct": 20.4501726
+          "weight_pct": 20.3622763
         },
         {
           "name": "電子",
-          "weight_pct": 10.3292521
+          "weight_pct": 10.3097511
         },
         {
           "name": "家用電器",
-          "weight_pct": 5.147276
+          "weight_pct": 5.1589099
         }
       ]
     },
@@ -115,72 +115,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T02:40:40+08:00",
-      "invested_pct": 99.9137988,
-      "cash_pct": 0.08620120000000497,
-      "weighted_return_pct": -0.2411141057971055,
+      "updated_at": "2026-10-30T03:40:40+08:00",
+      "invested_pct": 99.9145339,
+      "cash_pct": 0.08546610000000499,
+      "weighted_return_pct": 0.5832758969084911,
       "position_count": 5,
       "positions": [
         {
           "code": "ARKG",
           "name": "基因進化ETF-ARK",
           "market": "US",
-          "weight_pct": 32.2862549,
+          "weight_pct": 32.215933,
           "cost_price": 51.026170554,
-          "current_price": 54.64,
-          "return_pct": 7.082305799999999
+          "current_price": 54.99,
+          "return_pct": 7.7682283000000005
         },
         {
           "code": "LABU",
           "name": "三倍做多生物技術ETF-Direxion",
           "market": "US",
-          "weight_pct": 21.9392824,
+          "weight_pct": 22.220175,
           "cost_price": 266.53,
-          "current_price": 250.05,
-          "return_pct": -6.1831689
+          "current_price": 255.43,
+          "return_pct": -4.164634400000001
         },
         {
           "code": "TWST",
           "name": "Twist Bioscience",
           "market": "US",
-          "weight_pct": 15.3965996,
+          "weight_pct": 15.3676388,
           "cost_price": 174.1473338,
-          "current_price": 173.0,
-          "return_pct": -0.6588294
+          "current_price": 174.16,
+          "return_pct": 0.0072733
         },
         {
           "code": "TXG",
           "name": "10x Genomics",
           "market": "US",
-          "weight_pct": 15.164733,
+          "weight_pct": 15.1427621,
           "cost_price": 86.790666,
-          "current_price": 81.22,
-          "return_pct": -6.418508200000001
+          "current_price": 81.8,
+          "return_pct": -5.7502336000000005
         },
         {
           "code": "SDGR",
           "name": "Schrodinger",
           "market": "US",
-          "weight_pct": 15.1269289,
+          "weight_pct": 14.968024999999999,
           "cost_price": 30.302685929,
-          "current_price": 30.11,
-          "return_pct": -0.6358708000000001
+          "current_price": 30.05,
+          "return_pct": -0.8338730000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9137988
+          "weight_pct": 99.91453390000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 54.225537300000006
+          "weight_pct": 54.436108000000004
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 45.688261499999996
+          "weight_pct": 45.478425900000005
         }
       ]
     }
