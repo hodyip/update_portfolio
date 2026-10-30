@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T21:40:42+08:00",
-  "generated_at_utc": "2026-10-30T13:40:42+00:00",
+  "generated_at": "2026-10-30T23:40:43+08:00",
+  "generated_at_utc": "2026-10-30T15:40:43+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,102 +10,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T21:40:41+08:00",
-      "invested_pct": 98.8178666,
-      "cash_pct": 1.182133399999998,
-      "weighted_return_pct": 0.5418442571555103,
-      "position_count": 7,
+      "updated_at": "2026-10-30T23:40:42+08:00",
+      "invested_pct": 35.6267412,
+      "cash_pct": 64.3732588,
+      "weighted_return_pct": -0.09407802602601388,
+      "position_count": 2,
       "positions": [
-        {
-          "code": "XBI",
-          "name": "標普生物科技ETF-SPDR",
-          "market": "US",
-          "weight_pct": 21.2380282,
-          "cost_price": 159.352026233,
-          "current_price": 158.465,
-          "return_pct": -0.5566457
-        },
         {
           "code": "ESLT",
           "name": "埃爾比特系統",
           "market": "US",
-          "weight_pct": 20.2970688,
-          "cost_price": 788.469545774,
-          "current_price": 790.7,
-          "return_pct": 0.282884
+          "weight_pct": 20.4999393,
+          "cost_price": 788.448020317,
+          "current_price": 782.125,
+          "return_pct": -0.8019577999999999
         },
         {
-          "code": "ARKG",
-          "name": "基因進化ETF-ARK",
+          "code": "SQQQ",
+          "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 15.221146699999998,
-          "cost_price": 51.963113718,
-          "current_price": 53.675,
-          "return_pct": 3.2944259
-        },
-        {
-          "code": "TXG",
-          "name": "10x Genomics",
-          "market": "US",
-          "weight_pct": 13.350137,
-          "cost_price": 85.956053135,
-          "current_price": 75.56,
-          "return_pct": -12.0946143
-        },
-        {
-          "code": "CAI",
-          "name": "Caris Life Sciences",
-          "market": "US",
-          "weight_pct": 12.8452868,
-          "cost_price": 33.259984102,
-          "current_price": 35.665,
-          "return_pct": 7.2309593
-        },
-        {
-          "code": "TDY",
-          "name": "Teledyne Technologies",
-          "market": "US",
-          "weight_pct": 10.536585299999999,
-          "cost_price": 644.998699375,
-          "current_price": 677.575,
-          "return_pct": 5.050599399999999
-        },
-        {
-          "code": "SN",
-          "name": "SharkNinja",
-          "market": "US",
-          "weight_pct": 5.3296138,
-          "cost_price": 201.105381966,
-          "current_price": 210.48,
-          "return_pct": 4.6615451000000006
+          "weight_pct": 15.1268019,
+          "cost_price": 41.020075753,
+          "current_price": 41.375,
+          "return_pct": 0.8652451999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.8178666
+          "weight_pct": 35.6267412
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 36.4591749
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 26.1954238
-        },
-        {
           "name": "國防軍工",
-          "weight_pct": 20.2970688
+          "weight_pct": 20.4999393
         },
         {
-          "name": "電子",
-          "weight_pct": 10.536585299999999
-        },
-        {
-          "name": "家用電器",
-          "weight_pct": 5.3296138
+          "name": "其他",
+          "weight_pct": 15.1268019
         }
       ]
     },
@@ -115,72 +58,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T21:40:42+08:00",
-      "invested_pct": 99.9121989,
-      "cash_pct": 0.08780109999999297,
-      "weighted_return_pct": -1.9728990861160434,
-      "position_count": 5,
+      "updated_at": "2026-10-30T23:40:43+08:00",
+      "invested_pct": 30.188198,
+      "cash_pct": 69.811802,
+      "weighted_return_pct": 0.8985969,
+      "position_count": 1,
       "positions": [
         {
-          "code": "ARKG",
-          "name": "基因進化ETF-ARK",
+          "code": "SNDQ",
+          "name": "2倍做空SNDK ETF-Tradr",
           "market": "US",
-          "weight_pct": 32.299844900000004,
-          "cost_price": 51.026170554,
-          "current_price": 53.675,
-          "return_pct": 5.1911194
-        },
-        {
-          "code": "LABU",
-          "name": "三倍做多生物技術ETF-Direxion",
-          "market": "US",
-          "weight_pct": 23.3143958,
-          "cost_price": 266.53,
-          "current_price": 260.9199,
-          "return_pct": -2.1048662
-        },
-        {
-          "code": "TWST",
-          "name": "Twist Bioscience",
-          "market": "US",
-          "weight_pct": 15.0238022,
-          "cost_price": 174.1473338,
-          "current_price": 165.76,
-          "return_pct": -4.8162287
-        },
-        {
-          "code": "SDGR",
-          "name": "Schrodinger",
-          "market": "US",
-          "weight_pct": 14.9065259,
-          "cost_price": 30.302685929,
-          "current_price": 29.135,
-          "return_pct": -3.8534074
-        },
-        {
-          "code": "TXG",
-          "name": "10x Genomics",
-          "market": "US",
-          "weight_pct": 14.367630100000001,
-          "cost_price": 86.790666,
-          "current_price": 75.56,
-          "return_pct": -12.9399468
+          "weight_pct": 30.188198,
+          "cost_price": 20.0201,
+          "current_price": 20.2,
+          "return_pct": 0.8985969
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9121989
+          "weight_pct": 30.188198
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 55.614240699999996
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 44.2979582
+          "weight_pct": 30.188198
         }
       ]
     }
