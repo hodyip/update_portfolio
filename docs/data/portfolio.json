@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T23:40:43+08:00",
-  "generated_at_utc": "2026-10-30T15:40:43+00:00",
+  "generated_at": "2026-10-31T00:40:42+08:00",
+  "generated_at_utc": "2026-10-30T16:40:42+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,45 +10,58 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T23:40:42+08:00",
-      "invested_pct": 35.6267412,
-      "cash_pct": 64.3732588,
-      "weighted_return_pct": -0.09407802602601388,
-      "position_count": 2,
+      "updated_at": "2026-10-31T00:40:42+08:00",
+      "invested_pct": 45.618821100000005,
+      "cash_pct": 54.381178899999995,
+      "weighted_return_pct": -0.08525742287733286,
+      "position_count": 3,
       "positions": [
         {
           "code": "ESLT",
           "name": "埃爾比特系統",
           "market": "US",
-          "weight_pct": 20.4999393,
-          "cost_price": 788.448020317,
-          "current_price": 782.125,
-          "return_pct": -0.8019577999999999
+          "weight_pct": 20.4385404,
+          "cost_price": 788.447765017,
+          "current_price": 779.6961,
+          "return_pct": -1.1099866999999999
         },
         {
           "code": "SQQQ",
           "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 15.1268019,
-          "cost_price": 41.020075753,
-          "current_price": 41.375,
-          "return_pct": 0.8652451999999999
+          "weight_pct": 15.1818539,
+          "cost_price": 41.019999267,
+          "current_price": 41.53,
+          "return_pct": 1.2432978000000001
+        },
+        {
+          "code": "OXY",
+          "name": "西方石油",
+          "market": "US",
+          "weight_pct": 9.9984268,
+          "cost_price": 63.765,
+          "current_price": 63.76,
+          "return_pct": -0.007841299999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 35.6267412
+          "weight_pct": 45.6188211
         }
       ],
       "by_industry": [
         {
           "name": "國防軍工",
-          "weight_pct": 20.4999393
+          "weight_pct": 20.4385404
         },
         {
           "name": "其他",
-          "weight_pct": 15.1268019
+          "weight_pct": 15.1818539
+        },
+        {
+          "name": "採掘",
+          "weight_pct": 9.9984268
         }
       ]
     },
@@ -58,32 +71,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-30T23:40:43+08:00",
-      "invested_pct": 30.188198,
-      "cash_pct": 69.811802,
-      "weighted_return_pct": 0.8985969,
+      "updated_at": "2026-10-31T00:40:42+08:00",
+      "invested_pct": 30.359921200000002,
+      "cash_pct": 69.6400788,
+      "weighted_return_pct": 1.7227686,
       "position_count": 1,
       "positions": [
         {
           "code": "SNDQ",
           "name": "2倍做空SNDK ETF-Tradr",
           "market": "US",
-          "weight_pct": 30.188198,
+          "weight_pct": 30.359921200000002,
           "cost_price": 20.0201,
-          "current_price": 20.2,
-          "return_pct": 0.8985969
+          "current_price": 20.365,
+          "return_pct": 1.7227686
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 30.188198
+          "weight_pct": 30.359921200000002
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 30.188198
+          "weight_pct": 30.359921200000002
         }
       ]
     }
