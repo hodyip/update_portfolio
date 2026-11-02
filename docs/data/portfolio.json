@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T00:40:42+08:00",
-  "generated_at_utc": "2026-10-30T16:40:42+00:00",
+  "generated_at": "2026-11-02T22:40:42+08:00",
+  "generated_at_utc": "2026-11-02T14:40:42+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,58 +10,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-31T00:40:42+08:00",
-      "invested_pct": 45.618821100000005,
-      "cash_pct": 54.381178899999995,
-      "weighted_return_pct": -0.08525742287733286,
-      "position_count": 3,
+      "updated_at": "2026-11-02T22:40:41+08:00",
+      "invested_pct": 70.5531416,
+      "cash_pct": 29.446858399999996,
+      "weighted_return_pct": -0.39453317243076436,
+      "position_count": 5,
       "positions": [
         {
           "code": "ESLT",
           "name": "埃爾比特系統",
           "market": "US",
-          "weight_pct": 20.4385404,
-          "cost_price": 788.447765017,
-          "current_price": 779.6961,
-          "return_pct": -1.1099866999999999
+          "weight_pct": 20.4142397,
+          "cost_price": 788.430834673,
+          "current_price": 773.48,
+          "return_pct": -1.8962773
         },
         {
           "code": "SQQQ",
           "name": "三倍做空納指ETF-ProShares",
           "market": "US",
-          "weight_pct": 15.1818539,
-          "cost_price": 41.019999267,
-          "current_price": 41.53,
-          "return_pct": 1.2432978000000001
+          "weight_pct": 15.1113097,
+          "cost_price": 41.019991198,
+          "current_price": 41.1001,
+          "return_pct": 0.1952921
         },
         {
-          "code": "OXY",
-          "name": "西方石油",
+          "code": "KWEB",
+          "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 9.9984268,
-          "cost_price": 63.765,
-          "current_price": 63.76,
-          "return_pct": -0.007841299999999999
+          "weight_pct": 15.022825000000001,
+          "cost_price": 23.375,
+          "current_price": 23.445,
+          "return_pct": 0.2994652
+        },
+        {
+          "code": "ITA",
+          "name": "iShares安碩美國航空航天與國防ETF",
+          "market": "US",
+          "weight_pct": 10.0194531,
+          "cost_price": 212.2892,
+          "current_price": 213.015,
+          "return_pct": 0.34189210000000003
+        },
+        {
+          "code": "GDX",
+          "name": "黃金礦業ETF-VanEck",
+          "market": "US",
+          "weight_pct": 9.9853141,
+          "cost_price": 79.75,
+          "current_price": 79.75,
+          "return_pct": 0.0
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 45.6188211
+          "weight_pct": 70.5531416
         }
       ],
       "by_industry": [
         {
-          "name": "國防軍工",
-          "weight_pct": 20.4385404
-        },
-        {
           "name": "其他",
-          "weight_pct": 15.1818539
+          "weight_pct": 50.1389019
         },
         {
-          "name": "採掘",
-          "weight_pct": 9.9984268
+          "name": "國防軍工",
+          "weight_pct": 20.4142397
         }
       ]
     },
@@ -71,32 +85,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-10-31T00:40:42+08:00",
-      "invested_pct": 30.359921200000002,
-      "cash_pct": 69.6400788,
-      "weighted_return_pct": 1.7227686,
+      "updated_at": "2026-11-02T22:40:42+08:00",
+      "invested_pct": 19.5582542,
+      "cash_pct": 80.4417458,
+      "weighted_return_pct": -2.7457496000000003,
       "position_count": 1,
       "positions": [
         {
-          "code": "SNDQ",
-          "name": "2倍做空SNDK ETF-Tradr",
+          "code": "AAOZ",
+          "name": "2倍做空AAOI ETF-Tradr",
           "market": "US",
-          "weight_pct": 30.359921200000002,
-          "cost_price": 20.0201,
-          "current_price": 20.365,
-          "return_pct": 1.7227686
+          "weight_pct": 19.5582542,
+          "cost_price": 20.9451,
+          "current_price": 20.37,
+          "return_pct": -2.7457496000000003
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 30.359921200000002
+          "weight_pct": 19.5582542
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 30.359921200000002
+          "weight_pct": 19.5582542
         }
       ]
     }
