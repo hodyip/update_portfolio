@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T04:40:51+08:00",
-  "generated_at_utc": "2026-11-03T20:40:51+00:00",
+  "generated_at": "2026-11-04T21:40:47+08:00",
+  "generated_at_utc": "2026-11-04T13:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,72 +10,90 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T04:40:50+08:00",
-      "invested_pct": 84.86941119999999,
-      "cash_pct": 15.130588800000012,
-      "weighted_return_pct": -0.18065891587526484,
-      "position_count": 5,
+      "updated_at": "2026-11-04T21:40:46+08:00",
+      "invested_pct": 98.8544772,
+      "cash_pct": 1.1455227999999948,
+      "weighted_return_pct": -0.2604685210860483,
+      "position_count": 7,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 24.7522424,
+          "weight_pct": 24.7947783,
           "cost_price": 23.465284649,
-          "current_price": 23.265,
-          "return_pct": -0.8535360000000001
+          "current_price": 23.28,
+          "return_pct": -0.7896118000000001
         },
         {
           "code": "ITA",
           "name": "iShares安碩美國航空航天與國防ETF",
           "market": "US",
-          "weight_pct": 20.3676304,
+          "weight_pct": 20.376289,
           "cost_price": 213.262701422,
-          "current_price": 216.31,
-          "return_pct": 1.4288943
+          "current_price": 216.17,
+          "return_pct": 1.3632476
         },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 14.9170937,
+          "weight_pct": 14.9172277,
           "cost_price": 312.945598999,
-          "current_price": 312.8225,
-          "return_pct": -0.0393356
+          "current_price": 312.49,
+          "return_pct": -0.1455841
         },
         {
           "code": "NXPI",
           "name": "恩智浦",
           "market": "US",
-          "weight_pct": 14.8088465,
+          "weight_pct": 14.7573492,
           "cost_price": 268.358737559,
-          "current_price": 263.99,
-          "return_pct": -1.6279468
+          "current_price": 262.79,
+          "return_pct": -2.0751095
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 10.0235982,
+          "weight_pct": 10.0089503,
           "cost_price": 43.389998271,
-          "current_price": 43.45,
-          "return_pct": 0.1382847
+          "current_price": 43.34,
+          "return_pct": -0.11522990000000001
+        },
+        {
+          "code": "TQQQ",
+          "name": "三倍做多納指ETF-ProShares",
+          "market": "US",
+          "weight_pct": 7.000000000000001,
+          "cost_price": 0.0,
+          "current_price": 60.55,
+          "return_pct": 0.0
+        },
+        {
+          "code": "GDX",
+          "name": "黃金礦業ETF-VanEck",
+          "market": "US",
+          "weight_pct": 6.9998827,
+          "cost_price": 0.0,
+          "current_price": 77.6,
+          "return_pct": 0.0
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 84.8694112
+          "weight_pct": 98.8544772
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 55.143471
+          "weight_pct": 69.1799003
         },
         {
           "name": "電子",
-          "weight_pct": 29.7259402
+          "weight_pct": 29.674576899999998
         }
       ]
     },
@@ -85,59 +103,59 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T04:40:51+08:00",
-      "invested_pct": 99.5230471,
-      "cash_pct": 0.47695290000000057,
-      "weighted_return_pct": -0.37615332254017225,
+      "updated_at": "2026-11-04T21:40:47+08:00",
+      "invested_pct": 99.52269519999999,
+      "cash_pct": 0.4773048000000131,
+      "weighted_return_pct": -0.4535976238193817,
       "position_count": 4,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 29.986833299999997,
+          "weight_pct": 30.0288978,
           "cost_price": 23.805758015,
-          "current_price": 23.265,
-          "return_pct": -2.2715429
+          "current_price": 23.28,
+          "return_pct": -2.208533
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 29.081770499999998,
+          "weight_pct": 29.030120399999998,
           "cost_price": 43.43,
-          "current_price": 43.45,
-          "return_pct": 0.0460511
+          "current_price": 43.34,
+          "return_pct": -0.20723
         },
         {
           "code": "ITA",
           "name": "iShares安碩美國航空航天與國防ETF",
           "market": "US",
-          "weight_pct": 20.2306281,
+          "weight_pct": 20.232849899999998,
           "cost_price": 214.771186743,
-          "current_price": 216.31,
-          "return_pct": 0.7164896
+          "current_price": 216.17,
+          "return_pct": 0.651304
         },
         {
           "code": "INDA",
           "name": "MSCI印度ETF-iShares",
           "market": "US",
-          "weight_pct": 20.2238152,
+          "weight_pct": 20.230827100000003,
           "cost_price": 48.364955981,
-          "current_price": 48.72,
-          "return_pct": 0.7340935
+          "current_price": 48.7,
+          "return_pct": 0.6927413
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5230471
+          "weight_pct": 99.5226952
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.5230471
+          "weight_pct": 99.5226952
         }
       ]
     }
