@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T22:40:46+08:00",
-  "generated_at_utc": "2026-11-04T14:40:46+00:00",
+  "generated_at": "2026-11-04T23:40:48+08:00",
+  "generated_at_utc": "2026-11-04T15:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,90 +10,94 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T22:40:45+08:00",
-      "invested_pct": 99.2219178,
-      "cash_pct": 0.7780822000000001,
-      "weighted_return_pct": 1.7881845612588598,
+      "updated_at": "2026-11-04T23:40:47+08:00",
+      "invested_pct": 99.17814589999999,
+      "cash_pct": 0.8218541000000101,
+      "weighted_return_pct": 1.7403079112338913,
       "position_count": 7,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 25.247815000000003,
-          "cost_price": 23.466332743,
-          "current_price": 24.2267,
-          "return_pct": 3.2402475
+          "weight_pct": 25.435958499999998,
+          "cost_price": 23.466670057,
+          "current_price": 24.44,
+          "return_pct": 4.1477122
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 16.8341903,
-          "cost_price": 82.452764488,
-          "current_price": 82.5,
-          "return_pct": 0.057288
+          "weight_pct": 16.8692587,
+          "cost_price": 82.452800544,
+          "current_price": 82.83,
+          "return_pct": 0.45747319999999997
+        },
+        {
+          "code": "ABNB",
+          "name": "愛彼迎",
+          "market": "US",
+          "weight_pct": 16.0042499,
+          "cost_price": 177.355,
+          "current_price": 177.585,
+          "return_pct": 0.1296834
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 14.959013099999998,
-          "cost_price": 44.501625542,
-          "current_price": 47.18,
-          "return_pct": 6.0185992
+          "weight_pct": 14.758542899999998,
+          "cost_price": 44.501952706,
+          "current_price": 46.62,
+          "return_pct": 4.759448
         },
         {
           "code": "NXPI",
           "name": "恩智浦",
           "market": "US",
-          "weight_pct": 14.651297699999999,
-          "cost_price": 268.358463324,
-          "current_price": 266.99,
-          "return_pct": -0.5099386
+          "weight_pct": 10.0191567,
+          "cost_price": 270.165498992,
+          "current_price": 265.91,
+          "return_pct": -1.5751452
         },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 14.5365461,
-          "cost_price": 312.946014778,
-          "current_price": 311.865,
-          "return_pct": -0.3454317
-        },
-        {
-          "code": "TQQQ",
-          "name": "三倍做多納指ETF-ProShares",
-          "market": "US",
-          "weight_pct": 6.9869376,
-          "cost_price": 61.489741007,
-          "current_price": 62.87,
-          "return_pct": 2.2446979999999996
+          "weight_pct": 9.9985517,
+          "cost_price": 314.108029589,
+          "current_price": 311.47,
+          "return_pct": -0.8398479000000001
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 6.006118,
-          "cost_price": 25.195,
-          "current_price": 25.255,
-          "return_pct": 0.2381425
+          "weight_pct": 6.0924275,
+          "cost_price": 25.195043896,
+          "current_price": 25.66,
+          "return_pct": 1.8454268
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.2219178
+          "weight_pct": 99.1781459
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 70.034074
+          "weight_pct": 63.1561876
         },
         {
           "name": "電子",
-          "weight_pct": 29.187843800000003
+          "weight_pct": 20.0177084
+        },
+        {
+          "name": "休閒服務",
+          "weight_pct": 16.0042499
         }
       ]
     },
@@ -103,50 +107,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T22:40:46+08:00",
-      "invested_pct": 99.36487029999999,
-      "cash_pct": 0.6351297000000073,
-      "weighted_return_pct": 2.560505531142895,
+      "updated_at": "2026-11-04T23:40:48+08:00",
+      "invested_pct": 99.3680018,
+      "cash_pct": 0.6319981999999982,
+      "weighted_return_pct": 2.997140587280162,
       "position_count": 3,
       "positions": [
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 38.9466439,
+          "weight_pct": 39.1241984,
           "cost_price": 77.745,
-          "current_price": 77.45,
-          "return_pct": -0.3794456
-        },
-        {
-          "code": "TAN",
-          "name": "太陽能ETF-Invesco",
-          "market": "US",
-          "weight_pct": 30.2735419,
-          "cost_price": 43.421757982,
-          "current_price": 47.18,
-          "return_pct": 8.655204699999999
+          "current_price": 78.1886,
+          "return_pct": 0.5705833
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 30.1446845,
+          "weight_pct": 30.477084599999998,
           "cost_price": 25.195,
-          "current_price": 25.255,
-          "return_pct": 0.2381425
+          "current_price": 25.66,
+          "return_pct": 1.8456042999999998
+        },
+        {
+          "code": "TAN",
+          "name": "太陽能ETF-Invesco",
+          "market": "US",
+          "weight_pct": 29.766718800000003,
+          "cost_price": 43.421757982,
+          "current_price": 46.62,
+          "return_pct": 7.3655286
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.36487029999999
+          "weight_pct": 99.3680018
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.36487029999999
+          "weight_pct": 99.3680018
         }
       ]
     }
