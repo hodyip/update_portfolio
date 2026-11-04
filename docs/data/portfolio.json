@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T23:40:48+08:00",
-  "generated_at_utc": "2026-11-04T15:40:48+00:00",
+  "generated_at": "2026-11-05T00:40:48+08:00",
+  "generated_at_utc": "2026-11-04T16:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,94 +10,85 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T23:40:47+08:00",
-      "invested_pct": 99.17814589999999,
-      "cash_pct": 0.8218541000000101,
-      "weighted_return_pct": 1.7403079112338913,
-      "position_count": 7,
+      "updated_at": "2026-11-05T00:40:47+08:00",
+      "invested_pct": 99.32547399999999,
+      "cash_pct": 0.6745260000000144,
+      "weighted_return_pct": 2.386873346149976,
+      "position_count": 6,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 25.435958499999998,
-          "cost_price": 23.466670057,
-          "current_price": 24.44,
-          "return_pct": 4.1477122
+          "weight_pct": 25.356662699999998,
+          "cost_price": 23.466897962,
+          "current_price": 24.4,
+          "return_pct": 3.9762479
+        },
+        {
+          "code": "ISRG",
+          "name": "直覺外科公司",
+          "market": "US",
+          "weight_pct": 20.115418,
+          "cost_price": 478.625,
+          "current_price": 483.96,
+          "return_pct": 1.1146513
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 16.8692587,
-          "cost_price": 82.452800544,
-          "current_price": 82.83,
-          "return_pct": 0.45747319999999997
+          "weight_pct": 17.0129293,
+          "cost_price": 82.452802224,
+          "current_price": 83.66,
+          "return_pct": 1.4641076
         },
         {
           "code": "ABNB",
           "name": "愛彼迎",
           "market": "US",
-          "weight_pct": 16.0042499,
-          "cost_price": 177.355,
-          "current_price": 177.585,
-          "return_pct": 0.1296834
+          "weight_pct": 16.0166988,
+          "cost_price": 177.354984362,
+          "current_price": 178.055,
+          "return_pct": 0.39469750000000003
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 14.758542899999998,
-          "cost_price": 44.501952706,
-          "current_price": 46.62,
-          "return_pct": 4.759448
-        },
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 10.0191567,
-          "cost_price": 270.165498992,
-          "current_price": 265.91,
-          "return_pct": -1.5751452
-        },
-        {
-          "code": "TXN",
-          "name": "德州儀器",
-          "market": "US",
-          "weight_pct": 9.9985517,
-          "cost_price": 314.108029589,
-          "current_price": 311.47,
-          "return_pct": -0.8398479000000001
+          "weight_pct": 14.7274607,
+          "cost_price": 44.501602135,
+          "current_price": 46.61,
+          "return_pct": 4.7378022
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 6.0924275,
-          "cost_price": 25.195043896,
-          "current_price": 25.66,
-          "return_pct": 1.8454268
+          "weight_pct": 6.0963045000000005,
+          "cost_price": 25.194966403,
+          "current_price": 25.725,
+          "return_pct": 2.1037281
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1781459
+          "weight_pct": 99.325474
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 63.1561876
+          "weight_pct": 63.1933572
         },
         {
-          "name": "電子",
-          "weight_pct": 20.0177084
+          "name": "醫藥生物",
+          "weight_pct": 20.115418
         },
         {
           "name": "休閒服務",
-          "weight_pct": 16.0042499
+          "weight_pct": 16.0166988
         }
       ]
     },
@@ -107,50 +98,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-04T23:40:48+08:00",
-      "invested_pct": 99.3680018,
-      "cash_pct": 0.6319981999999982,
-      "weighted_return_pct": 2.997140587280162,
+      "updated_at": "2026-11-05T00:40:48+08:00",
+      "invested_pct": 99.37442800000001,
+      "cash_pct": 0.6255719999999911,
+      "weighted_return_pct": 4.02607245982995,
       "position_count": 3,
       "positions": [
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 39.1241984,
+          "weight_pct": 39.6730882,
           "cost_price": 77.745,
-          "current_price": 78.1886,
-          "return_pct": 0.5705833
+          "current_price": 80.1,
+          "return_pct": 3.0291337
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 30.477084599999998,
+          "weight_pct": 30.243609900000003,
           "cost_price": 25.195,
-          "current_price": 25.66,
-          "return_pct": 1.8456042999999998
+          "current_price": 25.725,
+          "return_pct": 2.103592
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 29.766718800000003,
+          "weight_pct": 29.4577299,
           "cost_price": 43.421757982,
-          "current_price": 46.62,
-          "return_pct": 7.3655286
+          "current_price": 46.61,
+          "return_pct": 7.3424987
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3680018
+          "weight_pct": 99.37442800000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.3680018
+          "weight_pct": 99.37442800000001
         }
       ]
     }
