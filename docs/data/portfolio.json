@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T00:40:48+08:00",
-  "generated_at_utc": "2026-11-04T16:40:48+00:00",
+  "generated_at": "2026-11-05T01:40:44+08:00",
+  "generated_at_utc": "2026-11-04T17:40:44+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,85 +10,85 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T00:40:47+08:00",
-      "invested_pct": 99.32547399999999,
-      "cash_pct": 0.6745260000000144,
-      "weighted_return_pct": 2.386873346149976,
+      "updated_at": "2026-11-05T01:40:44+08:00",
+      "invested_pct": 99.3265548,
+      "cash_pct": 0.6734452000000033,
+      "weighted_return_pct": 2.5424347999779413,
       "position_count": 6,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 25.356662699999998,
+          "weight_pct": 25.352350899999998,
           "cost_price": 23.466897962,
-          "current_price": 24.4,
-          "return_pct": 3.9762479
+          "current_price": 24.435,
+          "return_pct": 4.125394200000001
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 20.115418,
+          "weight_pct": 20.0869244,
           "cost_price": 478.625,
-          "current_price": 483.96,
-          "return_pct": 1.1146513
+          "current_price": 484.05,
+          "return_pct": 1.1334552
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 17.0129293,
+          "weight_pct": 17.1369306,
           "cost_price": 82.452802224,
-          "current_price": 83.66,
-          "return_pct": 1.4641076
+          "current_price": 84.405,
+          "return_pct": 2.3676549000000002
         },
         {
           "code": "ABNB",
           "name": "愛彼迎",
           "market": "US",
-          "weight_pct": 16.0166988,
+          "weight_pct": 16.1145253,
           "cost_price": 177.354984362,
-          "current_price": 178.055,
-          "return_pct": 0.39469750000000003
+          "current_price": 179.43,
+          "return_pct": 1.1699788
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 14.7274607,
+          "weight_pct": 14.558750400000001,
           "cost_price": 44.501602135,
-          "current_price": 46.61,
-          "return_pct": 4.7378022
+          "current_price": 46.15,
+          "return_pct": 3.7041315
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 6.0963045000000005,
+          "weight_pct": 6.0770732,
           "cost_price": 25.194966403,
-          "current_price": 25.725,
-          "return_pct": 2.1037281
+          "current_price": 25.685,
+          "return_pct": 1.9449663
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.325474
+          "weight_pct": 99.3265548
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 63.1933572
+          "weight_pct": 63.1251051
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 20.115418
+          "weight_pct": 20.0869244
         },
         {
           "name": "休閒服務",
-          "weight_pct": 16.0166988
+          "weight_pct": 16.1145253
         }
       ]
     },
@@ -98,50 +98,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T00:40:48+08:00",
-      "invested_pct": 99.37442800000001,
-      "cash_pct": 0.6255719999999911,
-      "weighted_return_pct": 4.02607245982995,
+      "updated_at": "2026-11-05T01:40:44+08:00",
+      "invested_pct": 99.3786194,
+      "cash_pct": 0.6213805999999948,
+      "weighted_return_pct": 4.719987326605458,
       "position_count": 3,
       "positions": [
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 39.6730882,
+          "weight_pct": 40.418621,
           "cost_price": 77.745,
-          "current_price": 80.1,
-          "return_pct": 3.0291337
+          "current_price": 82.1557,
+          "return_pct": 5.6732909
         },
         {
           "code": "YINN",
           "name": "三倍做多富時中國ETF-Direxion",
           "market": "US",
-          "weight_pct": 30.243609900000003,
+          "weight_pct": 29.9884186,
           "cost_price": 25.195,
-          "current_price": 25.725,
-          "return_pct": 2.103592
+          "current_price": 25.68,
+          "return_pct": 1.9249850999999998
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 29.4577299,
+          "weight_pct": 28.9715798,
           "cost_price": 43.421757982,
-          "current_price": 46.61,
-          "return_pct": 7.3424987
+          "current_price": 46.15,
+          "return_pct": 6.283122
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.37442800000001
+          "weight_pct": 99.3786194
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.37442800000001
+          "weight_pct": 99.3786194
         }
       ]
     }
