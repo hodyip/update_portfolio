@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T22:40:49+08:00",
-  "generated_at_utc": "2026-11-05T14:40:49+00:00",
+  "generated_at": "2026-11-05T23:40:48+08:00",
+  "generated_at_utc": "2026-11-05T15:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,76 +10,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T22:40:48+08:00",
-      "invested_pct": 97.8140313,
-      "cash_pct": 2.1859687000000037,
-      "weighted_return_pct": 2.5628111356381456,
-      "position_count": 5,
+      "updated_at": "2026-11-05T23:40:48+08:00",
+      "invested_pct": 63.5627053,
+      "cash_pct": 36.4372947,
+      "weighted_return_pct": 2.0816005261787667,
+      "position_count": 3,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 26.038826999999998,
-          "cost_price": 23.484819368,
-          "current_price": 24.785,
-          "return_pct": 5.5362599
-        },
-        {
-          "code": "FSLR",
-          "name": "第一太陽能",
-          "market": "US",
-          "weight_pct": 19.9041954,
-          "cost_price": 200.72,
-          "current_price": 199.34,
-          "return_pct": -0.6875249
+          "weight_pct": 26.406444299999997,
+          "cost_price": 23.485127258,
+          "current_price": 24.475,
+          "return_pct": 4.214892
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 19.450003,
-          "cost_price": 478.523689775,
-          "current_price": 482.39,
-          "return_pct": 0.8079663000000001
+          "weight_pct": 19.621149900000002,
+          "cost_price": 478.521129768,
+          "current_price": 474.425,
+          "return_pct": -0.8559977
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 17.425750400000002,
-          "cost_price": 82.454512048,
-          "current_price": 85.855,
-          "return_pct": 4.1240775
-        },
-        {
-          "code": "TAN",
-          "name": "太陽能ETF-Invesco",
-          "market": "US",
-          "weight_pct": 14.995255499999999,
-          "cost_price": 44.550694644,
-          "current_price": 45.52,
-          "return_pct": 2.1757357
+          "weight_pct": 17.5351111,
+          "cost_price": 82.452929753,
+          "current_price": 84.2307,
+          "return_pct": 2.1561032
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 97.81403130000001
+          "weight_pct": 63.5627053
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 58.459832899999995
-        },
-        {
-          "name": "公用事業",
-          "weight_pct": 19.9041954
+          "weight_pct": 43.9415554
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 19.450003
+          "weight_pct": 19.621149900000002
         }
       ]
     },
@@ -89,41 +67,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T22:40:49+08:00",
-      "invested_pct": 56.7377494,
-      "cash_pct": 43.2622506,
-      "weighted_return_pct": 11.945419617498512,
-      "position_count": 2,
+      "updated_at": "2026-11-05T23:40:48+08:00",
+      "invested_pct": 99.9389687,
+      "cash_pct": 0.061031299999996236,
+      "weighted_return_pct": 3.434725197228278,
+      "position_count": 3,
       "positions": [
+        {
+          "code": "TSLQ",
+          "name": "2倍做空TSLA ETF-Tradr",
+          "market": "US",
+          "weight_pct": 44.3959675,
+          "cost_price": 18.92,
+          "current_price": 18.865,
+          "return_pct": -0.2906977
+        },
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 29.054356300000002,
-          "cost_price": 72.473141152,
-          "current_price": 86.07,
-          "return_pct": 18.761238499999997
+          "weight_pct": 28.1861038,
+          "cost_price": 72.452469148,
+          "current_price": 81.25,
+          "return_pct": 12.1424859
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 27.683393099999996,
-          "cost_price": 43.438405011,
-          "current_price": 45.52,
-          "return_pct": 4.7920613
+          "weight_pct": 27.3568974,
+          "cost_price": 43.438980228,
+          "current_price": 43.66,
+          "return_pct": 0.5088052
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 56.737749400000006
+          "weight_pct": 99.9389687
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 56.737749400000006
+          "weight_pct": 99.9389687
         }
       ]
     }
