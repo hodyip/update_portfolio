@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T23:40:48+08:00",
-  "generated_at_utc": "2026-11-05T15:40:48+00:00",
+  "generated_at": "2026-11-06T00:40:47+08:00",
+  "generated_at_utc": "2026-11-05T16:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,54 +10,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T23:40:48+08:00",
-      "invested_pct": 63.5627053,
-      "cash_pct": 36.4372947,
-      "weighted_return_pct": 2.0816005261787667,
-      "position_count": 3,
+      "updated_at": "2026-11-06T00:40:47+08:00",
+      "invested_pct": 56.6604072,
+      "cash_pct": 43.3395928,
+      "weighted_return_pct": 2.1841940137128906,
+      "position_count": 4,
       "positions": [
+        {
+          "code": "GLD",
+          "name": "黃金ETF-SPDR",
+          "market": "US",
+          "weight_pct": 20.0048279,
+          "cost_price": 376.845,
+          "current_price": 376.9909,
+          "return_pct": 0.0387162
+        },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 26.406444299999997,
-          "cost_price": 23.485127258,
-          "current_price": 24.475,
-          "return_pct": 4.214892
-        },
-        {
-          "code": "ISRG",
-          "name": "直覺外科公司",
-          "market": "US",
-          "weight_pct": 19.621149900000002,
-          "cost_price": 478.521129768,
-          "current_price": 474.425,
-          "return_pct": -0.8559977
+          "weight_pct": 16.4635433,
+          "cost_price": 22.942187868,
+          "current_price": 24.535,
+          "return_pct": 6.9427212
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 17.5351111,
-          "cost_price": 82.452929753,
-          "current_price": 84.2307,
-          "return_pct": 2.1561032
+          "weight_pct": 10.2468857,
+          "cost_price": 81.966346724,
+          "current_price": 85.45,
+          "return_pct": 4.2501019
+        },
+        {
+          "code": "ISRG",
+          "name": "直覺外科公司",
+          "market": "US",
+          "weight_pct": 9.9451503,
+          "cost_price": 486.077660379,
+          "current_price": 469.035,
+          "return_pct": -3.50616
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 63.5627053
+          "weight_pct": 56.660407199999995
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 43.9415554
+          "weight_pct": 46.7152569
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 19.621149900000002
+          "weight_pct": 9.9451503
         }
       ]
     },
@@ -67,50 +76,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-05T23:40:48+08:00",
-      "invested_pct": 99.9389687,
-      "cash_pct": 0.061031299999996236,
-      "weighted_return_pct": 3.434725197228278,
-      "position_count": 3,
+      "updated_at": "2026-11-06T00:40:47+08:00",
+      "invested_pct": 44.9568174,
+      "cash_pct": 55.0431826,
+      "weighted_return_pct": -0.6620598,
+      "position_count": 1,
       "positions": [
         {
           "code": "TSLQ",
           "name": "2倍做空TSLA ETF-Tradr",
           "market": "US",
-          "weight_pct": 44.3959675,
-          "cost_price": 18.92,
-          "current_price": 18.865,
-          "return_pct": -0.2906977
-        },
-        {
-          "code": "GDXU",
-          "name": "三倍做多黃金礦業ETN-MicroSectors",
-          "market": "US",
-          "weight_pct": 28.1861038,
-          "cost_price": 72.452469148,
-          "current_price": 81.25,
-          "return_pct": 12.1424859
-        },
-        {
-          "code": "TAN",
-          "name": "太陽能ETF-Invesco",
-          "market": "US",
-          "weight_pct": 27.3568974,
-          "cost_price": 43.438980228,
-          "current_price": 43.66,
-          "return_pct": 0.5088052
+          "weight_pct": 44.9568174,
+          "cost_price": 18.920263466,
+          "current_price": 18.795,
+          "return_pct": -0.6620598
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9389687
+          "weight_pct": 44.9568174
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.9389687
+          "weight_pct": 44.9568174
         }
       ]
     }
