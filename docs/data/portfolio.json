@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T03:40:46+08:00",
-  "generated_at_utc": "2026-11-05T19:40:46+00:00",
+  "generated_at": "2026-11-06T04:40:48+08:00",
+  "generated_at_utc": "2026-11-05T20:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,59 +10,59 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T03:40:46+08:00",
-      "invested_pct": 56.584248599999995,
-      "cash_pct": 43.415751400000005,
-      "weighted_return_pct": 2.3627075372062016,
+      "updated_at": "2026-11-06T04:40:47+08:00",
+      "invested_pct": 56.613127600000006,
+      "cash_pct": 43.386872399999994,
+      "weighted_return_pct": 2.487865213816038,
       "position_count": 4,
       "positions": [
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 20.0152731,
+          "weight_pct": 20.0152343,
           "cost_price": 376.844780032,
-          "current_price": 375.785,
-          "return_pct": -0.2812245
+          "current_price": 376.0344,
+          "return_pct": -0.2150435
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 16.619172,
+          "weight_pct": 16.6382833,
           "cost_price": 22.942655994,
-          "current_price": 24.665,
-          "return_pct": 7.5071692
+          "current_price": 24.7098,
+          "return_pct": 7.7024387
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 10.0250831,
+          "weight_pct": 10.046609,
           "cost_price": 83.461409337,
-          "current_price": 85.28,
-          "return_pct": 2.1789599
+          "current_price": 85.52,
+          "return_pct": 2.4665179999999998
         },
         {
           "code": "TSLS",
           "name": "1倍做空TSLA ETF-Direxion",
           "market": "US",
-          "weight_pct": 9.9247204,
+          "weight_pct": 9.913001000000001,
           "cost_price": 58.57,
-          "current_price": 58.14,
-          "return_pct": -0.7341641999999999
+          "current_price": 58.11,
+          "return_pct": -0.7853850000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 56.584248599999995
+          "weight_pct": 56.6131276
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 56.584248599999995
+          "weight_pct": 56.6131276
         }
       ]
     },
@@ -72,29 +72,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T03:40:46+08:00",
+      "updated_at": "2026-11-06T04:40:48+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": 1.358996248753422,
+      "weighted_return_pct": 1.2818408278088438,
       "position_count": 2,
       "positions": [
         {
           "code": "TSLQ",
           "name": "2倍做空TSLA ETF-Tradr",
           "market": "US",
-          "weight_pct": 69.6326454,
+          "weight_pct": 69.3993729,
           "cost_price": 19.141059583,
-          "current_price": 19.42,
-          "return_pct": 1.4572883
+          "current_price": 19.34,
+          "return_pct": 1.0393386
         },
         {
           "code": "FSLR",
           "name": "第一太陽能",
           "market": "US",
-          "weight_pct": 30.367354600000002,
+          "weight_pct": 30.6006271,
           "cost_price": 194.07,
-          "current_price": 196.27,
-          "return_pct": 1.1336116
+          "current_price": 197.625,
+          "return_pct": 1.8318133
         }
       ],
       "by_market": [
@@ -106,11 +106,11 @@
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 69.6326454
+          "weight_pct": 69.3993729
         },
         {
           "name": "公用事業",
-          "weight_pct": 30.367354600000002
+          "weight_pct": 30.6006271
         }
       ]
     }
