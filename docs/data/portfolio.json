@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T01:40:54+08:00",
-  "generated_at_utc": "2026-11-05T17:40:54+00:00",
+  "generated_at": "2026-11-06T02:40:46+08:00",
+  "generated_at_utc": "2026-11-05T18:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,59 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T01:40:53+08:00",
-      "invested_pct": 66.4136445,
-      "cash_pct": 33.586355499999996,
-      "weighted_return_pct": 1.1891703245076708,
+      "updated_at": "2026-11-06T02:40:46+08:00",
+      "invested_pct": 56.6084012,
+      "cash_pct": 43.3915988,
+      "weighted_return_pct": 2.4502701349785627,
       "position_count": 4,
       "positions": [
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 20.0444801,
-          "cost_price": 376.844885421,
-          "current_price": 376.16,
-          "return_pct": -0.181742
-        },
-        {
-          "code": "GDX",
-          "name": "黃金礦業ETF-VanEck",
-          "market": "US",
-          "weight_pct": 19.9585193,
-          "cost_price": 84.25074256,
-          "current_price": 84.83,
-          "return_pct": 0.6875399
+          "weight_pct": 20.0022752,
+          "cost_price": 376.844780032,
+          "current_price": 375.75,
+          "return_pct": -0.2905122
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 16.5252973,
-          "cost_price": 22.942758023,
-          "current_price": 24.51,
-          "return_pct": 6.8310967
+          "weight_pct": 16.5695212,
+          "cost_price": 22.942655994,
+          "current_price": 24.605,
+          "return_pct": 7.245647600000001
         },
         {
-          "code": "ISRG",
-          "name": "直覺外科公司",
+          "code": "GDX",
+          "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 9.8853478,
-          "cost_price": 486.090190136,
-          "current_price": 464.46,
-          "return_pct": -4.4498306
+          "weight_pct": 10.0559865,
+          "cost_price": 83.461409337,
+          "current_price": 85.5905,
+          "return_pct": 2.5509882
+        },
+        {
+          "code": "TSLS",
+          "name": "1倍做空TSLA ETF-Direxion",
+          "market": "US",
+          "weight_pct": 9.980618300000001,
+          "cost_price": 58.57,
+          "current_price": 58.5,
+          "return_pct": -0.1195151
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 66.4136445
+          "weight_pct": 56.6084012
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 56.528296700000006
-        },
-        {
-          "name": "醫藥生物",
-          "weight_pct": 9.8853478
+          "weight_pct": 56.6084012
         }
       ]
     },
@@ -76,32 +72,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T01:40:54+08:00",
-      "invested_pct": 45.8568975,
-      "cash_pct": 54.1431025,
-      "weighted_return_pct": 3.0112505,
-      "position_count": 1,
+      "updated_at": "2026-11-06T02:40:46+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 1.7163461698889693,
+      "position_count": 2,
       "positions": [
         {
           "code": "TSLQ",
           "name": "2倍做空TSLA ETF-Tradr",
           "market": "US",
-          "weight_pct": 45.8568975,
-          "cost_price": 18.920263466,
-          "current_price": 19.49,
-          "return_pct": 3.0112505
+          "weight_pct": 70.0384163,
+          "cost_price": 19.141059583,
+          "current_price": 19.6,
+          "return_pct": 2.3976751000000003
+        },
+        {
+          "code": "FSLR",
+          "name": "第一太陽能",
+          "market": "US",
+          "weight_pct": 29.9615837,
+          "cost_price": 194.07,
+          "current_price": 194.31,
+          "return_pct": 0.1236667
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 45.8568975
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 45.8568975
+          "weight_pct": 70.0384163
+        },
+        {
+          "name": "公用事業",
+          "weight_pct": 29.9615837
         }
       ]
     }
