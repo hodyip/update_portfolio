@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T21:40:45+08:00",
-  "generated_at_utc": "2026-11-06T13:40:45+00:00",
+  "generated_at": "2026-11-06T22:40:45+08:00",
+  "generated_at_utc": "2026-11-06T14:40:45+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,59 +10,59 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T21:40:45+08:00",
-      "invested_pct": 56.6121386,
-      "cash_pct": 43.3878614,
-      "weighted_return_pct": 2.554786505732899,
+      "updated_at": "2026-11-06T22:40:45+08:00",
+      "invested_pct": 56.330521100000006,
+      "cash_pct": 43.669478899999994,
+      "weighted_return_pct": 1.4426383953473927,
       "position_count": 4,
       "positions": [
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 19.9746726,
+          "weight_pct": 19.799135200000002,
           "cost_price": 376.844780032,
-          "current_price": 375.49,
-          "return_pct": -0.3595061
+          "current_price": 369.79,
+          "return_pct": -1.8720652
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 16.6624215,
+          "weight_pct": 16.7570257,
           "cost_price": 22.942655994,
-          "current_price": 24.76,
-          "return_pct": 7.9212451
+          "current_price": 24.74,
+          "return_pct": 7.8340712
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 10.0677895,
+          "weight_pct": 9.9984219,
           "cost_price": 83.461409337,
-          "current_price": 85.75,
-          "return_pct": 2.7420944
+          "current_price": 84.61,
+          "return_pct": 1.3761937
         },
         {
           "code": "TSLS",
           "name": "1倍做空TSLA ETF-Direxion",
           "market": "US",
-          "weight_pct": 9.907255,
+          "weight_pct": 9.7759383,
           "cost_price": 58.57,
-          "current_price": 58.11,
-          "return_pct": -0.7853850000000001
+          "current_price": 56.97,
+          "return_pct": -2.7317739
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 56.612138599999994
+          "weight_pct": 56.3305211
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 56.612138599999994
+          "weight_pct": 56.3305211
         }
       ]
     },
@@ -72,29 +72,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T21:40:45+08:00",
-      "invested_pct": 99.99999999999999,
-      "cash_pct": 1.4210854715202004e-14,
-      "weighted_return_pct": 0.8790201396790964,
+      "updated_at": "2026-11-06T22:40:45+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": -2.450295371894517,
       "position_count": 2,
       "positions": [
         {
           "code": "TSLQ",
           "name": "2倍做空TSLA ETF-Tradr",
           "market": "US",
-          "weight_pct": 69.56750889999999,
+          "weight_pct": 68.0649147,
           "cost_price": 19.141059583,
-          "current_price": 19.31,
-          "return_pct": 0.8826073999999999
+          "current_price": 18.25,
+          "return_pct": -4.655226
         },
         {
           "code": "FSLR",
           "name": "第一太陽能",
           "market": "US",
-          "weight_pct": 30.432491099999996,
+          "weight_pct": 31.935085299999997,
           "cost_price": 194.07,
-          "current_price": 195.76,
-          "return_pct": 0.8708198
+          "current_price": 198.435,
+          "return_pct": 2.2491884
         }
       ],
       "by_market": [
@@ -106,11 +106,11 @@
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 69.56750889999999
+          "weight_pct": 68.0649147
         },
         {
           "name": "公用事業",
-          "weight_pct": 30.432491099999996
+          "weight_pct": 31.935085299999997
         }
       ]
     }
