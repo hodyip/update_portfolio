@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T23:40:46+08:00",
-  "generated_at_utc": "2026-11-06T15:40:46+00:00",
+  "generated_at": "2026-11-07T00:40:46+08:00",
+  "generated_at_utc": "2026-11-06T16:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,72 +10,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T23:40:46+08:00",
-      "invested_pct": 98.56733260000001,
-      "cash_pct": 1.4326673999999855,
-      "weighted_return_pct": 1.9366391031039665,
+      "updated_at": "2026-11-07T00:40:46+08:00",
+      "invested_pct": 98.5659071,
+      "cash_pct": 1.434092899999996,
+      "weighted_return_pct": 1.8478189711895698,
       "position_count": 5,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 26.6423495,
+          "weight_pct": 26.7945977,
           "cost_price": 23.629492264,
-          "current_price": 24.8578,
-          "return_pct": 5.1981978
+          "current_price": 24.975,
+          "return_pct": 5.6941881
         },
         {
           "code": "TAN",
           "name": "太陽能ETF-Invesco",
           "market": "US",
-          "weight_pct": 21.901580000000003,
+          "weight_pct": 21.8208774,
           "cost_price": 45.598471622,
-          "current_price": 45.774,
-          "return_pct": 0.3849436
+          "current_price": 45.56,
+          "return_pct": -0.0843704
         },
         {
           "code": "FSLR",
           "name": "第一太陽能",
           "market": "US",
-          "weight_pct": 20.2392286,
+          "weight_pct": 20.0103779,
           "cost_price": 199.680245956,
-          "current_price": 204.23,
-          "return_pct": 2.2785199
+          "current_price": 201.72,
+          "return_pct": 1.0215102
         },
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 19.722965600000002,
+          "weight_pct": 19.7783118,
           "cost_price": 376.842714235,
-          "current_price": 371.0686,
-          "return_pct": -1.5322345
+          "current_price": 371.74,
+          "return_pct": -1.3540699999999999
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 10.0612089,
+          "weight_pct": 10.1617423,
           "cost_price": 83.461408027,
-          "current_price": 85.79,
-          "return_pct": 2.7900224000000002
+          "current_price": 86.5611,
+          "return_pct": 3.7139225
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.5673326
+          "weight_pct": 98.5659071
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 78.328104
+          "weight_pct": 78.5555292
         },
         {
           "name": "公用事業",
-          "weight_pct": 20.2392286
+          "weight_pct": 20.0103779
         }
       ]
     },
@@ -85,29 +85,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-06T23:40:46+08:00",
+      "updated_at": "2026-11-07T00:40:46+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": 2.9056373591085447,
+      "weighted_return_pct": 2.138475180729178,
       "position_count": 2,
       "positions": [
         {
           "code": "FSLR",
           "name": "第一太陽能",
           "market": "US",
-          "weight_pct": 70.5017943,
+          "weight_pct": 70.1455565,
           "cost_price": 196.490006177,
-          "current_price": 204.23,
-          "return_pct": 3.9391285
+          "current_price": 201.72,
+          "return_pct": 2.6617097999999997
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 29.498205700000003,
+          "weight_pct": 29.8544435,
           "cost_price": 24.75,
-          "current_price": 24.8578,
-          "return_pct": 0.4355556
+          "current_price": 24.975,
+          "return_pct": 0.9090908999999999
         }
       ],
       "by_market": [
@@ -119,11 +119,11 @@
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 70.5017943
+          "weight_pct": 70.1455565
         },
         {
           "name": "其他",
-          "weight_pct": 29.498205700000003
+          "weight_pct": 29.8544435
         }
       ]
     }
