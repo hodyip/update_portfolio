@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T23:40:47+08:00",
-  "generated_at_utc": "2026-11-09T15:40:47+00:00",
+  "generated_at": "2026-11-10T00:40:49+08:00",
+  "generated_at_utc": "2026-11-09T16:40:49+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,72 +10,63 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-09T23:40:46+08:00",
-      "invested_pct": 99.98116710000001,
-      "cash_pct": 0.018832899999992492,
-      "weighted_return_pct": 0.7269496570212642,
-      "position_count": 5,
+      "updated_at": "2026-11-10T00:40:48+08:00",
+      "invested_pct": 86.01510789999999,
+      "cash_pct": 13.98489210000001,
+      "weighted_return_pct": 1.779556409376629,
+      "position_count": 4,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 26.4533607,
-          "cost_price": 23.630201854,
-          "current_price": 24.3475,
-          "return_pct": 3.0355143
+          "weight_pct": 26.397485,
+          "cost_price": 23.630231409,
+          "current_price": 24.225,
+          "return_pct": 2.5169817
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 24.1116707,
-          "cost_price": 87.632894892,
-          "current_price": 90.52,
-          "return_pct": 3.2945449
+          "weight_pct": 24.2385123,
+          "cost_price": 87.632162315,
+          "current_price": 90.755,
+          "return_pct": 3.5635748
         },
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 20.3228963,
-          "cost_price": 376.843496614,
-          "current_price": 377.296803,
-          "return_pct": 0.1202904
+          "weight_pct": 20.373508100000002,
+          "cost_price": 376.843552862,
+          "current_price": 377.11,
+          "return_pct": 0.070705
         },
         {
-          "code": "FSLR",
-          "name": "第一太陽能",
+          "code": "ISRG",
+          "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 19.1649508,
-          "cost_price": 199.687539512,
-          "current_price": 191.395,
-          "return_pct": -4.152757599999999
-        },
-        {
-          "code": "SQQQ",
-          "name": "三倍做空納指ETF-ProShares",
-          "market": "US",
-          "weight_pct": 9.9282886,
-          "cost_price": 44.06,
-          "current_price": 43.6201,
-          "return_pct": -0.9984112999999999
+          "weight_pct": 15.0056025,
+          "cost_price": 460.445,
+          "current_price": 460.08,
+          "return_pct": -0.0792711
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.98116710000001
+          "weight_pct": 86.0151079
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 80.8162163
+          "weight_pct": 71.0095054
         },
         {
-          "name": "公用事業",
-          "weight_pct": 19.1649508
+          "name": "醫藥生物",
+          "weight_pct": 15.0056025
         }
       ]
     },
@@ -85,50 +76,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-09T23:40:47+08:00",
-      "invested_pct": 99.60674180000001,
-      "cash_pct": 0.3932581999999911,
-      "weighted_return_pct": 3.1350002548019624,
+      "updated_at": "2026-11-10T00:40:49+08:00",
+      "invested_pct": 99.1694704,
+      "cash_pct": 0.8305296000000055,
+      "weighted_return_pct": 3.50598865705665,
       "position_count": 3,
       "positions": [
         {
           "code": "GDXU",
           "name": "三倍做多黃金礦業ETN-MicroSectors",
           "market": "US",
-          "weight_pct": 44.8559999,
-          "cost_price": 92.661732426,
-          "current_price": 100.7,
-          "return_pct": 8.6748514
+          "weight_pct": 45.1550011,
+          "cost_price": 92.660235539,
+          "current_price": 101.135,
+          "return_pct": 9.146063999999999
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 29.0491542,
-          "cost_price": 24.75160393,
-          "current_price": 24.34,
-          "return_pct": -1.6629384
+          "weight_pct": 28.989206499999998,
+          "cost_price": 24.751525674,
+          "current_price": 24.225,
+          "return_pct": -2.1272453000000002
         },
         {
-          "code": "SQQQ",
-          "name": "三倍做空納指ETF-ProShares",
+          "code": "ISRG",
+          "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 25.7015877,
-          "cost_price": 44.11,
-          "current_price": 43.6201,
-          "return_pct": -1.1106325
+          "weight_pct": 25.025262799999997,
+          "cost_price": 460.7495,
+          "current_price": 460.08,
+          "return_pct": -0.14530669999999998
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6067418
+          "weight_pct": 99.16947040000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.6067418
+          "weight_pct": 74.1442076
+        },
+        {
+          "name": "醫藥生物",
+          "weight_pct": 25.025262799999997
         }
       ]
     }
