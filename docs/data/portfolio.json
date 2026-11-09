@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T01:40:49+08:00",
-  "generated_at_utc": "2026-11-09T17:40:49+00:00",
+  "generated_at": "2026-11-10T02:40:49+08:00",
+  "generated_at_utc": "2026-11-09T18:40:49+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,17 +10,17 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-10T01:40:49+08:00",
-      "invested_pct": 86.0002754,
-      "cash_pct": 13.999724599999993,
-      "weighted_return_pct": 1.652335774857816,
+      "updated_at": "2026-11-10T02:40:48+08:00",
+      "invested_pct": 86.0372546,
+      "cash_pct": 13.962745400000003,
+      "weighted_return_pct": 1.9718548299063403,
       "position_count": 4,
       "positions": [
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 26.469115900000002,
+          "weight_pct": 26.3991996,
           "cost_price": 23.630231409,
           "current_price": 24.265,
           "return_pct": 2.6862562999999997
@@ -29,44 +29,44 @@
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 24.1479186,
+          "weight_pct": 24.2987896,
           "cost_price": 87.632162315,
-          "current_price": 90.32,
-          "return_pct": 3.0671817
+          "current_price": 91.125,
+          "return_pct": 3.9857942
         },
         {
           "code": "GLD",
           "name": "黃金ETF-SPDR",
           "market": "US",
-          "weight_pct": 20.3215641,
+          "weight_pct": 20.2958809,
           "cost_price": 376.843552862,
-          "current_price": 375.75,
-          "return_pct": -0.2901875
+          "current_price": 376.269,
+          "return_pct": -0.1524646
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 15.0616768,
+          "weight_pct": 15.043384500000002,
           "cost_price": 460.445,
-          "current_price": 461.31,
-          "return_pct": 0.1878617
+          "current_price": 461.97,
+          "return_pct": 0.3312013
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 86.0002754
+          "weight_pct": 86.0372546
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 70.9385986
+          "weight_pct": 70.9938701
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 15.0616768
+          "weight_pct": 15.043384500000002
         }
       ]
     },
@@ -76,32 +76,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-10T01:40:49+08:00",
-      "invested_pct": 50.0187037,
-      "cash_pct": 49.9812963,
-      "weighted_return_pct": 0.0983523,
+      "updated_at": "2026-11-10T02:40:49+08:00",
+      "invested_pct": 50.0544459,
+      "cash_pct": 49.9455541,
+      "weighted_return_pct": 0.2415638,
       "position_count": 1,
       "positions": [
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 50.0187037,
+          "weight_pct": 50.0544459,
           "cost_price": 460.856736821,
-          "current_price": 461.31,
-          "return_pct": 0.0983523
+          "current_price": 461.97,
+          "return_pct": 0.2415638
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.0187037
+          "weight_pct": 50.0544459
         }
       ],
       "by_industry": [
         {
           "name": "醫藥生物",
-          "weight_pct": 50.0187037
+          "weight_pct": 50.0544459
         }
       ]
     }
