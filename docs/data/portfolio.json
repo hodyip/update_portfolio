@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T01:40:54+08:00",
-  "generated_at_utc": "2026-11-10T17:40:54+00:00",
+  "generated_at": "2026-11-11T02:40:48+08:00",
+  "generated_at_utc": "2026-11-10T18:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T01:40:53+08:00",
-      "invested_pct": 50.0089435,
-      "cash_pct": 49.9910565,
-      "weighted_return_pct": -0.5751204469796909,
+      "updated_at": "2026-11-11T02:40:47+08:00",
+      "invested_pct": 49.9322803,
+      "cash_pct": 50.0677197,
+      "weighted_return_pct": -0.8789512874130894,
       "position_count": 4,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 15.1104612,
+          "weight_pct": 15.0976991,
           "cost_price": 43.880219158,
-          "current_price": 44.22,
-          "return_pct": 0.7743372000000001
+          "current_price": 44.115,
+          "return_pct": 0.5350494
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.8769915,
+          "weight_pct": 14.8523087,
           "cost_price": 460.430852934,
-          "current_price": 447.02,
-          "return_pct": -2.9126747
+          "current_price": 445.595,
+          "return_pct": -3.2221674
         },
         {
           "code": "EVRG",
           "name": "西星能源",
           "market": "US",
-          "weight_pct": 10.0141153,
+          "weight_pct": 10.0042945,
           "cost_price": 88.339931834,
-          "current_price": 88.5122,
-          "return_pct": 0.195006
+          "current_price": 88.29,
+          "return_pct": -0.0565224
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 10.0073755,
+          "weight_pct": 9.977978,
           "cost_price": 87.28,
-          "current_price": 87.36,
-          "return_pct": 0.091659
+          "current_price": 86.97,
+          "return_pct": -0.35517869999999996
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.0089435
+          "weight_pct": 49.932280299999995
         }
       ],
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 20.0214908
+          "weight_pct": 19.9822725
         },
         {
           "name": "其他",
-          "weight_pct": 15.1104612
+          "weight_pct": 15.0976991
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 14.8769915
+          "weight_pct": 14.8523087
         }
       ]
     },
@@ -80,29 +80,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T01:40:54+08:00",
+      "updated_at": "2026-11-11T02:40:48+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": 0.9921218572411008,
+      "weighted_return_pct": 0.12726706388768258,
       "position_count": 2,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 59.584447600000004,
+          "weight_pct": 59.9563273,
           "cost_price": 43.926042517,
-          "current_price": 44.22,
-          "return_pct": 0.6692100000000001
+          "current_price": 44.115,
+          "return_pct": 0.4301719
         },
         {
           "code": "AMDD",
           "name": "1倍做空AMD ETF-Direxion",
           "market": "US",
-          "weight_pct": 40.415552399999996,
+          "weight_pct": 40.0436727,
           "cost_price": 24.52,
-          "current_price": 24.88,
-          "return_pct": 1.4681892
+          "current_price": 24.44,
+          "return_pct": -0.3262643
         }
       ],
       "by_market": [
