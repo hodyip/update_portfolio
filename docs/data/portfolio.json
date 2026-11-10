@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T00:40:52+08:00",
-  "generated_at_utc": "2026-11-10T16:40:52+00:00",
+  "generated_at": "2026-11-11T01:40:54+08:00",
+  "generated_at_utc": "2026-11-10T17:40:54+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,45 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T00:40:51+08:00",
-      "invested_pct": 29.9394765,
-      "cash_pct": 70.0605235,
-      "weighted_return_pct": -1.2921724720622394,
-      "position_count": 2,
+      "updated_at": "2026-11-11T01:40:53+08:00",
+      "invested_pct": 50.0089435,
+      "cash_pct": 49.9910565,
+      "weighted_return_pct": -0.5751204469796909,
+      "position_count": 4,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 15.1183771,
-          "cost_price": 43.880022563,
-          "current_price": 44.21,
-          "return_pct": 0.7519992
+          "weight_pct": 15.1104612,
+          "cost_price": 43.880219158,
+          "current_price": 44.22,
+          "return_pct": 0.7743372000000001
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.821099400000001,
-          "cost_price": 460.430323416,
-          "current_price": 444.88,
-          "return_pct": -3.3773456
+          "weight_pct": 14.8769915,
+          "cost_price": 460.430852934,
+          "current_price": 447.02,
+          "return_pct": -2.9126747
+        },
+        {
+          "code": "EVRG",
+          "name": "西星能源",
+          "market": "US",
+          "weight_pct": 10.0141153,
+          "cost_price": 88.339931834,
+          "current_price": 88.5122,
+          "return_pct": 0.195006
+        },
+        {
+          "code": "BKH",
+          "name": "黑山",
+          "market": "US",
+          "weight_pct": 10.0073755,
+          "cost_price": 87.28,
+          "current_price": 87.36,
+          "return_pct": 0.091659
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 29.9394765
+          "weight_pct": 50.0089435
         }
       ],
       "by_industry": [
         {
+          "name": "公用事業",
+          "weight_pct": 20.0214908
+        },
+        {
           "name": "其他",
-          "weight_pct": 15.1183771
+          "weight_pct": 15.1104612
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 14.821099400000001
+          "weight_pct": 14.8769915
         }
       ]
     },
@@ -58,32 +80,41 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T00:40:52+08:00",
-      "invested_pct": 50.306819700000005,
-      "cash_pct": 49.693180299999995,
-      "weighted_return_pct": 0.8278788,
-      "position_count": 1,
+      "updated_at": "2026-11-11T01:40:54+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 0.9921218572411008,
+      "position_count": 2,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 50.306819700000005,
-          "cost_price": 43.847,
-          "current_price": 44.21,
-          "return_pct": 0.8278788
+          "weight_pct": 59.584447600000004,
+          "cost_price": 43.926042517,
+          "current_price": 44.22,
+          "return_pct": 0.6692100000000001
+        },
+        {
+          "code": "AMDD",
+          "name": "1倍做空AMD ETF-Direxion",
+          "market": "US",
+          "weight_pct": 40.415552399999996,
+          "cost_price": 24.52,
+          "current_price": 24.88,
+          "return_pct": 1.4681892
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.306819700000005
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.306819700000005
+          "weight_pct": 100.0
         }
       ]
     }
