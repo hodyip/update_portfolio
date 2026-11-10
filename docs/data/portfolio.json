@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T03:40:53+08:00",
-  "generated_at_utc": "2026-11-10T19:40:53+00:00",
+  "generated_at": "2026-11-11T04:40:53+08:00",
+  "generated_at_utc": "2026-11-10T20:40:53+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T03:40:52+08:00",
-      "invested_pct": 49.9371206,
-      "cash_pct": 50.0628794,
-      "weighted_return_pct": -0.8724216042051508,
+      "updated_at": "2026-11-11T04:40:52+08:00",
+      "invested_pct": 49.9542789,
+      "cash_pct": 50.0457211,
+      "weighted_return_pct": -0.8053780688486928,
       "position_count": 4,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 15.019244100000002,
+          "weight_pct": 15.0106756,
           "cost_price": 43.880219158,
-          "current_price": 43.89,
-          "return_pct": 0.0222899
+          "current_price": 43.88,
+          "return_pct": -0.0004994
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.957356399999998,
+          "weight_pct": 14.97222,
           "cost_price": 460.430852934,
-          "current_price": 448.79,
-          "return_pct": -2.5282521
-        },
-        {
-          "code": "EVRG",
-          "name": "西星能源",
-          "market": "US",
-          "weight_pct": 9.982933200000002,
-          "cost_price": 88.339931834,
-          "current_price": 88.11,
-          "return_pct": -0.2602807
+          "current_price": 449.39,
+          "return_pct": -2.3979394000000003
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 9.9775869,
+          "weight_pct": 9.9862085,
           "cost_price": 87.28,
-          "current_price": 86.975,
-          "return_pct": -0.34945000000000004
+          "current_price": 87.08,
+          "return_pct": -0.2291476
+        },
+        {
+          "code": "EVRG",
+          "name": "西星能源",
+          "market": "US",
+          "weight_pct": 9.985174800000001,
+          "cost_price": 88.339931834,
+          "current_price": 88.16,
+          "return_pct": -0.20368119999999998
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 49.9371206
+          "weight_pct": 49.9542789
         }
       ],
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 19.9605201
+          "weight_pct": 19.9713833
         },
         {
           "name": "其他",
-          "weight_pct": 15.019244100000002
+          "weight_pct": 15.0106756
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 14.957356399999998
+          "weight_pct": 14.97222
         }
       ]
     },
@@ -80,29 +80,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T03:40:53+08:00",
+      "updated_at": "2026-11-11T04:40:53+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": -0.20205523457400318,
+      "weighted_return_pct": -0.3732682687029144,
       "position_count": 2,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 59.846679599999995,
+          "weight_pct": 59.9363924,
           "cost_price": 43.926042517,
-          "current_price": 43.89,
-          "return_pct": -0.0820527
+          "current_price": 43.88,
+          "return_pct": -0.1048183
         },
         {
           "code": "AMDD",
           "name": "1倍做空AMD ETF-Direxion",
           "market": "US",
-          "weight_pct": 40.1533204,
+          "weight_pct": 40.0636076,
           "cost_price": 24.52,
-          "current_price": 24.4266,
-          "return_pct": -0.3809135
+          "current_price": 24.33,
+          "return_pct": -0.7748777
         }
       ],
       "by_market": [
