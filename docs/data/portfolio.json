@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T04:40:53+08:00",
-  "generated_at_utc": "2026-11-10T20:40:53+00:00",
+  "generated_at": "2026-11-11T21:40:46+08:00",
+  "generated_at_utc": "2026-11-11T13:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,67 +10,67 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T04:40:52+08:00",
-      "invested_pct": 49.9542789,
-      "cash_pct": 50.0457211,
-      "weighted_return_pct": -0.8053780688486928,
+      "updated_at": "2026-11-11T21:40:45+08:00",
+      "invested_pct": 49.9749409,
+      "cash_pct": 50.0250591,
+      "weighted_return_pct": -0.7228362218080367,
       "position_count": 4,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 15.0106756,
+          "weight_pct": 14.997448299999999,
           "cost_price": 43.880219158,
-          "current_price": 43.88,
-          "return_pct": -0.0004994
+          "current_price": 43.86,
+          "return_pct": -0.046078100000000004
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.97222,
+          "weight_pct": 14.9874945,
           "cost_price": 460.430852934,
-          "current_price": 449.39,
-          "return_pct": -2.3979394000000003
-        },
-        {
-          "code": "BKH",
-          "name": "黑山",
-          "market": "US",
-          "weight_pct": 9.9862085,
-          "cost_price": 87.28,
-          "current_price": 87.08,
-          "return_pct": -0.2291476
+          "current_price": 450.04,
+          "return_pct": -2.2567673
         },
         {
           "code": "EVRG",
           "name": "西星能源",
           "market": "US",
-          "weight_pct": 9.985174800000001,
+          "weight_pct": 10.0126249,
           "cost_price": 88.339931834,
-          "current_price": 88.16,
-          "return_pct": -0.20368119999999998
+          "current_price": 88.44,
+          "return_pct": 0.1132763
+        },
+        {
+          "code": "BKH",
+          "name": "黑山",
+          "market": "US",
+          "weight_pct": 9.9773732,
+          "cost_price": 87.28,
+          "current_price": 87.04,
+          "return_pct": -0.2749771
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 49.9542789
+          "weight_pct": 49.9749409
         }
       ],
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 19.9713833
+          "weight_pct": 19.9899981
         },
         {
           "name": "其他",
-          "weight_pct": 15.0106756
+          "weight_pct": 14.997448299999999
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 14.97222
+          "weight_pct": 14.9874945
         }
       ]
     },
@@ -80,41 +80,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T04:40:53+08:00",
-      "invested_pct": 100.0,
-      "cash_pct": 0.0,
-      "weighted_return_pct": -0.3732682687029144,
-      "position_count": 2,
+      "updated_at": "2026-11-11T21:40:46+08:00",
+      "invested_pct": 60.0,
+      "cash_pct": 40.0,
+      "weighted_return_pct": -0.1503493,
+      "position_count": 1,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 59.9363924,
+          "weight_pct": 60.0,
           "cost_price": 43.926042517,
-          "current_price": 43.88,
-          "return_pct": -0.1048183
-        },
-        {
-          "code": "AMDD",
-          "name": "1倍做空AMD ETF-Direxion",
-          "market": "US",
-          "weight_pct": 40.0636076,
-          "cost_price": 24.52,
-          "current_price": 24.33,
-          "return_pct": -0.7748777
+          "current_price": 43.86,
+          "return_pct": -0.15034930000000002
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 100.0
+          "weight_pct": 60.0
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 100.0
+          "weight_pct": 60.0
         }
       ]
     }
