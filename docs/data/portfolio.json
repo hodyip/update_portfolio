@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T23:40:46+08:00",
-  "generated_at_utc": "2026-11-11T15:40:46+00:00",
+  "generated_at": "2026-11-12T00:40:45+08:00",
+  "generated_at_utc": "2026-11-11T16:40:45+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,98 +10,98 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T23:40:45+08:00",
-      "invested_pct": 79.9278973,
-      "cash_pct": 20.072102700000002,
-      "weighted_return_pct": -0.5339903063193636,
+      "updated_at": "2026-11-12T00:40:44+08:00",
+      "invested_pct": 79.88999179999999,
+      "cash_pct": 20.11000820000001,
+      "weighted_return_pct": -0.7588177614782801,
       "position_count": 7,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 15.225710300000001,
-          "cost_price": 43.880372553,
-          "current_price": 44.475,
-          "return_pct": 1.3551103
+          "weight_pct": 15.119405599999999,
+          "cost_price": 43.880359895,
+          "current_price": 44.08,
+          "return_pct": 0.4549646
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.949981600000001,
-          "cost_price": 460.425451603,
-          "current_price": 448.375,
-          "return_pct": -2.6172427000000003
+          "weight_pct": 14.8693944,
+          "cost_price": 460.427401046,
+          "current_price": 445.15,
+          "return_pct": -3.3180912
+        },
+        {
+          "code": "DOW",
+          "name": "陶氏化學",
+          "market": "US",
+          "weight_pct": 10.0516482,
+          "cost_price": 32.62,
+          "current_price": 32.765,
+          "return_pct": 0.4445126
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.0200342,
-          "cost_price": 69.32,
-          "current_price": 69.49,
-          "return_pct": 0.2452395
-        },
-        {
-          "code": "YANG",
-          "name": "三倍做空富時中國ETF-Direxion",
-          "market": "US",
-          "weight_pct": 10.0015837,
-          "cost_price": 31.860004899,
-          "current_price": 31.87,
-          "return_pct": 0.0313719
+          "weight_pct": 10.013955900000001,
+          "cost_price": 69.319990272,
+          "current_price": 69.335,
+          "return_pct": 0.0216528
         },
         {
           "code": "EVRG",
           "name": "西星能源",
           "market": "US",
-          "weight_pct": 9.9676052,
-          "cost_price": 88.340129416,
-          "current_price": 88.04,
-          "return_pct": -0.339743
-        },
-        {
-          "code": "DD",
-          "name": "杜邦",
-          "market": "US",
-          "weight_pct": 9.8886886,
-          "cost_price": 159.261455681,
-          "current_price": 157.67,
-          "return_pct": -0.9992723
+          "weight_pct": 9.99635,
+          "cost_price": 88.340132811,
+          "current_price": 88.125,
+          "return_pct": -0.2435278
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 9.8742937,
-          "cost_price": 87.279956343,
-          "current_price": 86.07,
-          "return_pct": -1.3862935
+          "weight_pct": 9.9328667,
+          "cost_price": 87.280236722,
+          "current_price": 86.435,
+          "return_pct": -0.9684171
+        },
+        {
+          "code": "DD",
+          "name": "杜邦",
+          "market": "US",
+          "weight_pct": 9.906371,
+          "cost_price": 159.26031937,
+          "current_price": 157.525,
+          "return_pct": -1.0896119
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 79.9278973
+          "weight_pct": 79.8899918
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 25.227294
-        },
-        {
           "name": "醫藥生物",
-          "weight_pct": 24.9700158
-        },
-        {
-          "name": "公用事業",
-          "weight_pct": 19.8418989
+          "weight_pct": 24.8833503
         },
         {
           "name": "化工",
-          "weight_pct": 9.8886886
+          "weight_pct": 19.9580192
+        },
+        {
+          "name": "公用事業",
+          "weight_pct": 19.929216699999998
+        },
+        {
+          "name": "其他",
+          "weight_pct": 15.119405599999999
         }
       ]
     },
@@ -111,41 +111,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-11T23:40:46+08:00",
-      "invested_pct": 100.0,
-      "cash_pct": 0.0,
-      "weighted_return_pct": 0.17755634873220763,
-      "position_count": 2,
+      "updated_at": "2026-11-12T00:40:45+08:00",
+      "invested_pct": 60.48423040000001,
+      "cash_pct": 39.51576959999999,
+      "weighted_return_pct": 0.3654456,
+      "position_count": 1,
       "positions": [
         {
           "code": "TMV",
           "name": "3倍做空20年期以上美國國債ETF-Direxion",
           "market": "US",
-          "weight_pct": 60.5022261,
-          "cost_price": 43.91939427,
-          "current_price": 44.475,
-          "return_pct": 1.2650578000000001
-        },
-        {
-          "code": "SMST",
-          "name": "2倍做空MSTR ETF-Defiance",
-          "market": "US",
-          "weight_pct": 39.4977739,
-          "cost_price": 17.47,
-          "current_price": 17.21,
-          "return_pct": -1.4882655999999999
+          "weight_pct": 60.48423040000001,
+          "cost_price": 43.919498144,
+          "current_price": 44.08,
+          "return_pct": 0.3654456
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 100.0
+          "weight_pct": 60.48423040000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 100.0
+          "weight_pct": 60.48423040000001
         }
       ]
     }
