@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T01:40:51+08:00",
-  "generated_at_utc": "2026-11-11T17:40:51+00:00",
+  "generated_at": "2026-11-12T02:40:47+08:00",
+  "generated_at_utc": "2026-11-11T18:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,98 +10,98 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T01:40:46+08:00",
-      "invested_pct": 98.6225716,
-      "cash_pct": 1.3774283999999994,
-      "weighted_return_pct": -0.5944442810609492,
+      "updated_at": "2026-11-12T02:40:45+08:00",
+      "invested_pct": 98.6237441,
+      "cash_pct": 1.3762559000000039,
+      "weighted_return_pct": -0.5099003826255423,
       "position_count": 7,
       "positions": [
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 22.008644999999998,
-          "cost_price": 271.993036149,
-          "current_price": 273.47,
-          "return_pct": 0.5430153
-        },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 22.0032442,
+          "weight_pct": 22.0030918,
           "cost_price": 312.578348793,
-          "current_price": 313.57,
-          "return_pct": 0.3172488
+          "current_price": 313.835,
+          "return_pct": 0.4020276
+        },
+        {
+          "code": "NXPI",
+          "name": "恩智浦",
+          "market": "US",
+          "weight_pct": 21.925982299999998,
+          "cost_price": 271.993036149,
+          "current_price": 272.675,
+          "return_pct": 0.25072839999999996
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.8674899,
+          "weight_pct": 14.8605045,
           "cost_price": 460.43172725,
-          "current_price": 445.27,
-          "return_pct": -3.2929371
+          "current_price": 445.44,
+          "return_pct": -3.2560152
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.0176922,
+          "weight_pct": 10.0495003,
           "cost_price": 69.319938324,
-          "current_price": 69.48,
-          "return_pct": 0.2309028
-        },
-        {
-          "code": "DOW",
-          "name": "陶氏化學",
-          "market": "US",
-          "weight_pct": 9.9456613,
-          "cost_price": 32.620019951,
-          "current_price": 32.445,
-          "return_pct": -0.5365415
+          "current_price": 69.76,
+          "return_pct": 0.6348269999999999
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 9.893561100000001,
+          "weight_pct": 9.9661125,
           "cost_price": 87.27987956,
-          "current_price": 86.065,
-          "return_pct": -1.3919354
+          "current_price": 86.77,
+          "return_pct": -0.5841891
         },
         {
           "code": "DD",
           "name": "杜邦",
           "market": "US",
-          "weight_pct": 9.8862779,
+          "weight_pct": 9.921174500000001,
           "cost_price": 159.26172801,
-          "current_price": 157.36,
-          "return_pct": -1.1940898
+          "current_price": 158.05,
+          "return_pct": -0.7608407
+        },
+        {
+          "code": "DOW",
+          "name": "陶氏化學",
+          "market": "US",
+          "weight_pct": 9.8973782,
+          "cost_price": 32.620019951,
+          "current_price": 32.315,
+          "return_pct": -0.9350698
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.6225716
+          "weight_pct": 98.6237441
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 44.0118892
+          "weight_pct": 43.9290741
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 24.8851821
+          "weight_pct": 24.9100048
         },
         {
           "name": "化工",
-          "weight_pct": 19.8319392
+          "weight_pct": 19.8185527
         },
         {
           "name": "公用事業",
-          "weight_pct": 9.893561100000001
+          "weight_pct": 9.9661125
         }
       ]
     },
@@ -111,29 +111,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T01:40:51+08:00",
+      "updated_at": "2026-11-12T02:40:47+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": 0.538119998008965,
+      "weighted_return_pct": 0.4595973368,
       "position_count": 2,
       "positions": [
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 50.04461489999999,
-          "cost_price": 271.605,
-          "current_price": 273.31,
-          "return_pct": 0.6277499
-        },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 49.9553851,
+          "weight_pct": 50.032650000000004,
           "cost_price": 312.27,
-          "current_price": 313.67,
-          "return_pct": 0.44833
+          "current_price": 313.9099,
+          "return_pct": 0.5251545
+        },
+        {
+          "code": "NXPI",
+          "name": "恩智浦",
+          "market": "US",
+          "weight_pct": 49.967349999999996,
+          "cost_price": 271.605,
+          "current_price": 272.675,
+          "return_pct": 0.3939545
         }
       ],
       "by_market": [
