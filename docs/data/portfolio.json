@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T00:40:45+08:00",
-  "generated_at_utc": "2026-11-11T16:40:45+00:00",
+  "generated_at": "2026-11-12T01:40:51+08:00",
+  "generated_at_utc": "2026-11-11T17:40:51+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,98 +10,98 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T00:40:44+08:00",
-      "invested_pct": 79.88999179999999,
-      "cash_pct": 20.11000820000001,
-      "weighted_return_pct": -0.7588177614782801,
+      "updated_at": "2026-11-12T01:40:46+08:00",
+      "invested_pct": 98.6225716,
+      "cash_pct": 1.3774283999999994,
+      "weighted_return_pct": -0.5944442810609492,
       "position_count": 7,
       "positions": [
         {
-          "code": "TMV",
-          "name": "3倍做空20年期以上美國國債ETF-Direxion",
+          "code": "NXPI",
+          "name": "恩智浦",
           "market": "US",
-          "weight_pct": 15.119405599999999,
-          "cost_price": 43.880359895,
-          "current_price": 44.08,
-          "return_pct": 0.4549646
+          "weight_pct": 22.008644999999998,
+          "cost_price": 271.993036149,
+          "current_price": 273.47,
+          "return_pct": 0.5430153
+        },
+        {
+          "code": "TXN",
+          "name": "德州儀器",
+          "market": "US",
+          "weight_pct": 22.0032442,
+          "cost_price": 312.578348793,
+          "current_price": 313.57,
+          "return_pct": 0.3172488
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.8693944,
-          "cost_price": 460.427401046,
-          "current_price": 445.15,
-          "return_pct": -3.3180912
-        },
-        {
-          "code": "DOW",
-          "name": "陶氏化學",
-          "market": "US",
-          "weight_pct": 10.0516482,
-          "cost_price": 32.62,
-          "current_price": 32.765,
-          "return_pct": 0.4445126
+          "weight_pct": 14.8674899,
+          "cost_price": 460.43172725,
+          "current_price": 445.27,
+          "return_pct": -3.2929371
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.013955900000001,
-          "cost_price": 69.319990272,
-          "current_price": 69.335,
-          "return_pct": 0.0216528
+          "weight_pct": 10.0176922,
+          "cost_price": 69.319938324,
+          "current_price": 69.48,
+          "return_pct": 0.2309028
         },
         {
-          "code": "EVRG",
-          "name": "西星能源",
+          "code": "DOW",
+          "name": "陶氏化學",
           "market": "US",
-          "weight_pct": 9.99635,
-          "cost_price": 88.340132811,
-          "current_price": 88.125,
-          "return_pct": -0.2435278
+          "weight_pct": 9.9456613,
+          "cost_price": 32.620019951,
+          "current_price": 32.445,
+          "return_pct": -0.5365415
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 9.9328667,
-          "cost_price": 87.280236722,
-          "current_price": 86.435,
-          "return_pct": -0.9684171
+          "weight_pct": 9.893561100000001,
+          "cost_price": 87.27987956,
+          "current_price": 86.065,
+          "return_pct": -1.3919354
         },
         {
           "code": "DD",
           "name": "杜邦",
           "market": "US",
-          "weight_pct": 9.906371,
-          "cost_price": 159.26031937,
-          "current_price": 157.525,
-          "return_pct": -1.0896119
+          "weight_pct": 9.8862779,
+          "cost_price": 159.26172801,
+          "current_price": 157.36,
+          "return_pct": -1.1940898
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 79.8899918
+          "weight_pct": 98.6225716
         }
       ],
       "by_industry": [
         {
+          "name": "電子",
+          "weight_pct": 44.0118892
+        },
+        {
           "name": "醫藥生物",
-          "weight_pct": 24.8833503
+          "weight_pct": 24.8851821
         },
         {
           "name": "化工",
-          "weight_pct": 19.9580192
+          "weight_pct": 19.8319392
         },
         {
           "name": "公用事業",
-          "weight_pct": 19.929216699999998
-        },
-        {
-          "name": "其他",
-          "weight_pct": 15.119405599999999
+          "weight_pct": 9.893561100000001
         }
       ]
     },
@@ -111,32 +111,41 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T00:40:45+08:00",
-      "invested_pct": 60.48423040000001,
-      "cash_pct": 39.51576959999999,
-      "weighted_return_pct": 0.3654456,
-      "position_count": 1,
+      "updated_at": "2026-11-12T01:40:51+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 0.538119998008965,
+      "position_count": 2,
       "positions": [
         {
-          "code": "TMV",
-          "name": "3倍做空20年期以上美國國債ETF-Direxion",
+          "code": "NXPI",
+          "name": "恩智浦",
           "market": "US",
-          "weight_pct": 60.48423040000001,
-          "cost_price": 43.919498144,
-          "current_price": 44.08,
-          "return_pct": 0.3654456
+          "weight_pct": 50.04461489999999,
+          "cost_price": 271.605,
+          "current_price": 273.31,
+          "return_pct": 0.6277499
+        },
+        {
+          "code": "TXN",
+          "name": "德州儀器",
+          "market": "US",
+          "weight_pct": 49.9553851,
+          "cost_price": 312.27,
+          "current_price": 313.67,
+          "return_pct": 0.44833
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 60.48423040000001
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
-          "name": "其他",
-          "weight_pct": 60.48423040000001
+          "name": "電子",
+          "weight_pct": 100.0
         }
       ]
     }
