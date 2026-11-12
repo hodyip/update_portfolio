@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T23:40:45+08:00",
-  "generated_at_utc": "2026-11-12T15:40:45+00:00",
+  "generated_at": "2026-11-13T00:40:47+08:00",
+  "generated_at_utc": "2026-11-12T16:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,98 +10,111 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T23:40:44+08:00",
-      "invested_pct": 84.2098284,
-      "cash_pct": 15.790171599999994,
-      "weighted_return_pct": -0.7948944105629557,
-      "position_count": 7,
+      "updated_at": "2026-11-13T00:40:46+08:00",
+      "invested_pct": 84.3842512,
+      "cash_pct": 15.615748800000006,
+      "weighted_return_pct": -0.11359329027737772,
+      "position_count": 8,
       "positions": [
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 15.1675324,
-          "cost_price": 314.259877924,
-          "current_price": 311.42,
-          "return_pct": -0.9036717999999999
-        },
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 14.8416779,
-          "cost_price": 272.992150001,
-          "current_price": 265.76,
-          "return_pct": -2.6492154
+          "weight_pct": 15.257772,
+          "cost_price": 314.260847457,
+          "current_price": 314.135,
+          "return_pct": -0.0400455
         },
         {
           "code": "AEP",
           "name": "美國電力",
           "market": "US",
-          "weight_pct": 14.0611441,
-          "cost_price": 129.9199975,
-          "current_price": 129.78,
-          "return_pct": -0.1077567
+          "weight_pct": 14.037891799999999,
+          "cost_price": 129.92001139,
+          "current_price": 129.87,
+          "return_pct": -0.038494
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 10.1694222,
-          "cost_price": 87.279846173,
-          "current_price": 87.94,
-          "return_pct": 0.7563646
+          "weight_pct": 10.169214499999999,
+          "cost_price": 87.2810739,
+          "current_price": 87.995,
+          "return_pct": 0.8179621
         },
         {
           "code": "DOW",
           "name": "陶氏化學",
           "market": "US",
-          "weight_pct": 10.0990664,
-          "cost_price": 32.620049617,
-          "current_price": 32.73,
-          "return_pct": 0.3370638
+          "weight_pct": 10.1107794,
+          "cost_price": 32.620020163,
+          "current_price": 32.85,
+          "return_pct": 0.7050267
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.0745533,
-          "cost_price": 69.319855823,
-          "current_price": 69.505,
-          "return_pct": 0.26708679999999996
+          "weight_pct": 10.0111534,
+          "cost_price": 69.319856871,
+          "current_price": 69.26,
+          "return_pct": -0.0863488
+        },
+        {
+          "code": "DGX",
+          "name": "奎斯特診療",
+          "market": "US",
+          "weight_pct": 9.9623509,
+          "cost_price": 261.224941524,
+          "current_price": 260.455,
+          "return_pct": -0.29474269999999997
         },
         {
           "code": "DD",
           "name": "杜邦",
           "market": "US",
-          "weight_pct": 9.796432099999999,
-          "cost_price": 159.261775367,
-          "current_price": 155.005,
-          "return_pct": -2.6728167000000003
+          "weight_pct": 9.8046655,
+          "cost_price": 159.261998067,
+          "current_price": 155.5,
+          "return_pct": -2.3621442
+        },
+        {
+          "code": "SOXS",
+          "name": "三倍做空半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 5.0304237,
+          "cost_price": 44.91,
+          "current_price": 45.185,
+          "return_pct": 0.6123358
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 84.20982839999999
+          "weight_pct": 84.38425120000001
         }
       ],
       "by_industry": [
         {
-          "name": "電子",
-          "weight_pct": 30.0092103
-        },
-        {
           "name": "公用事業",
-          "weight_pct": 24.2305663
-        },
-        {
-          "name": "化工",
-          "weight_pct": 19.8954985
+          "weight_pct": 24.2071063
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 10.0745533
+          "weight_pct": 19.973504300000002
+        },
+        {
+          "name": "化工",
+          "weight_pct": 19.9154449
+        },
+        {
+          "name": "電子",
+          "weight_pct": 15.257772
+        },
+        {
+          "name": "其他",
+          "weight_pct": 5.0304237
         }
       ]
     },
@@ -111,54 +124,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T23:40:45+08:00",
-      "invested_pct": 99.04775360000001,
-      "cash_pct": 0.9522463999999928,
-      "weighted_return_pct": -1.208557483594869,
+      "updated_at": "2026-11-13T00:40:47+08:00",
+      "invested_pct": 73.2629987,
+      "cash_pct": 26.737001300000003,
+      "weighted_return_pct": -1.3583929253167037,
       "position_count": 3,
       "positions": [
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 36.1184369,
-          "cost_price": 311.285189004,
-          "current_price": 311.42,
-          "return_pct": 0.0433079
-        },
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 35.418732600000006,
-          "cost_price": 270.869112336,
-          "current_price": 265.76,
-          "return_pct": -1.8861922999999998
+          "weight_pct": 36.5327004,
+          "cost_price": 311.284911424,
+          "current_price": 314.135,
+          "return_pct": 0.9155884
         },
         {
           "code": "SMST",
           "name": "2倍做空MSTR ETF-Defiance",
           "market": "US",
-          "weight_pct": 27.510584100000003,
-          "cost_price": 19.7,
-          "current_price": 19.31,
-          "return_pct": -1.9796953999999998
+          "weight_pct": 26.6793844,
+          "cost_price": 19.699749865,
+          "current_price": 18.67,
+          "return_pct": -5.227223
+        },
+        {
+          "code": "SOXS",
+          "name": "三倍做空半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 10.0509139,
+          "cost_price": 44.91,
+          "current_price": 45.2,
+          "return_pct": 0.6457359
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.0477536
+          "weight_pct": 73.2629987
         }
       ],
       "by_industry": [
         {
-          "name": "電子",
-          "weight_pct": 71.5371695
+          "name": "其他",
+          "weight_pct": 36.7302983
         },
         {
-          "name": "其他",
-          "weight_pct": 27.510584100000003
+          "name": "電子",
+          "weight_pct": 36.5327004
         }
       ]
     }
