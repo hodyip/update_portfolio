@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T03:40:46+08:00",
-  "generated_at_utc": "2026-11-12T19:40:46+00:00",
+  "generated_at": "2026-11-13T04:40:47+08:00",
+  "generated_at_utc": "2026-11-12T20:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,98 +10,98 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-13T03:40:46+08:00",
-      "invested_pct": 79.31023560000001,
-      "cash_pct": 20.689764399999987,
-      "weighted_return_pct": -0.21645908916071016,
+      "updated_at": "2026-11-13T04:40:47+08:00",
+      "invested_pct": 79.2834411,
+      "cash_pct": 20.716558899999995,
+      "weighted_return_pct": -0.3827891359169914,
       "position_count": 7,
       "positions": [
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 15.1179854,
+          "weight_pct": 15.1775086,
           "cost_price": 314.260586856,
-          "current_price": 311.13,
-          "return_pct": -0.9961754999999999
+          "current_price": 311.951,
+          "return_pct": -0.7349273
         },
         {
           "code": "AEP",
           "name": "美國電力",
           "market": "US",
-          "weight_pct": 14.0542767,
+          "weight_pct": 14.0226868,
           "cost_price": 129.920012293,
-          "current_price": 130.01,
-          "return_pct": 0.0692639
+          "current_price": 129.55,
+          "return_pct": -0.2848001
         },
         {
           "code": "DOW",
           "name": "陶氏化學",
           "market": "US",
-          "weight_pct": 10.2548032,
+          "weight_pct": 10.2110731,
           "cost_price": 32.619944101,
-          "current_price": 33.32,
-          "return_pct": 2.1460977999999997
+          "current_price": 33.135,
+          "return_pct": 1.5789601
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 10.1516299,
+          "weight_pct": 10.148576199999999,
           "cost_price": 87.281021982,
-          "current_price": 87.84,
-          "return_pct": 0.6404348
+          "current_price": 87.7,
+          "return_pct": 0.4800334
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.0084336,
+          "weight_pct": 10.0170531,
           "cost_price": 69.319847134,
-          "current_price": 69.24,
-          "return_pct": -0.1151865
+          "current_price": 69.21,
+          "return_pct": -0.1584642
         },
         {
           "code": "DGX",
           "name": "奎斯特診療",
           "market": "US",
-          "weight_pct": 9.9617084,
+          "weight_pct": 9.9407115,
           "cost_price": 261.224945815,
-          "current_price": 260.415,
-          "return_pct": -0.3100568
+          "current_price": 259.53,
+          "return_pct": -0.6488453
         },
         {
           "code": "DD",
           "name": "杜邦",
           "market": "US",
-          "weight_pct": 9.761398400000001,
+          "weight_pct": 9.765831799999999,
           "cost_price": 159.262033783,
-          "current_price": 154.8,
-          "return_pct": -2.8016933
+          "current_price": 154.67,
+          "return_pct": -2.8833198
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 79.3102356
+          "weight_pct": 79.28344109999999
         }
       ],
       "by_industry": [
         {
           "name": "公用事業",
-          "weight_pct": 24.2059066
+          "weight_pct": 24.171263
         },
         {
           "name": "化工",
-          "weight_pct": 20.0162016
+          "weight_pct": 19.9769049
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 19.970142
+          "weight_pct": 19.9577646
         },
         {
           "name": "電子",
-          "weight_pct": 15.1179854
+          "weight_pct": 15.1775086
         }
       ]
     },
@@ -111,45 +111,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-13T03:40:46+08:00",
-      "invested_pct": 63.3675073,
-      "cash_pct": 36.6324927,
-      "weighted_return_pct": -0.9267402883753592,
+      "updated_at": "2026-11-13T04:40:47+08:00",
+      "invested_pct": 63.4100281,
+      "cash_pct": 36.5899719,
+      "weighted_return_pct": -0.7431140454000315,
       "position_count": 2,
       "positions": [
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 35.963595399999996,
+          "weight_pct": 36.0166404,
           "cost_price": 311.284514992,
-          "current_price": 311.13,
-          "return_pct": -0.049637900000000006
+          "current_price": 311.951,
+          "return_pct": 0.21410800000000002
         },
         {
           "code": "SMST",
           "name": "2倍做空MSTR ETF-Defiance",
           "market": "US",
-          "weight_pct": 27.4039119,
+          "weight_pct": 27.393387699999998,
           "cost_price": 19.699313903,
-          "current_price": 19.29,
-          "return_pct": -2.0778079000000003
+          "current_price": 19.305,
+          "return_pct": -2.0016631
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 63.3675073
+          "weight_pct": 63.410028100000005
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 35.963595399999996
+          "weight_pct": 36.0166404
         },
         {
           "name": "其他",
-          "weight_pct": 27.4039119
+          "weight_pct": 27.393387699999998
         }
       ]
     }
