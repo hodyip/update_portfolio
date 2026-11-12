@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T03:40:45+08:00",
-  "generated_at_utc": "2026-11-11T19:40:45+00:00",
+  "generated_at": "2026-11-12T21:40:47+08:00",
+  "generated_at_utc": "2026-11-12T13:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,62 +10,62 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T03:40:44+08:00",
-      "invested_pct": 98.62110059999999,
-      "cash_pct": 1.3788994000000088,
-      "weighted_return_pct": -0.7082980310746722,
+      "updated_at": "2026-11-12T21:40:46+08:00",
+      "invested_pct": 98.6177768,
+      "cash_pct": 1.3822231999999985,
+      "weighted_return_pct": -0.946997046396425,
       "position_count": 7,
       "positions": [
-        {
-          "code": "NXPI",
-          "name": "恩智浦",
-          "market": "US",
-          "weight_pct": 21.8484575,
-          "cost_price": 271.993036149,
-          "current_price": 271.19,
-          "return_pct": -0.2952414
-        },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 21.8068724,
+          "weight_pct": 21.813953599999998,
           "cost_price": 312.578348793,
-          "current_price": 310.44,
-          "return_pct": -0.6841001
+          "current_price": 309.81,
+          "return_pct": -0.8856496
+        },
+        {
+          "code": "NXPI",
+          "name": "恩智浦",
+          "market": "US",
+          "weight_pct": 21.7643268,
+          "cost_price": 271.993036149,
+          "current_price": 269.51,
+          "return_pct": -0.9129043
         },
         {
           "code": "ISRG",
           "name": "直覺外科公司",
           "market": "US",
-          "weight_pct": 14.975786999999999,
+          "weight_pct": 15.0612022,
           "cost_price": 460.43172725,
-          "current_price": 448.035,
-          "return_pct": -2.6924138
+          "current_price": 449.53,
+          "return_pct": -2.3677185
         },
         {
           "code": "RPRX",
           "name": "Royalty Pharma",
           "market": "US",
-          "weight_pct": 10.1380836,
+          "weight_pct": 10.128722900000001,
           "cost_price": 69.319938324,
-          "current_price": 70.24,
-          "return_pct": 1.3272685
+          "current_price": 70.01,
+          "return_pct": 0.9954736000000001
         },
         {
           "code": "BKH",
           "name": "黑山",
           "market": "US",
-          "weight_pct": 9.9875565,
+          "weight_pct": 10.0307253,
           "cost_price": 87.27987956,
-          "current_price": 86.79,
-          "return_pct": -0.5612743
+          "current_price": 86.96,
+          "return_pct": -0.3664986
         },
         {
           "code": "DOW",
           "name": "陶氏化學",
           "market": "US",
-          "weight_pct": 9.9854336,
+          "weight_pct": 10.008988200000001,
           "cost_price": 32.620019951,
           "current_price": 32.54,
           "return_pct": -0.2453093
@@ -74,34 +74,34 @@
           "code": "DD",
           "name": "杜邦",
           "market": "US",
-          "weight_pct": 9.878910000000001,
+          "weight_pct": 9.809857800000001,
           "cost_price": 159.26172801,
-          "current_price": 157.075,
-          "return_pct": -1.3730404999999999
+          "current_price": 155.61,
+          "return_pct": -2.29291
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 98.6211006
+          "weight_pct": 98.6177768
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 43.6553299
+          "weight_pct": 43.578280400000004
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 25.1138706
+          "weight_pct": 25.1899251
         },
         {
           "name": "化工",
-          "weight_pct": 19.8643436
+          "weight_pct": 19.818846
         },
         {
           "name": "公用事業",
-          "weight_pct": 9.9875565
+          "weight_pct": 10.0307253
         }
       ]
     },
@@ -111,54 +111,54 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-12T03:40:45+08:00",
-      "invested_pct": 99.9999999,
-      "cash_pct": 9.999999406318238e-08,
-      "weighted_return_pct": 0.372586845059622,
+      "updated_at": "2026-11-12T21:40:47+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 0.8720077384078615,
       "position_count": 3,
       "positions": [
         {
           "code": "NXPI",
           "name": "恩智浦",
           "market": "US",
-          "weight_pct": 34.8361007,
+          "weight_pct": 34.460886699999996,
           "cost_price": 270.871239911,
-          "current_price": 271.19,
-          "return_pct": 0.1176796
+          "current_price": 269.51,
+          "return_pct": -0.5025413000000001
         },
         {
           "code": "TXN",
           "name": "德州儀器",
           "market": "US",
-          "weight_pct": 34.6498578,
+          "weight_pct": 34.4203206,
           "cost_price": 311.286915804,
-          "current_price": 310.44,
-          "return_pct": -0.27206919999999996
+          "current_price": 309.81,
+          "return_pct": -0.4744548
         },
         {
           "code": "SSPC",
           "name": "2倍做空SpaceX ETF-Leverage Shares",
           "market": "US",
-          "weight_pct": 30.514041400000004,
+          "weight_pct": 31.118792699999997,
           "cost_price": 8.24,
-          "current_price": 8.355,
-          "return_pct": 1.3956311000000001
+          "current_price": 8.56,
+          "return_pct": 3.8834950999999998
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.9999999
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 69.4859585
+          "weight_pct": 68.8812073
         },
         {
           "name": "其他",
-          "weight_pct": 30.514041400000004
+          "weight_pct": 31.118792699999997
         }
       ]
     }
