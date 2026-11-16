@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T23:41:07+08:00",
-  "generated_at_utc": "2026-11-16T15:41:07+00:00",
+  "generated_at": "2026-11-17T00:40:48+08:00",
+  "generated_at_utc": "2026-11-16T16:40:48+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,89 +10,85 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-16T23:41:06+08:00",
-      "invested_pct": 99.32934979999999,
-      "cash_pct": 0.6706502000000114,
-      "weighted_return_pct": -0.06296249107356565,
+      "updated_at": "2026-11-17T00:40:47+08:00",
+      "invested_pct": 99.3166951,
+      "cash_pct": 0.683304899999996,
+      "weighted_return_pct": -0.11537488846703235,
       "position_count": 6,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.1670938,
-          "cost_price": 100.56999998,
-          "current_price": 100.575,
-          "return_pct": 0.0049717
+          "weight_pct": 33.2143059,
+          "cost_price": 100.570000035,
+          "current_price": 100.58,
+          "return_pct": 0.009943299999999999
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 20.0951524,
+          "weight_pct": 20.1202815,
           "cost_price": 119.06,
           "current_price": 119.06,
           "return_pct": 0.0
         },
         {
-          "code": "AEP",
-          "name": "美國電力",
+          "code": "SOXX",
+          "name": "半導體ETF-iShares",
           "market": "US",
-          "weight_pct": 14.1243325,
-          "cost_price": 129.920347208,
-          "current_price": 130.23,
-          "return_pct": 0.23834049999999998
+          "weight_pct": 13.9390555,
+          "cost_price": 144.1899,
+          "current_price": 143.4,
+          "return_pct": -0.5478192
         },
         {
           "code": "NVDA",
           "name": "英偉達",
           "market": "US",
-          "weight_pct": 11.8954912,
-          "cost_price": 160.0338,
-          "current_price": 158.3801,
-          "return_pct": -1.0333442
+          "weight_pct": 11.9893301,
+          "cost_price": 160.033822116,
+          "current_price": 159.43,
+          "return_pct": -0.3773091
         },
         {
           "code": "STE",
           "name": "思泰瑞醫療",
           "market": "US",
-          "weight_pct": 10.0314006,
-          "cost_price": 263.890908226,
-          "current_price": 264.57,
-          "return_pct": 0.2573381
+          "weight_pct": 10.031542,
+          "cost_price": 263.890936037,
+          "current_price": 264.21,
+          "return_pct": 0.1209075
         },
         {
           "code": "DGX",
           "name": "奎斯特診療",
           "market": "US",
-          "weight_pct": 10.0158793,
-          "cost_price": 261.219467848,
-          "current_price": 261.2,
-          "return_pct": -0.0074527
+          "weight_pct": 10.0221801,
+          "cost_price": 261.219469315,
+          "current_price": 261.0,
+          "return_pct": -0.0840172
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3293498
+          "weight_pct": 99.31669509999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 53.26224619999999
+          "weight_pct": 67.2736429
         },
         {
           "name": "醫藥生物",
-          "weight_pct": 20.0472799
-        },
-        {
-          "name": "公用事業",
-          "weight_pct": 14.1243325
+          "weight_pct": 20.053722099999998
         },
         {
           "name": "電子",
-          "weight_pct": 11.8954912
+          "weight_pct": 11.9893301
         }
       ]
     },
@@ -102,45 +98,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-16T23:41:07+08:00",
-      "invested_pct": 99.14638640000001,
-      "cash_pct": 0.8536135999999885,
-      "weighted_return_pct": -2.0903762820309133,
+      "updated_at": "2026-11-17T00:40:48+08:00",
+      "invested_pct": 99.16543970000001,
+      "cash_pct": 0.8345602999999926,
+      "weighted_return_pct": 0.1312607290980555,
       "position_count": 2,
       "positions": [
         {
           "code": "NVDA",
           "name": "英偉達",
           "market": "US",
-          "weight_pct": 59.86204360000001,
+          "weight_pct": 58.9064503,
           "cost_price": 159.44,
-          "current_price": 158.4,
-          "return_pct": -0.6522830000000001
+          "current_price": 159.43,
+          "return_pct": -0.006272
         },
         {
           "code": "SOXL",
           "name": "三倍做多半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 39.2843428,
+          "weight_pct": 40.2589894,
           "cost_price": 51.150127411,
-          "current_price": 48.96,
-          "return_pct": -4.2817634
+          "current_price": 51.3202,
+          "return_pct": 0.3324969
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1463864
+          "weight_pct": 99.16543970000001
         }
       ],
       "by_industry": [
         {
           "name": "電子",
-          "weight_pct": 59.86204360000001
+          "weight_pct": 58.9064503
         },
         {
           "name": "其他",
-          "weight_pct": 39.2843428
+          "weight_pct": 40.2589894
         }
       ]
     }
