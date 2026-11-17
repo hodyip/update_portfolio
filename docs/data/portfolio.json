@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T02:40:47+08:00",
-  "generated_at_utc": "2026-11-17T18:40:47+00:00",
+  "generated_at": "2026-11-18T03:40:44+08:00",
+  "generated_at_utc": "2026-11-17T19:40:44+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,76 +10,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T02:40:47+08:00",
-      "invested_pct": 99.10234450000002,
-      "cash_pct": 0.8976554999999848,
-      "weighted_return_pct": -0.4639065111542562,
+      "updated_at": "2026-11-18T03:40:44+08:00",
+      "invested_pct": 94.1802332,
+      "cash_pct": 5.8197667999999965,
+      "weighted_return_pct": -0.31254499010709524,
       "position_count": 5,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.7969698,
-          "cost_price": 100.569993796,
-          "current_price": 100.5801,
-          "return_pct": 0.010048900000000001
+          "weight_pct": 33.8159279,
+          "cost_price": 100.569994438,
+          "current_price": 100.5811,
+          "return_pct": 0.0110426
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.5637398,
-          "cost_price": 119.063132141,
-          "current_price": 119.0731,
-          "return_pct": 0.0083719
+          "weight_pct": 30.5806448,
+          "cost_price": 119.063132786,
+          "current_price": 119.0751,
+          "return_pct": 0.0100511
         },
         {
           "code": "NVDA",
           "name": "英偉達",
           "market": "US",
-          "weight_pct": 12.8824716,
-          "cost_price": 155.400067868,
-          "current_price": 153.43,
-          "return_pct": -1.2677394
+          "weight_pct": 12.883594800000001,
+          "cost_price": 155.40045139,
+          "current_price": 153.395,
+          "return_pct": -1.2905055
         },
         {
           "code": "SOXX",
           "name": "半導體ETF-iShares",
           "market": "US",
-          "weight_pct": 11.9263634,
-          "cost_price": 140.89,
-          "current_price": 139.63,
-          "return_pct": -0.8943147
+          "weight_pct": 11.8878289,
+          "cost_price": 140.890281319,
+          "current_price": 139.14,
+          "return_pct": -1.242301
         },
         {
-          "code": "NEM",
-          "name": "紐曼礦業",
+          "code": "FAZ",
+          "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 9.9327999,
-          "cost_price": 113.343487858,
-          "current_price": 111.1101,
-          "return_pct": -1.9704598
+          "weight_pct": 5.0122368,
+          "cost_price": 31.8787,
+          "current_price": 31.96,
+          "return_pct": 0.2550292
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1023445
+          "weight_pct": 94.1802332
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 76.287073
+          "weight_pct": 81.29663839999999
         },
         {
           "name": "電子",
-          "weight_pct": 12.8824716
-        },
-        {
-          "name": "有色金屬",
-          "weight_pct": 9.9327999
+          "weight_pct": 12.883594800000001
         }
       ]
     },
@@ -89,29 +85,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T02:40:47+08:00",
+      "updated_at": "2026-11-18T03:40:44+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": -1.7543232643669295,
+      "weighted_return_pct": -2.292412903964478,
       "position_count": 2,
       "positions": [
         {
           "code": "SOXL",
           "name": "三倍做多半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 50.4685496,
+          "weight_pct": 50.2150099,
           "cost_price": 47.485,
-          "current_price": 47.085,
-          "return_pct": -0.8423712999999999
+          "current_price": 46.5951,
+          "return_pct": -1.8740655
         },
         {
           "code": "NVDL",
           "name": "2倍做多NVDA ETF-GraniteShares",
           "market": "US",
-          "weight_pct": 49.5314504,
+          "weight_pct": 49.7849901,
           "cost_price": 16.21,
-          "current_price": 15.775,
-          "return_pct": -2.6835287
+          "current_price": 15.77,
+          "return_pct": -2.7143738
         }
       ],
       "by_market": [
