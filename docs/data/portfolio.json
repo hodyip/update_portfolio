@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T01:40:45+08:00",
-  "generated_at_utc": "2026-11-18T17:40:45+00:00",
+  "generated_at": "2026-11-19T02:40:49+08:00",
+  "generated_at_utc": "2026-11-18T18:40:49+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,68 +10,68 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-19T01:40:45+08:00",
-      "invested_pct": 99.22642499999999,
-      "cash_pct": 0.7735750000000081,
-      "weighted_return_pct": 0.21712343862097064,
+      "updated_at": "2026-11-19T02:40:49+08:00",
+      "invested_pct": 99.22680779999999,
+      "cash_pct": 0.7731922000000111,
+      "weighted_return_pct": 0.2663624953798326,
       "position_count": 5,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.6572871,
+          "weight_pct": 33.6380567,
           "cost_price": 100.569994642,
-          "current_price": 100.5977,
-          "return_pct": 0.027548299999999998
+          "current_price": 100.59,
+          "return_pct": 0.019892
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.4319796,
+          "weight_pct": 30.4174055,
           "cost_price": 119.063133203,
-          "current_price": 119.0831,
-          "return_pct": 0.0167699
+          "current_price": 119.085,
+          "return_pct": 0.0183657
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.0459311,
+          "weight_pct": 20.051013,
           "cost_price": 80.062488684,
-          "current_price": 80.135,
-          "return_pct": 0.09056840000000001
+          "current_price": 80.195,
+          "return_pct": 0.1655099
         },
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.1096379,
+          "weight_pct": 10.089269100000001,
           "cost_price": 32.221757055,
-          "current_price": 32.88,
-          "return_pct": 2.0428524
+          "current_price": 32.83,
+          "return_pct": 1.8876778
         },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 4.9815892999999996,
+          "weight_pct": 5.0310635,
           "cost_price": 39.009900074,
-          "current_price": 38.825,
-          "return_pct": -0.4739824
+          "current_price": 39.23,
+          "return_pct": 0.5642155999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.22642499999999
+          "weight_pct": 99.2268078
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.22642499999999
+          "weight_pct": 99.2268078
         }
       ]
     },
@@ -81,41 +81,41 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-19T01:40:45+08:00",
-      "invested_pct": 99.6662413,
-      "cash_pct": 0.3337587000000042,
-      "weighted_return_pct": -0.6781792397792233,
+      "updated_at": "2026-11-19T02:40:49+08:00",
+      "invested_pct": 99.66766270000001,
+      "cash_pct": 0.33233729999999184,
+      "weighted_return_pct": -0.2661596272652463,
       "position_count": 2,
       "positions": [
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 51.2004112,
+          "weight_pct": 50.904827600000004,
           "cost_price": 32.629996481,
-          "current_price": 32.88,
-          "return_pct": 0.766177
+          "current_price": 32.83,
+          "return_pct": 0.6129437
         },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 48.4658301,
+          "weight_pct": 48.762835100000004,
           "cost_price": 39.7,
-          "current_price": 38.825,
-          "return_pct": -2.2040302
+          "current_price": 39.23,
+          "return_pct": -1.1838791
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.6662413
+          "weight_pct": 99.66766270000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.6662413
+          "weight_pct": 99.66766270000001
         }
       ]
     }
