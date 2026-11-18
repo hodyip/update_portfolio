@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T23:40:57+08:00",
-  "generated_at_utc": "2026-11-18T15:40:57+00:00",
+  "generated_at": "2026-11-19T00:40:47+08:00",
+  "generated_at_utc": "2026-11-18T16:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,50 +10,68 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T23:40:56+08:00",
-      "invested_pct": 74.212027,
-      "cash_pct": 25.787972999999994,
-      "weighted_return_pct": 0.39319006223892455,
-      "position_count": 3,
+      "updated_at": "2026-11-19T00:40:47+08:00",
+      "invested_pct": 99.2274038,
+      "cash_pct": 0.7725961999999953,
+      "weighted_return_pct": 0.34806650965487973,
+      "position_count": 5,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.6270379,
-          "cost_price": 100.569992828,
-          "current_price": 100.5901,
-          "return_pct": 0.0199932
+          "weight_pct": 33.6121346,
+          "cost_price": 100.569994642,
+          "current_price": 100.59,
+          "return_pct": 0.019892
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.4120129,
-          "cost_price": 119.063135664,
-          "current_price": 119.0813,
-          "return_pct": 0.0152561
+          "weight_pct": 30.3942716,
+          "cost_price": 119.063133203,
+          "current_price": 119.0862,
+          "return_pct": 0.019373599999999998
+        },
+        {
+          "code": "TLT",
+          "name": "20+年以上美國國債ETF-iShares",
+          "market": "US",
+          "weight_pct": 20.0155744,
+          "cost_price": 80.062488684,
+          "current_price": 80.115,
+          "return_pct": 0.0655879
         },
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.1729762,
-          "cost_price": 32.221764544,
-          "current_price": 33.11,
-          "return_pct": 2.7566319
+          "weight_pct": 10.1705479,
+          "cost_price": 32.221757055,
+          "current_price": 33.12,
+          "return_pct": 2.7876908
+        },
+        {
+          "code": "DRIP",
+          "name": "2倍做空標普油氣出口與生產ETF-Direxion",
+          "market": "US",
+          "weight_pct": 5.0348753,
+          "cost_price": 39.009900074,
+          "current_price": 39.29,
+          "return_pct": 0.7180227
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 74.212027
+          "weight_pct": 99.2274038
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 74.212027
+          "weight_pct": 99.2274038
         }
       ]
     },
@@ -63,32 +81,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T23:40:57+08:00",
-      "invested_pct": 50.8307452,
-      "cash_pct": 49.1692548,
-      "weighted_return_pct": 1.5632191,
+      "updated_at": "2026-11-19T00:40:47+08:00",
+      "invested_pct": 50.8156572,
+      "cash_pct": 49.1843428,
+      "weighted_return_pct": 1.5019257,
       "position_count": 1,
       "positions": [
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 50.8307452,
+          "weight_pct": 50.8156572,
           "cost_price": 32.629922815,
-          "current_price": 33.14,
-          "return_pct": 1.5632191
+          "current_price": 33.12,
+          "return_pct": 1.5019257
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 50.8307452
+          "weight_pct": 50.8156572
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 50.8307452
+          "weight_pct": 50.8156572
         }
       ]
     }
