@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T22:40:48+08:00",
-  "generated_at_utc": "2026-11-18T14:40:48+00:00",
+  "generated_at": "2026-11-18T23:40:57+08:00",
+  "generated_at_utc": "2026-11-18T15:40:57+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T22:40:47+08:00",
-      "invested_pct": 79.1770714,
-      "cash_pct": 20.822928599999997,
-      "weighted_return_pct": 0.18242311287435733,
-      "position_count": 4,
+      "updated_at": "2026-11-18T23:40:56+08:00",
+      "invested_pct": 74.212027,
+      "cash_pct": 25.787972999999994,
+      "weighted_return_pct": 0.39319006223892455,
+      "position_count": 3,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.6772572,
-          "cost_price": 100.569993528,
+          "weight_pct": 33.6270379,
+          "cost_price": 100.569992828,
           "current_price": 100.5901,
-          "return_pct": 0.0199925
+          "return_pct": 0.0199932
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.4596561,
-          "cost_price": 119.063136416,
-          "current_price": 119.09,
-          "return_pct": 0.0225625
+          "weight_pct": 30.4120129,
+          "cost_price": 119.063135664,
+          "current_price": 119.0813,
+          "return_pct": 0.0152561
         },
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.0050847,
-          "cost_price": 32.221812432,
-          "current_price": 32.51,
-          "return_pct": 0.8943866
-        },
-        {
-          "code": "NVDA",
-          "name": "英偉達",
-          "market": "US",
-          "weight_pct": 5.0350734,
-          "cost_price": 155.304646539,
-          "current_price": 156.58,
-          "return_pct": 0.8211947
+          "weight_pct": 10.1729762,
+          "cost_price": 32.221764544,
+          "current_price": 33.11,
+          "return_pct": 2.7566319
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 79.1770714
+          "weight_pct": 74.212027
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 74.141998
-        },
-        {
-          "name": "電子",
-          "weight_pct": 5.0350734
+          "weight_pct": 74.212027
         }
       ]
     },
@@ -76,41 +63,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-18T22:40:48+08:00",
-      "invested_pct": 100.0,
-      "cash_pct": 0.0,
-      "weighted_return_pct": -0.5967391647379976,
-      "position_count": 2,
+      "updated_at": "2026-11-18T23:40:57+08:00",
+      "invested_pct": 50.8307452,
+      "cash_pct": 49.1692548,
+      "weighted_return_pct": 1.5632191,
+      "position_count": 1,
       "positions": [
         {
           "code": "FAZ",
           "name": "3倍做空金融指數ETF-Direxion",
           "market": "US",
-          "weight_pct": 50.1464378,
-          "cost_price": 32.63,
-          "current_price": 32.53,
-          "return_pct": -0.30646639999999997
-        },
-        {
-          "code": "TZA",
-          "name": "3倍做空小盤股ETF-Direxion",
-          "market": "US",
-          "weight_pct": 49.8535622,
-          "cost_price": 51.76,
-          "current_price": 51.3,
-          "return_pct": -0.8887172000000001
+          "weight_pct": 50.8307452,
+          "cost_price": 32.629922815,
+          "current_price": 33.14,
+          "return_pct": 1.5632191
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 100.0
+          "weight_pct": 50.8307452
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 100.0
+          "weight_pct": 50.8307452
         }
       ]
     }
