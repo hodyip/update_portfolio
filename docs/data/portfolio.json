@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T03:40:45+08:00",
-  "generated_at_utc": "2026-11-19T19:40:45+00:00",
+  "generated_at": "2026-11-20T04:40:42+08:00",
+  "generated_at_utc": "2026-11-19T20:40:42+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,59 +10,59 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-20T03:40:44+08:00",
-      "invested_pct": 93.93368310000001,
-      "cash_pct": 6.06631689999999,
-      "weighted_return_pct": 0.24824706659428356,
+      "updated_at": "2026-11-20T04:40:42+08:00",
+      "invested_pct": 93.9377723,
+      "cash_pct": 6.062227699999994,
+      "weighted_return_pct": 0.32173294167771366,
       "position_count": 4,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4444363,
+          "weight_pct": 33.4207289,
           "cost_price": 100.569804401,
-          "current_price": 100.605,
-          "return_pct": 0.0349962
+          "current_price": 100.6015,
+          "return_pct": 0.031515999999999995
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.4038643,
+          "weight_pct": 30.3846451,
           "cost_price": 119.063135142,
-          "current_price": 119.08,
-          "return_pct": 0.0141646
+          "current_price": 119.085,
+          "return_pct": 0.0183641
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.0646343,
+          "weight_pct": 20.0760994,
           "cost_price": 80.062546134,
-          "current_price": 80.235,
-          "return_pct": 0.21539889999999998
+          "current_price": 80.335,
+          "return_pct": 0.3403013
         },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.0207482,
+          "weight_pct": 10.0562989,
           "cost_price": 39.553363246,
-          "current_price": 40.24,
-          "return_pct": 1.7359756
+          "current_price": 40.41,
+          "return_pct": 2.1657748
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 93.9336831
+          "weight_pct": 93.9377723
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 93.9336831
+          "weight_pct": 93.9377723
         }
       ]
     },
@@ -72,45 +72,45 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-20T03:40:45+08:00",
-      "invested_pct": 99.3999966,
-      "cash_pct": 0.6000034000000056,
-      "weighted_return_pct": 0.7673156632401353,
+      "updated_at": "2026-11-20T04:40:42+08:00",
+      "invested_pct": 99.3892807,
+      "cash_pct": 0.6107192999999995,
+      "weighted_return_pct": -0.9645634272871162,
       "position_count": 2,
       "positions": [
         {
           "code": "ANT",
           "name": "Anthropic",
           "market": "US",
-          "weight_pct": 57.977466099999994,
+          "weight_pct": 57.0488396,
           "cost_price": 97.315,
-          "current_price": 97.8,
-          "return_pct": 0.4983815
+          "current_price": 94.545,
+          "return_pct": -2.8464266
         },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 41.4225305,
+          "weight_pct": 42.3404411,
           "cost_price": 39.784966563,
-          "current_price": 40.24,
-          "return_pct": 1.1437321
+          "current_price": 40.41,
+          "return_pct": 1.5710292000000001
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3999966
+          "weight_pct": 99.3892807
         }
       ],
       "by_industry": [
         {
           "name": "計算機",
-          "weight_pct": 57.977466099999994
+          "weight_pct": 57.0488396
         },
         {
           "name": "其他",
-          "weight_pct": 41.4225305
+          "weight_pct": 42.3404411
         }
       ]
     }
