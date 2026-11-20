@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T23:40:46+08:00",
-  "generated_at_utc": "2026-11-20T15:40:46+00:00",
+  "generated_at": "2026-11-21T00:40:43+08:00",
+  "generated_at_utc": "2026-11-20T16:40:43+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,17 +10,17 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-20T23:40:46+08:00",
-      "invested_pct": 94.06532659999999,
-      "cash_pct": 5.934673400000008,
-      "weighted_return_pct": 0.5030634537672024,
+      "updated_at": "2026-11-21T00:40:43+08:00",
+      "invested_pct": 94.06665720000001,
+      "cash_pct": 5.933342799999991,
+      "weighted_return_pct": 0.5275175150578277,
       "position_count": 4,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4236414,
+          "weight_pct": 33.416147200000005,
           "cost_price": 100.569821206,
           "current_price": 100.63,
           "return_pct": 0.0598378
@@ -29,25 +29,25 @@
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.3930113,
+          "weight_pct": 30.383646199999998,
           "cost_price": 119.063153,
-          "current_price": 119.14,
-          "return_pct": 0.0645431
+          "current_price": 119.13,
+          "return_pct": 0.0561442
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.2646382,
+          "weight_pct": 20.285066800000003,
           "cost_price": 80.062580749,
-          "current_price": 81.13,
-          "return_pct": 1.3332311
+          "current_price": 81.23,
+          "return_pct": 1.4581334
         },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 9.9840357,
+          "weight_pct": 9.981797,
           "cost_price": 39.552608587,
           "current_price": 40.2,
           "return_pct": 1.6367856
@@ -56,13 +56,13 @@
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 94.06532659999999
+          "weight_pct": 94.06665720000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 94.06532659999999
+          "weight_pct": 94.06665720000001
         }
       ]
     },
@@ -72,41 +72,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-20T23:40:46+08:00",
-      "invested_pct": 99.048086,
-      "cash_pct": 0.9519140000000021,
-      "weighted_return_pct": -1.1695331607981938,
-      "position_count": 2,
+      "updated_at": "2026-11-21T00:40:43+08:00",
+      "invested_pct": 99.8155221,
+      "cash_pct": 0.18447790000000452,
+      "weighted_return_pct": 0.5864797257959532,
+      "position_count": 3,
       "positions": [
-        {
-          "code": "SVIX",
-          "name": "1倍做空短期期貨恐慌指數ETF",
-          "market": "US",
-          "weight_pct": 54.6247789,
-          "cost_price": 17.685,
-          "current_price": 17.16,
-          "return_pct": -2.9686174999999997
-        },
         {
           "code": "DRIP",
           "name": "2倍做空標普油氣出口與生產ETF-Direxion",
           "market": "US",
-          "weight_pct": 44.423307099999995,
-          "cost_price": 39.785161295,
+          "weight_pct": 44.9134213,
+          "cost_price": 39.785430632,
           "current_price": 40.2,
-          "return_pct": 1.0426971
+          "return_pct": 1.0420129999999999
+        },
+        {
+          "code": "AMDD",
+          "name": "1倍做空AMD ETF-Direxion",
+          "market": "US",
+          "weight_pct": 39.9683615,
+          "cost_price": 27.489,
+          "current_price": 27.575,
+          "return_pct": 0.31285240000000003
+        },
+        {
+          "code": "TMF",
+          "name": "3倍做多20年期以上國債ETF-Direxion",
+          "market": "US",
+          "weight_pct": 14.933739300000001,
+          "cost_price": 29.29,
+          "current_price": 29.275,
+          "return_pct": -0.051212
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.048086
+          "weight_pct": 99.8155221
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.048086
+          "weight_pct": 99.8155221
         }
       ]
     }
