@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T23:40:46+08:00",
-  "generated_at_utc": "2026-11-24T15:40:46+00:00",
+  "generated_at": "2026-11-25T00:40:46+08:00",
+  "generated_at_utc": "2026-11-24T16:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,59 +10,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-24T23:40:45+08:00",
-      "invested_pct": 99.3094566,
-      "cash_pct": 0.6905433999999957,
-      "weighted_return_pct": 0.38460596809984504,
-      "position_count": 4,
+      "updated_at": "2026-11-25T00:40:45+08:00",
+      "invested_pct": 84.4600419,
+      "cash_pct": 15.539958100000007,
+      "weighted_return_pct": 0.6475164028829035,
+      "position_count": 3,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4903383,
-          "cost_price": 100.569833095,
-          "current_price": 100.6501,
-          "return_pct": 0.07981210000000001
+          "weight_pct": 33.4946773,
+          "cost_price": 100.569829207,
+          "current_price": 100.655,
+          "return_pct": 0.08468819999999999
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.462917900000004,
-          "cost_price": 119.06317942,
+          "weight_pct": 30.4653816,
+          "cost_price": 119.063174239,
           "current_price": 119.17,
-          "return_pct": 0.0897176
+          "return_pct": 0.0897219
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.4409644,
-          "cost_price": 80.061867523,
-          "current_price": 81.7456,
-          "return_pct": 2.1030392
-        },
-        {
-          "code": "QQQ",
-          "name": "納指100ETF-Invesco QQQ Trust",
-          "market": "US",
-          "weight_pct": 14.915236000000002,
-          "cost_price": 640.318539164,
-          "current_price": 635.94,
-          "return_pct": -0.6838063999999999
+          "weight_pct": 20.499983,
+          "cost_price": 80.061672091,
+          "current_price": 81.98,
+          "return_pct": 2.3960628
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.3094566
+          "weight_pct": 84.46004190000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.3094566
+          "weight_pct": 84.46004190000001
         }
       ]
     },
@@ -72,41 +63,32 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-24T23:40:46+08:00",
-      "invested_pct": 99.99999999999999,
-      "cash_pct": 1.4210854715202004e-14,
-      "weighted_return_pct": -2.7312388190146786,
-      "position_count": 2,
+      "updated_at": "2026-11-25T00:40:46+08:00",
+      "invested_pct": 30.2651583,
+      "cash_pct": 69.7348417,
+      "weighted_return_pct": 13.1001004,
+      "position_count": 1,
       "positions": [
-        {
-          "code": "SVIX",
-          "name": "1倍做空短期期貨恐慌指數ETF",
-          "market": "US",
-          "weight_pct": 79.36864059999999,
-          "cost_price": 17.408170586,
-          "current_price": 16.31,
-          "return_pct": -6.308363
-        },
         {
           "code": "ANDD",
           "name": "2倍做空Anthropic ETF-Leverage Shares",
           "market": "US",
-          "weight_pct": 20.631359399999997,
-          "cost_price": 16.56760578,
-          "current_price": 18.395,
-          "return_pct": 11.0299234
+          "weight_pct": 30.2651583,
+          "cost_price": 17.307676946,
+          "current_price": 19.575,
+          "return_pct": 13.1001004
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 100.0
+          "weight_pct": 30.2651583
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 100.0
+          "weight_pct": 30.2651583
         }
       ]
     }
