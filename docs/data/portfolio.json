@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T01:40:52+08:00",
-  "generated_at_utc": "2026-11-24T17:40:52+00:00",
+  "generated_at": "2026-11-25T02:40:53+08:00",
+  "generated_at_utc": "2026-11-24T18:40:53+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,50 +10,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-25T01:40:51+08:00",
-      "invested_pct": 84.4474699,
-      "cash_pct": 15.552530099999998,
-      "weighted_return_pct": 0.5479557551494848,
+      "updated_at": "2026-11-25T02:40:53+08:00",
+      "invested_pct": 84.4481825,
+      "cash_pct": 15.551817499999999,
+      "weighted_return_pct": 0.5535190470914428,
       "position_count": 3,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.5218749,
+          "weight_pct": 33.5219039,
           "cost_price": 100.569829207,
-          "current_price": 100.6553,
-          "return_pct": 0.08498649999999999
+          "current_price": 100.66,
+          "return_pct": 0.0896599
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.4938664,
+          "weight_pct": 30.4919828,
           "cost_price": 119.063174239,
-          "current_price": 119.185,
-          "return_pct": 0.1023203
+          "current_price": 119.1831,
+          "return_pct": 0.1007245
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.4317286,
+          "weight_pct": 20.434295799999997,
           "cost_price": 80.061672091,
-          "current_price": 81.641,
-          "return_pct": 1.9726392
+          "current_price": 81.655,
+          "return_pct": 1.9901256999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 84.4474699
+          "weight_pct": 84.4481825
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 84.4474699
+          "weight_pct": 84.4481825
         }
       ]
     },
@@ -63,41 +63,41 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-25T01:40:52+08:00",
-      "invested_pct": 99.53844609999999,
-      "cash_pct": 0.4615539000000126,
-      "weighted_return_pct": 2.2594759575894146,
+      "updated_at": "2026-11-25T02:40:53+08:00",
+      "invested_pct": 99.5428794,
+      "cash_pct": 0.4571205999999961,
+      "weighted_return_pct": 3.247547274098968,
       "position_count": 2,
       "positions": [
         {
           "code": "SVIX",
           "name": "1倍做空短期期貨恐慌指數ETF",
           "market": "US",
-          "weight_pct": 71.35636389999999,
+          "weight_pct": 71.5917706,
           "cost_price": 16.62,
-          "current_price": 16.885,
-          "return_pct": 1.5944645
+          "current_price": 17.105,
+          "return_pct": 2.9181709
         },
         {
           "code": "ANDD",
           "name": "2倍做空Anthropic ETF-Leverage Shares",
           "market": "US",
-          "weight_pct": 28.182082200000004,
+          "weight_pct": 27.9511088,
           "cost_price": 17.307036935,
-          "current_price": 17.9895,
-          "return_pct": 3.9432692
+          "current_price": 18.0151,
+          "return_pct": 4.091186
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.5384461
+          "weight_pct": 99.54287939999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.5384461
+          "weight_pct": 99.54287939999999
         }
       ]
     }
