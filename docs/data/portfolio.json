@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T21:40:46+08:00",
-  "generated_at_utc": "2026-11-24T13:40:46+00:00",
+  "generated_at": "2026-11-24T22:40:47+08:00",
+  "generated_at_utc": "2026-11-24T14:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,63 +10,72 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-24T21:40:45+08:00",
-      "invested_pct": 94.2099319,
-      "cash_pct": 5.790068099999999,
-      "weighted_return_pct": 0.5732518359436081,
-      "position_count": 4,
+      "updated_at": "2026-11-24T22:40:46+08:00",
+      "invested_pct": 99.20086679999999,
+      "cash_pct": 0.7991332000000142,
+      "weighted_return_pct": 0.33225951705933976,
+      "position_count": 5,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.399709900000005,
-          "cost_price": 100.569835997,
-          "current_price": 100.64,
-          "return_pct": 0.06976639999999999
+          "weight_pct": 33.46975,
+          "cost_price": 100.569819885,
+          "current_price": 100.6559,
+          "return_pct": 0.0855924
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.372865100000002,
-          "cost_price": 119.063167202,
-          "current_price": 119.15,
-          "return_pct": 0.07293
+          "weight_pct": 30.43837,
+          "cost_price": 119.063152298,
+          "current_price": 119.17,
+          "return_pct": 0.0897404
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.3756944,
-          "cost_price": 80.062092006,
-          "current_price": 81.69,
-          "return_pct": 2.0333068
+          "weight_pct": 20.4087151,
+          "cost_price": 80.061660374,
+          "current_price": 81.67,
+          "return_pct": 2.0088762
         },
         {
           "code": "PDD",
           "name": "拼多多",
           "market": "US",
-          "weight_pct": 10.0616625,
-          "cost_price": 86.45,
-          "current_price": 87.14,
-          "return_pct": 0.7981492
+          "weight_pct": 9.8769949,
+          "cost_price": 86.448554932,
+          "current_price": 85.215,
+          "return_pct": -1.4269237000000001
+        },
+        {
+          "code": "QQQ",
+          "name": "納指100ETF-Invesco QQQ Trust",
+          "market": "US",
+          "weight_pct": 5.0070368,
+          "cost_price": 637.79,
+          "current_price": 638.375,
+          "return_pct": 0.091723
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 94.2099319
+          "weight_pct": 99.2008668
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 84.1482694
+          "weight_pct": 89.3238719
         },
         {
           "name": "商業貿易",
-          "weight_pct": 10.0616625
+          "weight_pct": 9.8769949
         }
       ]
     },
@@ -76,29 +85,29 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-24T21:40:46+08:00",
+      "updated_at": "2026-11-24T22:40:47+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
-      "weighted_return_pct": -1.128736574110625,
+      "weighted_return_pct": -2.520126090393441,
       "position_count": 2,
       "positions": [
         {
           "code": "SVIX",
           "name": "1倍做空短期期貨恐慌指數ETF",
           "market": "US",
-          "weight_pct": 89.952075,
-          "cost_price": 17.305555556,
-          "current_price": 17.13,
-          "return_pct": -1.0144462
+          "weight_pct": 80.0074034,
+          "cost_price": 17.408170586,
+          "current_price": 16.51,
+          "return_pct": -5.1594771999999995
         },
         {
           "code": "ANDD",
           "name": "2倍做空Anthropic ETF-Leverage Shares",
           "market": "US",
-          "weight_pct": 10.047925000000001,
-          "cost_price": 15.8,
-          "current_price": 15.46,
-          "return_pct": -2.1518987
+          "weight_pct": 19.992596600000002,
+          "cost_price": 16.56760578,
+          "current_price": 17.9,
+          "return_pct": 8.0421652
         }
       ],
       "by_market": [
