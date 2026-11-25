@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T01:40:46+08:00",
-  "generated_at_utc": "2026-11-25T17:40:46+00:00",
+  "generated_at": "2026-11-26T02:40:47+08:00",
+  "generated_at_utc": "2026-11-25T18:40:47+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,89 +10,89 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-26T01:40:45+08:00",
-      "invested_pct": 99.4804308,
-      "cash_pct": 0.5195692000000065,
-      "weighted_return_pct": 0.7980391739462978,
+      "updated_at": "2026-11-26T02:40:46+08:00",
+      "invested_pct": 99.4805234,
+      "cash_pct": 0.5194766000000044,
+      "weighted_return_pct": 0.8181162263229568,
       "position_count": 6,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4100405,
+          "weight_pct": 33.4074188,
           "cost_price": 100.569810343,
-          "current_price": 100.67,
-          "return_pct": 0.09962199999999999
+          "current_price": 100.68,
+          "return_pct": 0.1095653
         },
         {
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.401789899999997,
+          "weight_pct": 30.39511,
           "cost_price": 119.06317942,
-          "current_price": 119.215,
-          "return_pct": 0.1275126
+          "current_price": 119.21,
+          "return_pct": 0.12331320000000001
         },
         {
           "code": "TLT",
           "name": "20+年以上美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 20.5865519,
+          "weight_pct": 20.6028522,
           "cost_price": 80.06271061,
-          "current_price": 82.495,
-          "return_pct": 3.0379803
-        },
-        {
-          "code": "HDB",
-          "name": "HDFC銀行",
-          "market": "US",
-          "weight_pct": 5.0417654999999995,
-          "cost_price": 28.394800651,
-          "current_price": 28.67,
-          "return_pct": 0.9691892000000001
+          "current_price": 82.575,
+          "return_pct": 3.137902
         },
         {
           "code": "CHKP",
           "name": "Check Point軟件",
           "market": "US",
-          "weight_pct": 5.0321156,
+          "weight_pct": 5.0754998,
           "cost_price": 161.335,
-          "current_price": 162.485,
-          "return_pct": 0.7128026
+          "current_price": 163.915,
+          "return_pct": 1.599157
+        },
+        {
+          "code": "HDB",
+          "name": "HDFC銀行",
+          "market": "US",
+          "weight_pct": 5.0355944,
+          "cost_price": 28.394800651,
+          "current_price": 28.64,
+          "return_pct": 0.8635360999999999
         },
         {
           "code": "DPZ",
           "name": "達美樂比薩",
           "market": "US",
-          "weight_pct": 5.0081674,
+          "weight_pct": 4.9640482,
           "cost_price": 364.02,
-          "current_price": 364.87,
-          "return_pct": 0.23350369999999998
+          "current_price": 361.72,
+          "return_pct": -0.6318334
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4804308
+          "weight_pct": 99.4805234
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 84.3983823
-        },
-        {
-          "name": "銀行",
-          "weight_pct": 5.0417654999999995
+          "weight_pct": 84.405381
         },
         {
           "name": "計算機",
-          "weight_pct": 5.0321156
+          "weight_pct": 5.0754998
+        },
+        {
+          "name": "銀行",
+          "weight_pct": 5.0355944
         },
         {
           "name": "休閒服務",
-          "weight_pct": 5.0081674
+          "weight_pct": 4.9640482
         }
       ]
     },
@@ -102,41 +102,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-26T01:40:46+08:00",
-      "invested_pct": 99.1914112,
-      "cash_pct": 0.8085887999999954,
-      "weighted_return_pct": 0.4492303677979362,
-      "position_count": 2,
+      "updated_at": "2026-11-26T02:40:47+08:00",
+      "invested_pct": 100.0,
+      "cash_pct": 0.0,
+      "weighted_return_pct": 3.895061818945138,
+      "position_count": 3,
       "positions": [
         {
           "code": "SVIX",
           "name": "1倍做空短期期貨恐慌指數ETF",
           "market": "US",
-          "weight_pct": 68.9267003,
-          "cost_price": 15.71,
-          "current_price": 15.7207,
-          "return_pct": 0.0681095
+          "weight_pct": 69.8512243,
+          "cost_price": 15.71353312,
+          "current_price": 16.3901,
+          "return_pct": 4.3056318000000005
         },
         {
           "code": "SVOL",
           "name": "SIMPLIFY VOLATILITY PREMIUM ETF",
           "market": "US",
-          "weight_pct": 30.264710900000004,
-          "cost_price": 12.905012807,
-          "current_price": 13.075,
-          "return_pct": 1.3172183
+          "weight_pct": 20.094294100000003,
+          "cost_price": 12.772856391,
+          "current_price": 13.2828,
+          "return_pct": 3.9924006999999997
+        },
+        {
+          "code": "SOXL",
+          "name": "三倍做多半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 10.054481599999999,
+          "cost_price": 29.4983,
+          "current_price": 29.7485,
+          "return_pct": 0.8481845
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1914112
+          "weight_pct": 100.0
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.1914112
+          "weight_pct": 100.0
         }
       ]
     }
