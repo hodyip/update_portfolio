@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T23:40:48+08:00",
-  "generated_at_utc": "2026-11-27T15:40:48+00:00",
+  "generated_at": "2026-11-28T00:40:45+08:00",
+  "generated_at_utc": "2026-11-27T16:40:45+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,102 +10,89 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-27T23:40:47+08:00",
-      "invested_pct": 99.0379078,
-      "cash_pct": 0.9620922000000007,
-      "weighted_return_pct": 0.30837230610495,
-      "position_count": 7,
+      "updated_at": "2026-11-28T00:40:44+08:00",
+      "invested_pct": 89.0192163,
+      "cash_pct": 10.980783700000003,
+      "weighted_return_pct": 0.3374014240342625,
+      "position_count": 6,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4356865,
-          "cost_price": 100.569810343,
-          "current_price": 100.7099,
-          "return_pct": 0.1392959
-        },
-        {
-          "code": "BOXX",
-          "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
-          "market": "US",
-          "weight_pct": 30.4194505,
-          "cost_price": 119.06317942,
-          "current_price": 119.24,
-          "return_pct": 0.1485099
-        },
-        {
-          "code": "BABA",
-          "name": "阿里巴巴",
-          "market": "US",
-          "weight_pct": 10.0558253,
-          "cost_price": 89.575,
-          "current_price": 90.15,
-          "return_pct": 0.6419201999999999
+          "weight_pct": 33.426738099999994,
+          "cost_price": 100.569798337,
+          "current_price": 100.709,
+          "return_pct": 0.13841299999999998
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 9.9714423,
-          "cost_price": 22.21,
-          "current_price": 22.165,
-          "return_pct": -0.2026114
+          "weight_pct": 19.9720736,
+          "cost_price": 22.184947759,
+          "current_price": 22.145,
+          "return_pct": -0.180067
         },
         {
           "code": "CHKP",
           "name": "Check Point軟件",
           "market": "US",
-          "weight_pct": 5.1555844,
-          "cost_price": 161.335,
-          "current_price": 166.41,
-          "return_pct": 3.1456287
+          "weight_pct": 10.5018367,
+          "cost_price": 164.046231232,
+          "current_price": 166.89,
+          "return_pct": 1.7335166999999998
         },
         {
-          "code": "HDB",
-          "name": "HDFC銀行",
+          "code": "BABA",
+          "name": "阿里巴巴",
           "market": "US",
-          "weight_pct": 5.042757099999999,
-          "cost_price": 28.394800651,
-          "current_price": 28.665,
-          "return_pct": 0.9515803999999999
+          "weight_pct": 10.0539082,
+          "cost_price": 89.574716012,
+          "current_price": 90.19,
+          "return_pct": 0.6868947000000001
         },
         {
-          "code": "DPZ",
-          "name": "達美樂比薩",
+          "code": "RKLB",
+          "name": "Rocket Lab",
           "market": "US",
-          "weight_pct": 4.9571616999999994,
-          "cost_price": 364.02,
-          "current_price": 361.02,
-          "return_pct": -0.8241305000000001
+          "weight_pct": 9.9882628,
+          "cost_price": 50.34,
+          "current_price": 50.245,
+          "return_pct": -0.1887167
+        },
+        {
+          "code": "SOXL",
+          "name": "三倍做多半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 5.0763969,
+          "cost_price": 34.855029384,
+          "current_price": 35.2518,
+          "return_pct": 1.1383454
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.0379078
+          "weight_pct": 89.01921630000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 73.82657929999999
-        },
-        {
-          "name": "商業貿易",
-          "weight_pct": 10.0558253
+          "weight_pct": 58.475208599999995
         },
         {
           "name": "計算機",
-          "weight_pct": 5.1555844
+          "weight_pct": 10.5018367
         },
         {
-          "name": "銀行",
-          "weight_pct": 5.042757099999999
+          "name": "商業貿易",
+          "weight_pct": 10.0539082
         },
         {
-          "name": "休閒服務",
-          "weight_pct": 4.9571616999999994
+          "name": "國防軍工",
+          "weight_pct": 9.9882628
         }
       ]
     },
@@ -115,50 +102,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-27T23:40:48+08:00",
-      "invested_pct": 99.1858106,
-      "cash_pct": 0.8141894000000036,
-      "weighted_return_pct": 7.443054662679653,
+      "updated_at": "2026-11-28T00:40:45+08:00",
+      "invested_pct": 99.1199519,
+      "cash_pct": 0.8800480999999962,
+      "weighted_return_pct": 8.298953461811445,
       "position_count": 3,
       "positions": [
         {
           "code": "SVIX",
           "name": "1倍做空短期期貨恐慌指數ETF",
           "market": "US",
-          "weight_pct": 69.9381822,
-          "cost_price": 15.712539082,
-          "current_price": 17.155,
-          "return_pct": 9.1803171
-        },
-        {
-          "code": "SVOL",
-          "name": "SIMPLIFY VOLATILITY PREMIUM ETF",
-          "market": "US",
-          "weight_pct": 19.379531,
-          "cost_price": 12.773243256,
-          "current_price": 13.3684,
-          "return_pct": 4.6594019
+          "weight_pct": 70.1487138,
+          "cost_price": 15.71329632,
+          "current_price": 17.48,
+          "return_pct": 11.2433677
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 9.8680974,
-          "cost_price": 77.02,
-          "current_price": 77.48,
-          "return_pct": 0.5972474999999999
+          "weight_pct": 18.9065893,
+          "cost_price": 77.170107652,
+          "current_price": 77.82,
+          "return_pct": 0.8421556
+        },
+        {
+          "code": "SOXL",
+          "name": "三倍做多半導體ETF-Direxion",
+          "market": "US",
+          "weight_pct": 10.0646488,
+          "cost_price": 34.64,
+          "current_price": 35.2582,
+          "return_pct": 1.7846420000000003
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1858106
+          "weight_pct": 99.1199519
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.1858106
+          "weight_pct": 99.1199519
         }
       ]
     }
