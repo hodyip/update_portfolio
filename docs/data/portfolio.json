@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T04:40:44+08:00",
-  "generated_at_utc": "2026-11-26T20:40:44+00:00",
+  "generated_at": "2026-11-27T21:40:46+08:00",
+  "generated_at_utc": "2026-11-27T13:40:46+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,17 +10,17 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-27T04:40:44+08:00",
-      "invested_pct": 99.47986029999998,
-      "cash_pct": 0.5201397000000156,
-      "weighted_return_pct": 0.6738291250441946,
-      "position_count": 6,
+      "updated_at": "2026-11-27T21:40:44+08:00",
+      "invested_pct": 98.93421190000001,
+      "cash_pct": 1.0657880999999918,
+      "weighted_return_pct": 0.11273045465467653,
+      "position_count": 7,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.4539805,
+          "weight_pct": 33.453935099999995,
           "cost_price": 100.569810343,
           "current_price": 100.68,
           "return_pct": 0.1095653
@@ -29,25 +29,34 @@
           "code": "BOXX",
           "name": "ALPHA ARCHITECT 1-3 MONTH BOX ETF",
           "market": "US",
-          "weight_pct": 30.440026599999996,
+          "weight_pct": 30.4399853,
           "cost_price": 119.06317942,
           "current_price": 119.22,
           "return_pct": 0.1317121
         },
         {
-          "code": "TLT",
-          "name": "20+年以上美國國債ETF-iShares",
+          "code": "KWEB",
+          "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 20.547867,
-          "cost_price": 80.06271061,
-          "current_price": 82.24,
-          "return_pct": 2.7194800000000003
+          "weight_pct": 10.001162800000001,
+          "cost_price": 0.0,
+          "current_price": 21.17,
+          "return_pct": 0.0
+        },
+        {
+          "code": "BABA",
+          "name": "阿里巴巴",
+          "market": "US",
+          "weight_pct": 10.001162800000001,
+          "cost_price": 0.0,
+          "current_price": 86.26,
+          "return_pct": 0.0
         },
         {
           "code": "CHKP",
           "name": "Check Point軟件",
           "market": "US",
-          "weight_pct": 5.0780777,
+          "weight_pct": 5.0780708,
           "cost_price": 161.335,
           "current_price": 163.77,
           "return_pct": 1.5092819
@@ -56,7 +65,7 @@
           "code": "HDB",
           "name": "HDFC銀行",
           "market": "US",
-          "weight_pct": 4.9915528,
+          "weight_pct": 4.9915461,
           "cost_price": 28.394800651,
           "current_price": 28.35,
           "return_pct": -0.1577777
@@ -65,7 +74,7 @@
           "code": "DPZ",
           "name": "達美樂比薩",
           "market": "US",
-          "weight_pct": 4.9683557,
+          "weight_pct": 4.968349,
           "cost_price": 364.02,
           "current_price": 361.53,
           "return_pct": -0.6840284
@@ -74,25 +83,29 @@
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.4798603
+          "weight_pct": 98.93421190000001
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 84.4418741
+          "weight_pct": 73.8950832
+        },
+        {
+          "name": "商業貿易",
+          "weight_pct": 10.001162800000001
         },
         {
           "name": "計算機",
-          "weight_pct": 5.0780777
+          "weight_pct": 5.0780708
         },
         {
           "name": "銀行",
-          "weight_pct": 4.9915528
+          "weight_pct": 4.9915461
         },
         {
           "name": "休閒服務",
-          "weight_pct": 4.9683557
+          "weight_pct": 4.968349
         }
       ]
     },
@@ -102,7 +115,7 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-27T04:40:44+08:00",
+      "updated_at": "2026-11-27T21:40:46+08:00",
       "invested_pct": 100.0,
       "cash_pct": 0.0,
       "weighted_return_pct": 5.4147182136473955,
