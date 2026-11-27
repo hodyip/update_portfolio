@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T00:40:45+08:00",
-  "generated_at_utc": "2026-11-27T16:40:45+00:00",
+  "generated_at": "2026-11-28T01:40:45+08:00",
+  "generated_at_utc": "2026-11-27T17:40:45+00:00",
   "timezone_label": "HKT",
   "stale_hours": 3.0,
   "portfolios": [
@@ -10,89 +10,98 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-28T00:40:44+08:00",
-      "invested_pct": 89.0192163,
-      "cash_pct": 10.980783700000003,
-      "weighted_return_pct": 0.3374014240342625,
-      "position_count": 6,
+      "updated_at": "2026-11-28T01:40:45+08:00",
+      "invested_pct": 99.01886939999999,
+      "cash_pct": 0.9811306000000144,
+      "weighted_return_pct": 0.22211176965373594,
+      "position_count": 7,
       "positions": [
         {
           "code": "SGOV",
           "name": "0-3月美國國債ETF-iShares",
           "market": "US",
-          "weight_pct": 33.426738099999994,
-          "cost_price": 100.569798337,
-          "current_price": 100.709,
-          "return_pct": 0.13841299999999998
+          "weight_pct": 33.4569289,
+          "cost_price": 100.569814683,
+          "current_price": 100.705,
+          "return_pct": 0.1344194
         },
         {
           "code": "KWEB",
           "name": "中國海外互聯網ETF-KraneShares",
           "market": "US",
-          "weight_pct": 19.9720736,
-          "cost_price": 22.184947759,
-          "current_price": 22.145,
-          "return_pct": -0.180067
+          "weight_pct": 19.983028,
+          "cost_price": 22.18493906,
+          "current_price": 22.135,
+          "return_pct": -0.22510339999999998
         },
         {
           "code": "CHKP",
           "name": "Check Point軟件",
           "market": "US",
-          "weight_pct": 10.5018367,
-          "cost_price": 164.046231232,
-          "current_price": 166.89,
-          "return_pct": 1.7335166999999998
+          "weight_pct": 10.5639848,
+          "cost_price": 164.044635685,
+          "current_price": 167.825,
+          "return_pct": 2.3044729999999998
+        },
+        {
+          "code": "GDX",
+          "name": "黃金礦業ETF-VanEck",
+          "market": "US",
+          "weight_pct": 10.038536200000001,
+          "cost_price": 77.87,
+          "current_price": 78.08,
+          "return_pct": 0.2696802
         },
         {
           "code": "BABA",
           "name": "阿里巴巴",
           "market": "US",
-          "weight_pct": 10.0539082,
-          "cost_price": 89.574716012,
-          "current_price": 90.19,
-          "return_pct": 0.6868947000000001
+          "weight_pct": 10.0271265,
+          "cost_price": 89.574608165,
+          "current_price": 89.891,
+          "return_pct": 0.353216
         },
         {
           "code": "RKLB",
           "name": "Rocket Lab",
           "market": "US",
-          "weight_pct": 9.9882628,
-          "cost_price": 50.34,
-          "current_price": 50.245,
-          "return_pct": -0.1887167
+          "weight_pct": 9.9561509,
+          "cost_price": 50.340009746,
+          "current_price": 50.05,
+          "return_pct": -0.5761019000000001
         },
         {
           "code": "SOXL",
           "name": "三倍做多半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 5.0763969,
-          "cost_price": 34.855029384,
-          "current_price": 35.2518,
-          "return_pct": 1.1383454
+          "weight_pct": 4.9931141,
+          "cost_price": 34.854878891,
+          "current_price": 34.655,
+          "return_pct": -0.5734602999999999
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 89.01921630000001
+          "weight_pct": 99.0188694
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 58.475208599999995
+          "weight_pct": 68.4716072
         },
         {
           "name": "計算機",
-          "weight_pct": 10.5018367
+          "weight_pct": 10.5639848
         },
         {
           "name": "商業貿易",
-          "weight_pct": 10.0539082
+          "weight_pct": 10.0271265
         },
         {
           "name": "國防軍工",
-          "weight_pct": 9.9882628
+          "weight_pct": 9.9561509
         }
       ]
     },
@@ -102,50 +111,50 @@
       "ok": true,
       "error": null,
       "stale": false,
-      "updated_at": "2026-11-28T00:40:45+08:00",
-      "invested_pct": 99.1199519,
-      "cash_pct": 0.8800480999999962,
-      "weighted_return_pct": 8.298953461811445,
+      "updated_at": "2026-11-28T01:40:45+08:00",
+      "invested_pct": 99.1222419,
+      "cash_pct": 0.8777580999999941,
+      "weighted_return_pct": 8.62176793344348,
       "position_count": 3,
       "positions": [
         {
           "code": "SVIX",
           "name": "1倍做空短期期貨恐慌指數ETF",
           "market": "US",
-          "weight_pct": 70.1487138,
+          "weight_pct": 70.3264278,
           "cost_price": 15.71329632,
-          "current_price": 17.48,
-          "return_pct": 11.2433677
+          "current_price": 17.57,
+          "return_pct": 11.816131
         },
         {
           "code": "GDX",
           "name": "黃金礦業ETF-VanEck",
           "market": "US",
-          "weight_pct": 18.9065893,
+          "weight_pct": 18.9276682,
           "cost_price": 77.170107652,
-          "current_price": 77.82,
-          "return_pct": 0.8421556
+          "current_price": 78.11,
+          "return_pct": 1.2179487
         },
         {
           "code": "SOXL",
           "name": "三倍做多半導體ETF-Direxion",
           "market": "US",
-          "weight_pct": 10.0646488,
+          "weight_pct": 9.8681459,
           "cost_price": 34.64,
-          "current_price": 35.2582,
-          "return_pct": 1.7846420000000003
+          "current_price": 34.66,
+          "return_pct": 0.057736699999999995
         }
       ],
       "by_market": [
         {
           "name": "美股",
-          "weight_pct": 99.1199519
+          "weight_pct": 99.12224189999999
         }
       ],
       "by_industry": [
         {
           "name": "其他",
-          "weight_pct": 99.1199519
+          "weight_pct": 99.12224189999999
         }
       ]
     }
